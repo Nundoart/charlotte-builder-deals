@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charlotte-builder-deals.vercel.app/sitemap.xml
