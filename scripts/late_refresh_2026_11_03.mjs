@@ -19,9 +19,9 @@ update('mattamy-design-options', {
 });
 
 update('mattamy-tbb-closing-costs-oct31', {
-  detail: "Mattamy's renewed Your Home Your Way promotion provides up to 4% of the total purchase price toward closing costs on select to-be-built homes at Blair Place, Bratton Pointe, Waxhaw Landing and Westfall. Eligible uses may include discount points and a temporary buydown fund. Contracts must be entered October 1–November 6, 2026 and eligible homes must close by April 30, 2027. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Maximum seller-contribution and underwriting limits apply; the offer generally cannot be combined except where expressly stated in the purchase-agreement addendum. The public terms do not publish a specific rate, APR, loan type, credit score, down payment or eligible-homesite list, so those remain unavailable.",
-  end: '2026-11-06',
-  terms: 'Up to 4% of purchase price · contract Oct. 1–Nov. 6 · close by Apr. 30, 2027 · select to-be-built homes',
+  detail: "Mattamy's renewed Your Home Your Way promotion provides up to 4% of the total purchase price toward closing costs on select to-be-built homes at Blair Place, Bratton Pointe, Waxhaw Landing and Westfall. Eligible uses may include discount points and a temporary buydown fund. Contracts must be entered October 1–November 15, 2026 and eligible homes must close by April 30, 2027. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Maximum seller-contribution and underwriting limits apply; the offer generally cannot be combined except where expressly stated in the purchase-agreement addendum. The public terms do not publish a specific rate, APR, loan type, credit score, down payment or eligible-homesite list, so those remain unavailable.",
+  end: '2026-11-15',
+  terms: 'Up to 4% of purchase price · contract Oct. 1–Nov. 15 · close by Apr. 30, 2027 · select to-be-built homes',
   access: 'Full current official promotion and controlling legal terms reviewed',
 });
 
@@ -188,7 +188,7 @@ const reportItems = [...changeById].map(([id, change]) => {
 });
 reviews.reports.push({
   checked_at: checkedAt,
-  summary: 'Late November 3 verification reconciled current official terms into the live comparison. Mattamy design and closing offers now run through November 6, with Heroes through December 31, 2027. M/I Home Sweet Savings financing and closing-cost terms now run through December 1. Three current Taylor Morrison incentives and two exact-address community pins were added. DRB Flex Cash was removed from the active comparison because its current page no longer reproduces the offer. D.R. Horton now reports 30 communities and conflicting official home totals of 244 versus 334, adds Ashenwood Commons as Coming Soon and retains Falls Cove as Sold Out. All unavailable fields remain explicitly unavailable.',
+  summary: 'Late November 3 verification reconciled current official terms into the live comparison. Mattamy design options run through November 6, its up-to-4% closing-cost offer runs through November 15, and Heroes runs through December 31, 2027. M/I Home Sweet Savings financing and closing-cost terms now run through December 1. Three current Taylor Morrison incentives and two exact-address community pins were added. DRB Flex Cash was removed from the active comparison because its current page no longer reproduces the offer. D.R. Horton now reports 30 communities and conflicting official home totals of 244 versus 334, adds Ashenwood Commons as Coming Soon and retains Falls Cove as Sold Out. All unavailable fields remain explicitly unavailable.',
   items: reportItems,
 });
 fs.writeFileSync(reviewsPath, JSON.stringify(reviews, null, 2) + '\n');
