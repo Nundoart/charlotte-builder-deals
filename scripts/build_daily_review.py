@@ -86,7 +86,7 @@ if 'id="coverage-drh"' not in index:
     )
 index = re.sub(
     r'(<a id="coverage-drh"[^>]*>.*?<b>D\.R\. Horton</b><br><small>).*?(</small></a>)',
-    r'\g<1>29 communities verified · official home count conflicts at 248 vs. 360\g<2>',
+    r'\g<1>30 communities verified · official home count conflicts at 245 vs. 334\g<2>',
     index,
     count=1,
     flags=re.S,
@@ -125,6 +125,14 @@ server_cards = ''.join(offer_card(offer, index) for index, offer in active_offer
 # when the embedded preview is blocked by a browser's privacy settings.
 map_pins = []
 seen_pins = set()
+builder_colors = {
+    'Meritage Homes': '#2563eb',
+    'Smith Douglas Homes': '#dc2626',
+    'David Weekley Homes': '#0f766e',
+    'D.R. Horton': '#7c3aed',
+    'Taylor Morrison': '#d97706',
+    'True Homes': '#059669',
+}
 for offer in latest_offers['offers']:
     for source in offer.get('extraSources', []):
         if source.get('name') != 'Google Maps directions':
@@ -140,10 +148,11 @@ for offer in latest_offers['offers']:
             'community': community,
             'address': query,
             'url': source['url'],
+            'color': builder_colors.get(offer['b'], '#64748b'),
         })
 map_pins.sort(key=lambda pin: (pin['builder'], pin['community']))
 pin_buttons = ''.join(
-    f'<button class="mapPin" type="button" data-map-query="{e(pin["address"])}" style="text-align:left;border:1px solid var(--line);background:#f8fafc;border-radius:9px;padding:12px;color:var(--ink)"><b style="display:block">{e(pin["community"])}</b><small style="display:block;color:var(--muted);margin-top:3px">{e(pin["builder"])} · {e(pin["address"])}</small></button>'
+    f'<button class="mapPin" type="button" data-map-query="{e(pin["address"])}" style="text-align:left;border:1px solid var(--line);border-left:6px solid {e(pin["color"])};background:#f8fafc;border-radius:9px;padding:12px;color:var(--ink)"><b style="display:block">{e(pin["community"])}</b><small style="display:block;color:var(--muted);margin-top:3px">{e(pin["builder"])} · {e(pin["address"])}</small></button>'
     for pin in map_pins
 )
 pin_links = ''.join(
