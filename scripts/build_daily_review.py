@@ -86,7 +86,7 @@ if 'id="coverage-drh"' not in index:
     )
 index = re.sub(
     r'(<a id="coverage-drh"[^>]*>.*?<b>D\.R\. Horton</b><br><small>).*?(</small></a>)',
-    r'\g<1>30 communities verified · official home count conflicts at 245 vs. 334\g<2>',
+    r'\g<1>30 communities verified · official home count conflicts at 246 vs. 336\g<2>',
     index,
     count=1,
     flags=re.S,
@@ -237,7 +237,11 @@ index = re.sub(
 index = re.sub(r'const RESEARCH_DATE="[^"]+";', f'const RESEARCH_DATE="{reviewed}";', index)
 index = re.sub(r'const deals=\[.*?\];\nconst \$=', f'const deals={deals_json};\nconst $=', index, flags=re.S)
 index = re.sub(r'Reviewed [A-Z][a-z]+ \d{1,2}, 2026', f'Reviewed {reviewed_human}', index)
-index = re.sub(r'<b id="dealCount">\d+</b><span>[^<]+</span>', f'<b id="dealCount">{sum(bool(o.get("tags")) and (not o.get("end") or o["end"] >= reviewed) for o in latest_offers["offers"])}</b><span>published offers</span>', index)
+index = re.sub(
+    r'<b id="dealCount">\d+</b><span>[^<]+</span>',
+    f'<b id="dealCount">{sum(o.get("kind") == "official" and bool(o.get("tags")) and (not o.get("end") or o["end"] >= reviewed) for o in latest_offers["offers"])}</b><span>published offers</span>',
+    index,
+)
 index = index.replace('Realtor reports and social excerpts remain unconfirmed. Missing deadlines stay labeled; expired offers are hidden by default.', 'Only current official builder pages and public builder listings appear in the live comparison. Missing terms stay labeled unavailable; expired offers are hidden by default.')
 index = index.replace('Source-linked offers and leads. Check each deadline and evidence label.', 'Current builder-source offers only. Check each deadline and eligibility label.')
 index = index.replace('offers and leads · researched', 'verified offers · researched')
