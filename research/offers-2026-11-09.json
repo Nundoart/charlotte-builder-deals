@@ -1,0 +1,3086 @@
+{
+  "reviewed": "2026-11-09",
+  "method": "Current official builder pages and current search-indexed official builder listings only. Third-party claims are excluded; unavailable terms are not inferred.",
+  "offers": [
+    {
+      "id": "true-preferred-lender-credit",
+      "b": "True Homes",
+      "c": "Charlotte-region financing",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "$2,000 preferred-lender credit",
+      "tags": [
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.truehomes.com/faqs",
+      "sourceName": "True Homes",
+      "detail": "True Homes' current official FAQ states that choosing a preferred lender includes a $2,000 lender credit that may offset closing costs or cash-to-close expenses. The separate financing page identifies More Life Mortgage as a preferred lender and says buyers are not required to use it to purchase a True home; it also advertises rate locks up to 180 days with no upfront fees and a conditional float-down if market rates fall. Neither page publishes a promotional note rate, APR, credit-score requirement, eligible-property list, expiration date or complete qualification and stacking rules. Those terms remain unavailable rather than inferred.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 2000,
+      "loan": "Conventional, VA, FHA, USDA and specialty products listed; rate lock up to 180 days and conditional float-down available",
+      "lender": "A True Homes preferred lender is required for the credit; More Life Mortgage is identified as a preferred lender, but use is not required to purchase",
+      "flags": [],
+      "terms": "$2,000 toward closing costs or cash to close · rate, APR, score, eligible homes and deadline unavailable",
+      "access": "Full official FAQ and financing pages reviewed",
+      "extraSources": [
+        {
+          "name": "True Homes financing",
+          "url": "https://www.truehomes.com/financing",
+          "note": "Official preferred-lender, rate-lock, float-down and loan-product details"
+        },
+        {
+          "name": "True Homes Charlotte",
+          "url": "https://www.truehomes.com/new-construction-homes/nc/charlotte",
+          "note": "Official Charlotte-area builder and community-search page"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "drb-charlotte-flex-cash-dec31",
+      "b": "DRB Homes",
+      "c": "Select Charlotte-region inventory homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [
+        "Mecklenburg",
+        "York",
+        "Iredell",
+        "Gaston"
+      ],
+      "offer": "Unavailable: prior up to $25,000 Flex Cash + appliance/blinds package",
+      "tags": [
+        "closing",
+        "rate",
+        "price",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte/leigh-park/overview",
+      "sourceName": "DRB Homes",
+      "detail": "DRB Homes' official Leigh Park page no longer publishes the tiered Flex Cash or appliance-and-blinds promotion that appeared during the November 7 review. Because the current source no longer supports those terms, the record is retained only for audit history and hidden from the active comparison as of November 9. The site does not infer that the offer was canceled or that a particular buyer lost contracted benefits; it reports only that the public terms are unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-11-08",
+      "start": "2026-09-24",
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 25000,
+      "loan": "Flex Cash may fund closing costs, discount points, temporary buydown, design options or price reduction; lender-specific limits apply",
+      "lender": "Lender choice is unrestricted; a DRB-approved settlement agent is required",
+      "flags": [
+        "move"
+      ],
+      "terms": "No longer published on the current official page · withdrawal/expiration date unavailable · confirm directly with DRB",
+      "access": "Current official Leigh Park page reviewed November 9; prior promotion terms are no longer present",
+      "extraSources": [
+        {
+          "name": "Leigh Park",
+          "url": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte/leigh-park/overview",
+          "note": "Current official promotion, legal terms and Final Opportunity status"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Leigh Park · Final Opportunity",
+          "url": "https://www.google.com/maps/search/?api=1&query=2209+Gladwyne+Place%2C+Charlotte%2C+NC+28269",
+          "note": "Exact sales-office address published by DRB Homes"
+        },
+        {
+          "name": "DRB Charlotte communities",
+          "url": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte",
+          "note": "Current regional directory and financing disclosure"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "drb-charlotte-fha-arm-current",
+      "b": "DRB Homes",
+      "c": "Select Charlotte-region homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [
+        "Mecklenburg",
+        "York",
+        "Iredell",
+        "Gaston"
+      ],
+      "offer": "4.99% FHA 5/1 ARM · 6.679% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte",
+      "sourceName": "DRB Homes",
+      "detail": "DRB Homes' current Charlotte directory publishes an Acrisure Mortgage illustration for a 30-year FHA 5/1 ARM at 4.99% with a 6.679% APR. The rate is fixed for five years, then may adjust annually using the one-year Treasury CMT plus a 2.00% margin, with 1% first and periodic caps, a 5% lifetime cap and 9.99% maximum rate. The illustration uses a $400,000 sales price, 3.5% down, $392,755 loan amount and minimum 640 FICO; exceptions may apply for lower scores. It is a builder-paid forward commitment for government loans only and is subject to fund availability, full approval, rate lock and closing before the commitment expires. The public page does not publish the forward-commitment expiration date, complete eligible-home list, exact funded amount or stacking rule, so those terms remain unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "start": null,
+      "end": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.679,
+      "amount": null,
+      "loan": "30-year FHA 5/1 ARM · 3.5% down illustration · owner/property approval required",
+      "lender": "Acrisure Mortgage · full approval and rate lock required",
+      "flags": [],
+      "terms": "Minimum 640 FICO · government loans only · forward-commitment funds and expiration not published · exact eligible homes unavailable",
+      "access": "Current official regional directory and full financing disclosure reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "drb-charlotte-community-status-current",
+      "b": "DRB Homes",
+      "c": "Charlotte regional communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [
+        "Mecklenburg",
+        "York",
+        "Iredell",
+        "Gaston"
+      ],
+      "offer": "Community update · Leigh Park Final Opportunity · River Point and Withrow Heights Coming Soon",
+      "tags": [
+        "status"
+      ],
+      "kind": "official",
+      "source": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte",
+      "sourceName": "DRB Homes",
+      "detail": "DRB's current Charlotte directory lists active communities including Bell Glen, Odell Park, Greenway Overlook, Brook Run, Farms at Bellingham, Lakeside Glen, River District Townhomes, Michaux Gardens, Miller Farm, McBride and River District Single Family Homes. Leigh Park is labeled Final Opportunity with two move-in-ready homes shown. River Point Single Family Homes and Withrow Heights are labeled Coming Soon and publish Fall 2026 opening language; because November has arrived, the site preserves the builder's label rather than inferring an opening. Exact builder-published addresses for Leigh Park, River Point and Withrow Heights are included on the map.",
+      "checked": "2026-11-09",
+      "published": null,
+      "start": null,
+      "end": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Not applicable",
+      "lender": "Not applicable",
+      "flags": [],
+      "terms": "Current official directory and community pages · no sold-out Charlotte-region DRB community identified in this review",
+      "access": "Current official regional directory and community pages reviewed November 9",
+      "extraSources": [
+        {
+          "name": "Leigh Park",
+          "url": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte/leigh-park/overview",
+          "note": "Final Opportunity with two move-in-ready homes"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Leigh Park · Final Opportunity",
+          "url": "https://www.google.com/maps/search/?api=1&query=2209+Gladwyne+Place%2C+Charlotte%2C+NC+28269",
+          "note": "Exact sales-office address published by DRB Homes"
+        },
+        {
+          "name": "River Point Single Family Homes",
+          "url": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte/river-point-single-family-homes/overview",
+          "note": "Coming Soon / Opening Fall 2026"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "River Point · Coming Soon",
+          "url": "https://www.google.com/maps/search/?api=1&query=6104+Upriver+Road%2C+Charlotte%2C+NC+28278",
+          "note": "Exact sales-office address published by DRB Homes"
+        },
+        {
+          "name": "Withrow Heights",
+          "url": "https://www.drbhomes.com/drbhomes/find-your-home/communities/north-carolina/charlotte/withrow-heights/overview",
+          "note": "Coming Soon / Opening Fall 2026"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Withrow Heights · Coming Soon",
+          "url": "https://www.google.com/maps/search/?api=1&query=2427+Wallflower+Court%2C+Charlotte%2C+NC+28262",
+          "note": "Exact sales-office address published by DRB Homes"
+        }
+      ],
+      "deadlineType": "Status checked",
+      "tag": "status"
+    },
+    {
+      "id": "pulte-hometown-heroes",
+      "b": "Pulte Homes",
+      "c": "Parkside Crossing",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "$2,000 Hometown Heroes savings",
+      "tags": [
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/parkside-crossing-210813",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's Parkside Crossing page advertises an additional $2,000 in savings for active teachers, nurses, EMS personnel, police officers, firefighters, active military and retired military. The page does not state whether the savings are a price reduction, closing-cost credit or another concession, and it does not publish a lender requirement, loan condition, contract deadline or closing deadline. Those terms are marked unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 2000,
+      "loan": "No loan requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [],
+      "terms": "Eligible teachers, nurses, EMS, police, firefighters and military · deadline unavailable",
+      "access": "Current official Parkside Crossing page reviewed",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "price"
+    },
+    {
+      "id": "pulte-elmbrook-fixed-5875",
+      "b": "Pulte Homes",
+      "c": "Elmbrook · Leyton homesite 00900",
+      "city": "Indian Trail, NC",
+      "counties": [
+        "Union"
+      ],
+      "offer": "Removed: prior 5.875% fixed · 6.154% APR · $32,630 savings",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/matthews/elmbrook-211380/leyton-699579/1153528",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's current official quick-move-in page for the Leyton at 1202 Chasity Trails Court no longer displays the prior 5.875% 30-year fixed rate, 6.154% APR or $32,630 savings panel. Because the current builder page does not support those terms, the prior record is marked removed and hidden from the active comparison rather than carried forward. No replacement promotional rate, APR, savings amount, contract deadline or closing deadline is published on the current listing.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-27",
+      "start": null,
+      "close": null,
+      "rate": 5.875,
+      "apr": 6.154,
+      "amount": 32630,
+      "loan": "30-year fixed · mortgage type, down payment, credit-score minimum and owner-occupancy rule not stated in the offer panel",
+      "lender": "Not stated in the offer panel; page disclosure says Pulte Mortgage is required for BFC rates when identified",
+      "flags": [
+        "move"
+      ],
+      "terms": "Prior homesite-specific financing and savings panel no longer displayed · no replacement terms published",
+      "access": "Current official quick-move-in listing reviewed; prior offer panel is no longer present",
+      "extraSources": [
+        {
+          "name": "Elmbrook community",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/matthews/elmbrook-211380",
+          "note": "Official community inventory page"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "pulte-charlotte-qmi-extras",
+      "b": "Pulte Homes",
+      "c": "Select Charlotte-area quick move-ins",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Expired: limited-time quick-move-in extras · ended Oct. 25",
+      "tags": [
+        "upgrade",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/parkside-crossing-210813",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's official Charlotte-area community and quick-move-in pages still display limited-time extras that may include appliances, blinds, designer finishes, garage upgrades, smart-home features, special financing and more, but the controlling offer deadline was October 25, 2026. No replacement deadline or extension is published. Benefits vary by home and community. The pages do not publish a universal dollar value, lender or loan requirement, credit-score requirement, complete eligible-address list, closing deadline or stacking rule, so those terms remain unavailable. This expired promotion is retained in the audit history and hidden from the default comparison.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-25",
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Special financing may be included; rate, APR and loan conditions vary and are not stated",
+      "lender": "No universal lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select quick move-ins · offer ends Oct. 25 · benefits vary by home and community",
+      "access": "Current official community and quick-move-in offer panels reviewed",
+      "extraSources": [
+        {
+          "name": "Mallard Park",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
+          "note": "Official page displays the Oct. 25 limited-time extras offer"
+        },
+        {
+          "name": "Galloway Towns",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/galloway-towns-211243",
+          "note": "Official page displays the Oct. 25 limited-time extras offer"
+        },
+        {
+          "name": "Forest Creek",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/waxhaw/forest-creek-211297",
+          "note": "Official page displays the Oct. 25 limited-time extras offer"
+        },
+        {
+          "name": "Riverstone",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/monroe/riverstone-211188",
+          "note": "Official page displays the Oct. 25 limited-time extras offer"
+        },
+        {
+          "name": "Michaux Gardens",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/belmont/michaux-gardens-211685",
+          "note": "Official quick-move-in pages display the Oct. 25 limited-time extras offer"
+        },
+        {
+          "name": "Elmbrook",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/matthews/elmbrook-211380",
+          "note": "Official page displays the Oct. 25 limited-time extras offer"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "pulte-west-end-heights-arm",
+      "b": "Pulte Homes",
+      "c": "West End Heights",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "4.75% Conventional 7/6 ARM · 5.836%–5.848% APR · up to $73,000 savings",
+      "tags": [
+        "rate",
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/west-end-heights-211572",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's current West End Heights page advertises a 4.75% Conventional 7/6 adjustable-rate mortgage on select quick move-in townhomes. The rate is fixed for the first seven years and adjusts every six months beginning in year eight. Published APRs now vary by homesite from 5.836% to 5.848%. The same current listings show price savings of $61,000 to $73,000 compared with their prior displayed prices. The financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, a 780 FICO illustration, 20% down for Conventional financing and application of available incentives toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase the home. The public page does not state the contract deadline, closing deadline, complete eligible-homesite list, adjustment caps, index and margin, owner-occupancy rule or stacking terms, so those remain unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": 4.75,
+      "apr": 5.836,
+      "amount": 73000,
+      "loan": "Conventional 7/6 ARM · 20% down and 780 FICO used in published illustration · fixed seven years then adjusts every six months",
+      "lender": "Pulte Mortgage required for the BFC rate; not required to purchase",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select West End Heights quick move-ins · APR and savings vary by homesite · contract and closing deadlines unavailable",
+      "access": "Current official community, quick move-in listings and financing disclosure reviewed",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "pulte-galloway-riverstone-arm",
+      "b": "Pulte Homes",
+      "c": "Riverstone · Galloway Towns",
+      "city": "Charlotte & Monroe, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union"
+      ],
+      "offer": "Riverstone: 4.75% Conventional 7/6 ARM · 5.812%–5.868% APR · up to $30,000 savings · Galloway: $35,000 savings",
+      "tags": [
+        "rate",
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/monroe/riverstone-211188",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's current Riverstone inventory publishes a 4.75% Conventional 7/6 adjustable-rate mortgage on multiple quick move-ins. The rate is fixed for the first seven years and adjusts every six months beginning in year eight; current homesite APRs range from 5.812% to 5.868%, and rate-tagged homes show up to $30,000 in price savings. Galloway Towns currently shows $35,000 in price savings on two available Cooper homes and a generic below-market-rate panel, but no current homesite rate or APR is published there, so those financing fields are unavailable rather than inferred. Pulte's financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, a 780 FICO illustration, 20% down for Conventional financing and application of available incentives toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase. Contract and closing deadlines, adjustment caps, index and margin, owner-occupancy rule and stacking terms remain unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": 4.75,
+      "apr": 5.812,
+      "amount": 35000,
+      "loan": "Conventional 7/6 ARM · 20% down and 780 FICO used in published illustration · fixed seven years then adjusts every six months",
+      "lender": "Pulte Mortgage required for the BFC rate; not required to purchase",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select Riverstone quick move-ins · Galloway rate terms unavailable · APR and savings vary by homesite · contract and closing deadlines unavailable",
+      "access": "Current official quick move-in listings and financing disclosures reviewed",
+      "extraSources": [
+        {
+          "name": "Galloway Towns quick move-in",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/galloway-towns-211243/cooper-698083/1153500",
+          "note": "Official page publishes $35,000 savings on two available Cooper homes and a generic below-market-rate panel; current rate and APR unavailable"
+        },
+        {
+          "name": "Galloway Towns community",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/galloway-towns-211243",
+          "note": "Official community inventory page"
+        },
+        {
+          "name": "Riverstone community",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/monroe/riverstone-211188",
+          "note": "Official community inventory page"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "pulte-mallard-park-arm",
+      "b": "Pulte Homes",
+      "c": "Mallard Park · select quick move-ins",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "4.990% Conventional 7/6 ARM · 5.968%–5.992% APR · up to $20,000 savings on rate-tagged homes",
+      "tags": [
+        "rate",
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's current official Mallard Park inventory displays a 4.990% Conventional 7/6 ARM on select quick move-ins, with published homesite APRs from 5.968% to 5.992% and up to $20,000 in price savings on the current rate-tagged homes. The rate is fixed for seven years and then adjusts every six months. A separate current listing shows $27,500 in price savings without an advertised rate, so that amount is not combined with the mortgage offer. The financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, uses a 780 FICO and 20% down Conventional illustration, and says available incentives may be applied toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase. A contract deadline, closing deadline, adjustment caps, index and margin, owner-occupancy rule and stacking terms remain unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 5.968,
+      "amount": 20000,
+      "loan": "Conventional 7/6 ARM · 20% down and 780 FICO used in published illustration · fixed seven years then adjusts every six months",
+      "lender": "Pulte Mortgage required for the BFC rate; not required to purchase",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select Mallard Park quick move-ins · up to $20,000 savings on current rate-tagged homes · contract and closing deadlines unavailable",
+      "access": "Current official Mallard Park inventory cards and financing disclosures reviewed November 9",
+      "extraSources": [
+        {
+          "name": "Mallard Park",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
+          "note": "Official community inventory page"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "pulte-mallard-park-choice-20k",
+      "b": "Pulte Homes",
+      "c": "Mallard Park · select quick move-ins",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Up to $20,000 to use as your choice",
+      "tags": [
+        "price",
+        "closing",
+        "rate",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
+      "sourceName": "Pulte Homes",
+      "detail": "Pulte's current official Mallard Park pages advertise up to $20,000 for the buyer to use as their choice on select quick-move-in homes. The public offer panel does not define the permitted uses, eligible homesites, lender requirement, loan conditions, credit score, contract deadline, closing deadline or whether it may be combined with the separate homesite-specific mortgage rates and price savings. Those terms remain unavailable, and the amounts are not combined in this comparison.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 20000,
+      "loan": "No loan type, rate, APR, credit-score requirement or financing condition stated",
+      "lender": "No lender requirement stated in the offer panel",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select Mallard Park quick move-ins · permitted uses, deadline and stacking unavailable",
+      "access": "Current official Mallard Park inventory cards reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "price"
+    },
+    {
+      "id": "lennar-black-friday-oct25",
+      "b": "Lennar",
+      "c": "Black Friday Sales Event · select greater-Charlotte homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: 4.500% FHA 5/1 ARM · 7.529% APR · up to $7,500 closing costs",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.lennar.com/new-homes/north-carolina/charlotte/promo/gallen_blackfriday26",
+      "sourceName": "Lennar",
+      "detail": "Lennar's Charlotte Black Friday Sales Event advertised a 4.500% FHA 5/1 ARM with a 7.529% APR and up to $7,500 toward closing costs on select greater-Charlotte homes. The controlling purchase-agreement deadline was October 25, 2026, so the offer is now expired and hidden from the default comparison. The rate was fixed for the first five years and adjusted annually beginning in year six; buyers also had to close by November 24 and finance through Lennar Mortgage. Lennar's current Charlotte inventory page now promotes a Fall Super Sale instead, without publishing a universal rate, APR or closing-cost amount.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-25",
+      "start": "2026-10-19",
+      "close": "2026-11-24",
+      "rate": 4.5,
+      "apr": 7.529,
+      "amount": 7500,
+      "loan": "FHA 5/1 ARM · fixed first five years · annual adjustment beginning year six · down payment, credit score, adjustment caps and owner-occupancy terms unavailable",
+      "lender": "Lennar Mortgage required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase agreement Oct. 19–25 · close by Nov. 24 · select greater-Charlotte homes · stacking unavailable",
+      "access": "Full current official promotion page and disclosure reviewed",
+      "extraSources": [
+        {
+          "name": "Lennar Charlotte",
+          "url": "https://www.lennar.com/new-homes/north-carolina/charlotte",
+          "note": "Current Charlotte regional inventory and community page"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "lennar-black-friday-nov2-nov8-rate",
+      "b": "Lennar",
+      "c": "Black Friday Sales Event · select greater-Charlotte homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: 3.990% FHA 5/1 ARM · 7.053% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.lennar.com/new-homes/north-carolina/charlotte/promo/gallen_blackfriday26",
+      "sourceName": "Lennar",
+      "detail": "Lennar's official Charlotte promotion page still reproduces the 3.990% FHA 5/1 ARM and 7.053% APR disclosure, but the controlling contract window ended November 8, 2026. The offer is therefore retained in audit history and hidden from the active comparison. The prior terms required Lennar Mortgage, a purchase agreement dated November 2–8, 2026 and closing by November 24, 2026. No replacement Charlotte offer was posted on the official page when checked November 9.",
+      "checked": "2026-11-09",
+      "published": null,
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "close": "2026-11-24",
+      "rate": 3.99,
+      "apr": 7.053,
+      "amount": null,
+      "loan": "FHA 5/1 ARM · fixed first five years · annual adjustment beginning year six · other qualification terms unavailable",
+      "lender": "Lennar Mortgage required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Advertised contract window ended Nov. 8 · prior closing deadline Nov. 24 · Lennar Mortgage required · no replacement posted",
+      "access": "Current official promotion page reviewed November 9; controlling contract deadline has passed",
+      "extraSources": [
+        {
+          "name": "Lennar Charlotte",
+          "url": "https://www.lennar.com/new-homes/north-carolina/charlotte",
+          "note": "Current Charlotte regional inventory and community page"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "lennar-fall-super-sale",
+      "b": "Lennar",
+      "c": "Fall Super Sale · select Charlotte-area homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Fall Super Sale · home-specific price reductions",
+      "tags": [
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.lennar.com/new-homes/north-carolina/charlotte",
+      "sourceName": "Lennar",
+      "detail": "Lennar's current official Charlotte inventory page promotes a Fall Super Sale and displays price reductions on selected move-in-ready homes. Savings vary by address and inventory release; the regional page does not publish a universal maximum discount, contract deadline, closing deadline, lender requirement, loan type, rate, APR, credit-score requirement, down payment or stacking rule. Those terms remain unavailable rather than inferred from individual listings.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No promotional loan type, rate, APR, score or down payment published",
+      "lender": "No lender requirement stated for the displayed price reductions",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select move-in-ready homes · savings vary by address · deadline and stacking unavailable",
+      "access": "Current official Charlotte regional inventory and Homes of the Week pages reviewed",
+      "extraSources": [
+        {
+          "name": "Lennar Charlotte Homes of the Week",
+          "url": "https://www.lennar.com/new-homes/north-carolina/charlotte/homes-of-the-week",
+          "note": "Official page lists selected Charlotte-area homes and displayed price reductions"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "price"
+    },
+    {
+      "id": "mi-game-time-fha",
+      "b": "M/I Homes",
+      "c": "Game Time · participating Charlotte communities",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Expired: 5.25% FHA fixed · 6.039% APR · up to 4% closing costs",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/game-time",
+      "sourceName": "M/I Homes",
+      "detail": "M/I Homes' official Game Time page still displays the 5.25% FHA fixed rate, 6.039% APR and up-to-4% closing-cost incentive, but the controlling contract deadline was October 11, 2026. The offer required M/I Financial, 3.5% down, a 640 minimum FICO, owner occupancy and application within 48 hours, with closing by December 31. M/I has since published a new Home Sweet Savings promotion with separate current terms. This expired Game Time offer is retained in the audit history and hidden from the default comparison.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-11",
+      "start": "2026-09-24",
+      "close": "2026-12-31",
+      "rate": 5.25,
+      "apr": 6.039,
+      "amount": null,
+      "loan": "FHA · 30-year fixed · 3.5% down · 640 minimum FICO · owner occupied",
+      "lender": "M/I Financial",
+      "flags": [
+        "move"
+      ],
+      "terms": "Expired Oct. 11 · close by Dec. 31 · up to 4% allowable closing costs",
+      "access": "Official expired Game Time page and current Charlotte incentive directory reviewed",
+      "extraSources": [
+        {
+          "name": "M/I Home Sweet Savings",
+          "url": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/home-sweet-savings-2026",
+          "note": "Current replacement promotion with separately published rate and closing-cost terms"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mi-game-time-arm",
+      "b": "M/I Homes",
+      "c": "Game Time · participating Charlotte communities",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Expired: 4.875% Conventional 7/6 ARM · 5.763% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/game-time",
+      "sourceName": "M/I Homes",
+      "detail": "M/I Homes' official Game Time page still displays the 4.875% Conventional 7/6 ARM with a 5.763% APR, but its controlling contract deadline was October 11, 2026. The offer required M/I Financial, 20% down, owner occupancy and application within 48 hours, with closing by November 30. M/I has since published a new Home Sweet Savings promotion with a current ARM carrying the same advertised rate and APR but a new contract window. This expired Game Time offer is retained in the audit history and hidden from the default comparison.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-11",
+      "start": "2026-09-24",
+      "close": "2026-11-30",
+      "rate": 4.875,
+      "apr": 5.763,
+      "amount": null,
+      "loan": "Conventional 7/6 ARM · 30-year term · 20% down · owner occupied",
+      "lender": "M/I Financial",
+      "flags": [
+        "move"
+      ],
+      "terms": "Expired Oct. 11 · close by Nov. 30 · ARM caps published",
+      "access": "Official expired Game Time page and current Charlotte incentive directory reviewed",
+      "extraSources": [
+        {
+          "name": "M/I Home Sweet Savings",
+          "url": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/home-sweet-savings-2026",
+          "note": "Current replacement promotion with a new contract window"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mi-home-sweet-fha",
+      "b": "M/I Homes",
+      "c": "Home Sweet Savings · 11 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: 5.25% FHA fixed · 6.039% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/home-sweet-savings-2026",
+      "sourceName": "M/I Homes",
+      "detail": "M/I Homes' previously published Home Sweet Savings disclosure set a November 8, 2026 contract deadline for the 5.25% FHA fixed rate and 6.039% APR. On November 9 the official URL resolves only to a generic Consumer Incentive List page and no replacement Charlotte terms are published. The former offer is retained in audit history and hidden from the active comparison; its prior illustration used M/I Financial, a $350,000 sales price, 3.5% down, minimum 640 score, owner occupancy, application within 48 hours and closing by December 31.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-11-08",
+      "start": "2026-10-29",
+      "close": "2026-12-31",
+      "rate": 5.25,
+      "apr": 6.039,
+      "amount": null,
+      "loan": "FHA · 30-year fixed · 3.5% down · 640 minimum FICO · owner occupied",
+      "lender": "M/I Financial",
+      "flags": [
+        "move"
+      ],
+      "terms": "Advertised contract window ended Nov. 8 · official URL now generic · no replacement rate or APR published",
+      "access": "Official incentive URL reviewed November 9; it now resolves to a generic incentive-list page and publishes no replacement terms",
+      "extraSources": [
+        {
+          "name": "M/I Charlotte incentives",
+          "url": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/",
+          "note": "Current directory lists Home Sweet Savings and House-to-Sell as active"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mi-home-sweet-arm",
+      "b": "M/I Homes",
+      "c": "Home Sweet Savings · 11 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: 4.875% Conventional 7/6 ARM · 5.763% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/home-sweet-savings-2026",
+      "sourceName": "M/I Homes",
+      "detail": "M/I Homes' current Home Sweet Savings page still reproduces the 4.875% Conventional 7/6 ARM disclosure, but its controlling contract deadline was October 31, 2026. Because that deadline has passed, the offer is retained only in audit history and hidden from the active comparison. The prior terms required M/I Financial, 20% down, owner occupancy, a loan application within 48 hours and closing by November 30. No replacement ARM window was published on the current page.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-10-31",
+      "start": "2026-10-29",
+      "close": "2026-11-30",
+      "rate": 4.875,
+      "apr": 5.763,
+      "amount": null,
+      "loan": "Conventional 7/6 ARM · 30-year term · 20% down · owner occupied · credit-score minimum unavailable",
+      "lender": "M/I Financial",
+      "flags": [
+        "move"
+      ],
+      "terms": "Advertised contract window ended Oct. 31 · close by Nov. 30 · 20% down · owner-occupied · apply within 48 hours",
+      "access": "Official incentive URL reviewed November 9; prior ARM deadline remains expired and no replacement is published",
+      "extraSources": [
+        {
+          "name": "M/I Charlotte incentives",
+          "url": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/",
+          "note": "Current directory lists Home Sweet Savings and House-to-Sell as active"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mi-home-sweet-closing",
+      "b": "M/I Homes",
+      "c": "Home Sweet Savings · 11 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: Up to 3% of base price toward allowable closing costs",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/home-sweet-savings-2026",
+      "sourceName": "M/I Homes",
+      "detail": "M/I Homes' previously published Home Sweet Savings disclosure offered up to 3% of base price toward allowable costs with M/I Financial for contracts through November 8 and closings by December 31. On November 9 the official URL resolves only to a generic Consumer Incentive List page and publishes no replacement Charlotte terms. The former credit is retained in audit history and hidden from the active comparison.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-11-08",
+      "start": null,
+      "close": "2026-12-31",
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Qualifying loan through M/I Financial; buyer remains responsible for required down payment and upfront mortgage insurance",
+      "lender": "M/I Financial",
+      "flags": [
+        "move"
+      ],
+      "terms": "Advertised contract window ended Nov. 8 · official URL now generic · no replacement credit published",
+      "access": "Official incentive URL reviewed November 9; it now resolves to a generic incentive-list page and publishes no replacement terms",
+      "extraSources": [
+        {
+          "name": "M/I Charlotte incentives",
+          "url": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/",
+          "note": "Current directory lists Home Sweet Savings and House-to-Sell as active"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "mi-house-to-sell",
+      "b": "M/I Homes",
+      "c": "House-to-Sell Program · 11 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Up to 3% toward the buyer of your existing home's closing costs or rate buydown",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/house-to-sell-program",
+      "sourceName": "M/I Homes",
+      "detail": "M/I's active House-to-Sell Program is for a buyer who has an active contract on a new M/I home and still needs to sell an existing property. If both the M/I buyer and the purchaser of the existing home finance through M/I Financial, M/I contributes up to 3% of the existing home's sales price toward that purchaser's allowable closing costs, an interest-rate buydown, or both when the existing-home loan closes by December 31, 2026. The contribution drops to 2% after December 31. The existing property must be in an eligible state, its buyer must qualify, both transactions must use M/I Financial and the preferred closing agent, and the existing-home closing must occur within 180 days of the new M/I home closing. No specific rate or APR is published.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": "2026-12-31",
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Selected qualifying loan program; both transactions must qualify through M/I Financial",
+      "lender": "M/I Financial and M/I's preferred closing agent required for both transactions",
+      "flags": [],
+      "terms": "Up to 3% if existing-home loan closes by Dec. 31; 2% afterward · existing home must close within 180 days of M/I home",
+      "access": "Full official House-to-Sell promotion and current Charlotte incentive directory reviewed",
+      "extraSources": [
+        {
+          "name": "M/I Charlotte incentives",
+          "url": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/",
+          "note": "Current official directory lists the House-to-Sell Program"
+        }
+      ],
+      "deadlineType": "Contribution step-down",
+      "tag": "closing"
+    },
+    {
+      "id": "david-weekley-anniversary-25k",
+      "b": "David Weekley Homes",
+      "c": "Select Charlotte-area quick move-in homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Up to $25,000 home discount or financing incentive",
+      "tags": [
+        "price",
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/50th-anniversary-charlotte",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley offers up to $25,000 on select Charlotte-area quick move-in homes for purchase agreements signed October 1–31, 2026 and closings completed by November 30. The incentive may be used as a home-price discount or as a financing incentive toward a rate buydown or closing costs through Grace Home Lending. The choices are alternatives, not stackable amounts. The offer must be presented before signing and cannot be combined with another David Weekley offer or applied to a prior contract. A specific rate, APR, loan type, credit-score requirement and eligible-address list are not published.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": "2026-10-01",
+      "close": "2026-11-30",
+      "rate": null,
+      "apr": null,
+      "amount": 25000,
+      "loan": "Loan type, rate, APR and credit-score requirement not stated",
+      "lender": "Grace Home Lending required for financing-incentive use",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Oct. 1–31 · close by Nov. 30 · select quick move-ins · discount OR financing use",
+      "access": "Full official promotion page reviewed",
+      "extraSources": [
+        {
+          "name": "David Weekley Charlotte communities",
+          "url": "https://www.davidweekleyhomes.com/new-homes/nc/charlotte",
+          "note": "Official directory lists current Now Selling, Final Opportunities and Coming Soon community statuses"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "price"
+    },
+    {
+      "id": "david-weekley-westwood-westview-399-arm",
+      "b": "David Weekley Homes",
+      "c": "Westwood Reserve · Westview Towns",
+      "city": "Charlotte & Waxhaw, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union"
+      ],
+      "offer": "3.99% 5/1 ARM · 7.141% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/lock-in-dream-home-charlotte",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley's current official promotion advertises a starting rate as low as 3.99% with a 7.141% APR on select quick move-in homes at Westwood Reserve and Westview Towns. Qualifying buyers must sign from October 1 through October 31, 2026, use a 5/1 adjustable-rate mortgage from Grace Home Lending and occupy the home as their primary residence. After five years the rate may adjust every six months; the initial and subsequent adjustment caps are one percentage point, with rate increases capped at five percentage points over the life of the loan. The Forward Commitment is limited, first come first served, and may be exhausted early. Pricing can vary by credit profile and may require discount points. The builder does not publish the minimum FICO, down payment, closing deadline or complete eligible-homesite list. This financing offer cannot be combined with another David Weekley financing promotion or incentive.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": "2026-10-01",
+      "close": null,
+      "rate": 3.99,
+      "apr": 7.141,
+      "amount": null,
+      "loan": "5/1 ARM · primary residence · adjusts every six months after year five · 1% periodic caps · 5% lifetime increase cap · FICO and down payment unavailable",
+      "lender": "Grace Home Lending required for the promotional rate",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Oct. 1–31 · select Westwood Reserve or Westview Towns quick move-ins · limited first-come Forward Commitment · not combinable",
+      "access": "Full official promotion and financing disclosure reviewed",
+      "extraSources": [
+        {
+          "name": "Westwood Reserve",
+          "url": "https://www.davidweekleyhomes.com/new-homes/nc/charlotte/charlotte/westwood-reserve",
+          "note": "Official participating community page"
+        },
+        {
+          "name": "Westview Towns",
+          "url": "https://www.davidweekleyhomes.com/new-homes/nc/charlotte/waxhaw/westview-towns",
+          "note": "Official participating community page"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "david-weekley-anniversary-40k-november",
+      "b": "David Weekley Homes",
+      "c": "Select Charlotte-area quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "York"
+      ],
+      "offer": "7% of final sales price · maximum $40,000 home discount OR financing incentive",
+      "tags": [
+        "price",
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/50th-anniversary-charlotte",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley's current Half a Century of Home Sweet Home program offers one incentive equal to 7% of the final sales price, capped at $40,000, on select Charlotte-area quick move-in homes. The incentive may be used either as a home discount or as a financing incentive; the alternatives are not additive. Purchase agreements must be signed November 1–December 6, 2026 and eligible homes must close by December 22. Financing-incentive use requires Grace Home Lending and is subject to lender and regulatory seller-contribution limits. The offer must be presented before signing, excludes prior contracts, lot premiums and options, and cannot be combined with another offer. The public terms do not publish a note rate, APR, loan type, term, minimum score, down payment or complete eligible-home list, so those fields remain unavailable. The headline language is broader than the financing disclosure, so lender requirements for the pure discount path should be confirmed with the builder.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": "2026-11-01",
+      "end": "2026-12-06",
+      "close": "2026-12-22",
+      "rate": null,
+      "apr": null,
+      "amount": 40000,
+      "loan": "Financing incentive may fund rate buydown or allowable closing costs; exact loan terms unavailable",
+      "lender": "Grace Home Lending required for financing-incentive use; discount-path lender condition should be confirmed",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 1–Dec. 6 · close by Dec. 22 · select quick move-ins · 7% capped at $40,000 · one alternative use · not combinable",
+      "access": "Full current official promotion and controlling disclosures reviewed November 6",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "price"
+    },
+    {
+      "id": "david-weekley-preferred-lender-5k",
+      "b": "David Weekley Homes",
+      "c": "Charlotte-area homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Up to $5,000 closing costs or rate buydown",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/preferred-lender-credit-charlotte",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley offers up to $5,000 toward closing costs or a mortgage-rate buydown on a Charlotte-area home purchased between April 29 and December 31, 2026 when the buyer finances with Grace Home Lending and qualifies. The two uses are alternatives rather than separate stackable amounts. The offer must be presented before signing. The official terms do not state a specific rate, APR, loan type, minimum credit score, eligible-address list or required closing date, so those items remain unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": "2026-12-31",
+      "start": "2026-04-29",
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 5000,
+      "loan": "Must qualify; rate, APR, loan type and credit-score requirement not stated",
+      "lender": "Grace Home Lending required",
+      "flags": [],
+      "terms": "Purchase Apr. 29–Dec. 31 · closing costs OR rate buydown · present before signing",
+      "access": "Full official promotion page reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "david-weekley-hometown-heroes-2500",
+      "b": "David Weekley Homes",
+      "c": "Hardy Pond · Hardy Pond Townhomes",
+      "city": "Rock Hill, SC",
+      "counties": [
+        "York"
+      ],
+      "offer": "$2,500 Hometown Heroes flex incentive",
+      "tags": [
+        "price",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/hometown-heroes-hardy-pond",
+      "sourceName": "David Weekley Homes",
+      "detail": "Eligible active medical professionals, firefighters, police officers, teachers and military personnel may receive $2,500 at Hardy Pond or Hardy Pond Townhomes. The buyer must sign a purchase agreement August 1–December 1, 2026, close by December 31 and provide proof of employment. At contract, the buyer must choose to use the incentive toward a home discount, design selections or closing costs; the uses are alternatives and the offer cannot be combined with another promotion. Grace Home Lending is required only when the incentive is used for closing costs. No promotional rate or APR is stated.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": "2026-12-01",
+      "start": "2026-08-01",
+      "close": "2026-12-31",
+      "rate": null,
+      "apr": null,
+      "amount": 2500,
+      "loan": "No promotional rate, APR or loan type stated",
+      "lender": "Grace Home Lending required only for the closing-cost option",
+      "flags": [],
+      "terms": "Eligible heroes · proof required · contract by Dec. 1 · close by Dec. 31 · choose one use",
+      "access": "Full official promotion page reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "price"
+    },
+    {
+      "id": "david-weekley-westwood-hometown-heroes-2500",
+      "b": "David Weekley Homes",
+      "c": "Westwood Reserve",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "$2,500 Hometown Heroes flex incentive",
+      "tags": [
+        "price",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/hometown-heroes-westwood-reserve",
+      "sourceName": "David Weekley Homes",
+      "detail": "Eligible active medical professionals, firefighters, police officers, teachers and military personnel may receive $2,500 in flex dollars at Westwood Reserve. The buyer must sign a purchase agreement October 1–December 1, 2026, close by December 31 and provide proof of current qualifying employment before signing. At contract, the buyer must choose to use the incentive toward a home discount, Design Center selections or closing costs; the uses are alternatives and the offer cannot be combined with another promotion. Grace Home Lending is required only when the incentive is used for closing costs. No promotional rate or APR is stated.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": "2026-12-01",
+      "start": "2026-10-01",
+      "close": "2026-12-31",
+      "rate": null,
+      "apr": null,
+      "amount": 2500,
+      "loan": "No promotional rate, APR or loan type stated",
+      "lender": "Grace Home Lending required only for the closing-cost option",
+      "flags": [],
+      "terms": "Eligible heroes · proof required before contract · contract by Dec. 1 · close by Dec. 31 · choose one use",
+      "access": "Full official promotion page and controlling terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "price"
+    },
+    {
+      "id": "eastwood-fixed-fha",
+      "b": "Eastwood Homes",
+      "c": "Select completed Charlotte-area homes",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Unavailable: prior As low as 4.99% FHA fixed · 5.828% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "historical",
+      "source": "https://www.eastwoodhomes.com/promotion/ewh-499-september-2026",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood Homes advertises a fixed rate as low as 4.99% on select completed homes purchased at full price and financed through Sabal Mortgage. For FHA 30-year fixed financing, the published APR is 5.828% and the minimum credit score is 680. Some advertised rates require a 2/1 temporary buydown, and the buyer must qualify at the full note rate. The offer is valid in the Charlotte division on eligible homes closing by December 1; a contract deadline, down payment and complete eligible-address list are not published. This exact rate or APR is no longer reproduced on Eastwood's current Specials page as of November 5, 2026, so it has been removed from the live comparison and retained only as historical evidence. Eastwood's current Big Red Bow promotion states only that below-market financing is available in listed communities; exact current rates and APRs are unavailable.",
+      "checked": "2026-11-05",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": "2026-12-01",
+      "rate": 4.99,
+      "apr": 5.828,
+      "amount": null,
+      "loan": "FHA · 30-year fixed · 680 minimum FICO · some rates require 2/1 buydown",
+      "lender": "Sabal Mortgage, LLC",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select completed homes at full price · close by Dec. 1 · contract deadline unavailable",
+      "access": "Prior official terms retained for history; current Eastwood Specials page reviewed November 5 no longer publishes this exact rate/APR",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-fixed-conventional",
+      "b": "Eastwood Homes",
+      "c": "Select completed Charlotte-area homes",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Unavailable: prior As low as 4.99% Conventional fixed · 6.055% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "historical",
+      "source": "https://www.eastwoodhomes.com/promotion/ewh-499-september-2026",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood Homes advertises a fixed rate as low as 4.99% on select completed homes purchased at full price and financed through Sabal Mortgage. For Conventional 30-year fixed financing, the published APR is 6.055% and the minimum credit score is 740. Some advertised rates require a 2/1 temporary buydown, and the buyer must qualify at the full note rate. The offer is valid in the Charlotte division on eligible homes closing by December 1; a contract deadline, down payment and complete eligible-address list are not published. This exact rate or APR is no longer reproduced on Eastwood's current Specials page as of November 5, 2026, so it has been removed from the live comparison and retained only as historical evidence. Eastwood's current Big Red Bow promotion states only that below-market financing is available in listed communities; exact current rates and APRs are unavailable.",
+      "checked": "2026-11-05",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": "2026-12-01",
+      "rate": 4.99,
+      "apr": 6.055,
+      "amount": null,
+      "loan": "Conventional · 30-year fixed · 740 minimum FICO · some rates require 2/1 buydown",
+      "lender": "Sabal Mortgage, LLC",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select completed homes at full price · close by Dec. 1 · contract deadline unavailable",
+      "access": "Prior official terms retained for history; current Eastwood Specials page reviewed November 5 no longer publishes this exact rate/APR",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-fixed-va",
+      "b": "Eastwood Homes",
+      "c": "Select completed Charlotte-area homes",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Unavailable: prior As low as 4.99% VA fixed · 5.302% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "historical",
+      "source": "https://www.eastwoodhomes.com/promotion/ewh-499-september-2026",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood Homes advertises a fixed rate as low as 4.99% on select completed homes purchased at full price and financed through Sabal Mortgage. For VA 30-year fixed financing, the published APR is 5.302% and the minimum credit score is 680. Some advertised rates require a 2/1 temporary buydown, and the buyer must qualify at the full note rate. The offer is valid in the Charlotte division on eligible homes closing by December 1; a contract deadline, down payment and complete eligible-address list are not published. This exact rate or APR is no longer reproduced on Eastwood's current Specials page as of November 5, 2026, so it has been removed from the live comparison and retained only as historical evidence. Eastwood's current Big Red Bow promotion states only that below-market financing is available in listed communities; exact current rates and APRs are unavailable.",
+      "checked": "2026-11-05",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": "2026-12-01",
+      "rate": 4.99,
+      "apr": 5.302,
+      "amount": null,
+      "loan": "VA · 30-year fixed · 680 minimum FICO · some rates require 2/1 buydown",
+      "lender": "Sabal Mortgage, LLC",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select completed homes at full price · close by Dec. 1 · contract deadline unavailable",
+      "access": "Prior official terms retained for history; current Eastwood Specials page reviewed November 5 no longer publishes this exact rate/APR",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-charlotte-399-headline",
+      "b": "Eastwood Homes",
+      "c": "Ashton Park · Bryton Crossing Townhomes",
+      "city": "Monroe & Huntersville, NC",
+      "counties": [
+        "Union",
+        "Mecklenburg"
+      ],
+      "offer": "Unavailable: prior Promotional headline: rate as low as 3.99%",
+      "tags": [
+        "rate"
+      ],
+      "kind": "historical",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current official Specials page newly advertises a rate as low as 3.99% on select completed homes at Ashton Park and Bryton Crossing Townhomes when financed through Sabal Mortgage, with closing by December 1, 2026. The expanded disclosure gives separate example full-note rates—5.25% FHA with 6.022% APR, 5.99% Conventional with 6.280% APR and 5.25% VA with 5.500% APR—and says some advertised rates require a 2/1 temporary buydown. It does not identify which loan structure produces the 3.99% headline or publish a corresponding APR, so those fields remain unavailable rather than guessed. Buyers must qualify at the full note rate; minimum FICO is 680 for FHA/VA and 740 for Conventional. The offer applies to select completed homes bought at full price, excludes prior contracts and cannot be combined with another promotion. This exact rate or APR is no longer reproduced on Eastwood's current Specials page as of November 5, 2026, so it has been removed from the live comparison and retained only as historical evidence. Eastwood's current Big Red Bow promotion states only that below-market financing is available in listed communities; exact current rates and APRs are unavailable.",
+      "checked": "2026-11-05",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": "2026-12-01",
+      "rate": 3.99,
+      "apr": null,
+      "amount": null,
+      "loan": "Loan structure for 3.99% headline unavailable · disclosure lists FHA, Conventional and VA examples and possible 2/1 buydown",
+      "lender": "Sabal Mortgage, LLC",
+      "flags": [
+        "move"
+      ],
+      "terms": "Ashton Park or Bryton Crossing Townhomes · select completed homes at full price · close by Dec. 1 · not combinable",
+      "access": "Prior official terms retained for history; current Eastwood Specials page reviewed November 5 no longer publishes this exact rate/APR",
+      "extraSources": [
+        {
+          "name": "Ashton Park",
+          "url": "https://www.eastwoodhomes.com/charlotte/monroe/ashton-park",
+          "note": "Official participating community page; current Specials page lists four participating homesites"
+        },
+        {
+          "name": "Bryton Crossing Townhomes",
+          "url": "https://www.eastwoodhomes.com/charlotte/huntersville/bryton-crossing-townhomes",
+          "note": "Official participating community page; current Specials page lists nine participating homesites"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-enclave-riverdale-599-headline",
+      "b": "Eastwood Homes",
+      "c": "Enclave at Riverdale",
+      "city": "Huntersville, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Unavailable: prior Promotional headline: rate as low as 5.99%",
+      "tags": [
+        "rate"
+      ],
+      "kind": "historical",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current official Specials page advertises a rate as low as 5.99% only on select homes at Enclave at Riverdale that can close by the end of 2026 when financed through Sabal Mortgage. Villas at Prestwick no longer appears in this panel. The page identifies seven participating Enclave at Riverdale homesites but does not publish the corresponding APR, mortgage type, note term, down payment, credit-score requirement, owner-occupancy requirement, contract deadline, complete eligible-home list or stacking rule, so those terms remain unavailable rather than guessed. This exact rate or APR is no longer reproduced on Eastwood's current Specials page as of November 5, 2026, so it has been removed from the live comparison and retained only as historical evidence. Eastwood's current Big Red Bow promotion states only that below-market financing is available in listed communities; exact current rates and APRs are unavailable.",
+      "checked": "2026-11-05",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": "2026-12-31",
+      "rate": 5.99,
+      "apr": null,
+      "amount": null,
+      "loan": "Loan type, note term, APR, down payment and credit-score requirement unavailable",
+      "lender": "Sabal Mortgage, LLC",
+      "flags": [
+        "move"
+      ],
+      "terms": "Enclave at Riverdale · select homes · close by end of 2026 · APR and contract deadline unavailable",
+      "access": "Prior official terms retained for history; current Eastwood Specials page reviewed November 5 no longer publishes this exact rate/APR",
+      "extraSources": [
+        {
+          "name": "Enclave at Riverdale",
+          "url": "https://www.eastwoodhomes.com/charlotte/huntersville/enclave-at-riverdale",
+          "note": "Official participating community page; current Specials page lists seven participating homesites"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-charlotte-closing-costs",
+      "b": "Eastwood Homes",
+      "c": "Charlotte-area communities · Robinson Oaks · Carrington",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Up to $5,000 closing costs · Robinson Oaks up to $7,500 · Carrington panels show up to $10,000 and $3,500",
+      "tags": [
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current official Specials page advertises up to $5,000 toward closing costs at named communities across its Charlotte and other regional divisions. Ten Charlotte-area communities are shown: Chasewood, Bryton Crossing Townhomes, Caldwell Forest, Rone Creek, Rock Creek, Blythe Mill Townhomes, Harrisburg Village Townhomes, The Meadows at Laurelbrook, Robinson Oaks and Founders Landing 55+. A separate current panel advertises up to $7,500 at Robinson Oaks. Carrington now appears in two separate current panels—one advertising up to $10,000 and another advertising up to $3,500. The site preserves both builder-published figures and does not add or assume they stack. Eastwood's preferred lender is required. The page does not publish a promotional rate, APR, loan type, credit-score requirement, contract deadline, closing deadline, eligible-address list for each tier or stacking rule.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 10000,
+      "loan": "No promotional rate, APR, loan type or credit-score requirement stated",
+      "lender": "Eastwood Homes preferred lender required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Preferred lender required · Carrington current panels separately show up to $10,000 and $3,500 · do not add together · deadlines unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [
+        {
+          "name": "Robinson Oaks",
+          "url": "https://www.eastwoodhomes.com/charlotte/gastonia/robinson-oaks",
+          "note": "Official participating community page"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "eastwood-charlotte-move-in-package",
+      "b": "Eastwood Homes",
+      "c": "13 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Refrigerator + washer/dryer + blinds package",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current official Specials page advertises a move-in package consisting of a stainless-steel side-by-side refrigerator, washer and dryer, and window blinds on select homes in 13 Charlotte-area communities: Norman Creek Townhomes, Founders Landing, Ashton Park, Caldwell Forest, Waterford Commons, The Fairways at Springlake, Enclave at Riverdale, Carrington, The Greens at Springlake, Norman Creek, The Meadows at Laurelbrook, Robinson Oaks and The Enclave at Laurelbrook. The page does not publish a dollar value, lender requirement, loan condition, contract deadline, closing deadline or stacking rule for this package, so those terms remain unavailable rather than inferred.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No loan requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select homes at 13 Charlotte-area communities · value, deadline and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "mattamy-charlotte-21-buydown",
+      "b": "Mattamy Homes",
+      "c": "Select Charlotte-area homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "3.99% year-one 2/1 buydown · 5.99% fixed note rate",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/21-buydown",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's current Charlotte promotion offers a temporary 2/1 buydown on select homes. Conventional, FHA and VA loans begin at 3.99% in year one and 4.99% in year two, then use a 5.99% fixed rate for year three and after. Published APRs are 6.327% Conventional, 6.784% FHA and 6.371% VA. The official examples assume a $472,000 purchase price: Conventional uses 10% down and a 780 median score; FHA uses 3.5% down and a 740 median score; VA uses 0% down and a 660 median score. Homes must be owner occupied. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Contracts must be entered October 2–31, 2026 and eligible homes must close by November 30. Seller contributions toward the temporary buydown are published up to $9,418.68 Conventional, $10,275.60 FHA and $10,810.56 VA; the offer is not generally combinable and remains subject to the available locked-funds pool.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": "2026-10-02",
+      "close": "2026-11-30",
+      "rate": 3.99,
+      "apr": 6.327,
+      "amount": 10810.56,
+      "loan": "Conventional, FHA or VA · 30-year fixed note rate with temporary 2/1 buydown · owner occupied",
+      "lender": "Mattamy Home Funding + seller-selected closing agent required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Year 1 3.99% · year 2 4.99% · years 3–30 5.99% · contract by Oct. 31 · close by Nov. 30",
+      "access": "Full official promotion and legal terms reviewed",
+      "extraSources": [
+        {
+          "name": "Mattamy Charlotte communities",
+          "url": "https://mattamyhomes.com/north-carolina/charlotte",
+          "note": "Official directory lists ten Now Selling communities and The Townes at Wade Ardrey as Final Opportunities; Roseshire Chase no longer appears"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mattamy-charlotte-appliance-package-oct",
+      "b": "Mattamy Homes",
+      "c": "Select Charlotte-area quick move-ins",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: washer + dryer + refrigerator package · $3,796 estimated retail value",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/oct",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's official appliance-package contract window ended November 1, 2026. The package covered a washer, dryer and refrigerator on select Charlotte-area quick move-in homes with an estimated retail value of $3,796 and did not require Mattamy Home Funding. Eligible homes had to close by November 30. The indexed 2/1-buydown page now returns not found, and no current replacement Charlotte financing or appliance promotion was located on November 3, so unavailable terms are not inferred.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-11-01",
+      "start": "2026-10-23",
+      "close": "2026-11-30",
+      "rate": null,
+      "apr": null,
+      "amount": 3796,
+      "loan": "Eligible cash or financed quick-move-in purchase; no loan type, rate, APR or credit-score requirement stated",
+      "lender": "No affiliated-lender requirement; available regardless of lender",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Oct. 23–Nov. 1 · close by Nov. 30 · select quick move-ins · specified appliance models · no cash substitution",
+      "access": "Official promotion history and current Charlotte promotion URLs reviewed; no current replacement was found",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "mattamy-tbb-closing-costs-oct31",
+      "b": "Mattamy Homes",
+      "c": "Blair Place · Bratton Pointe · Waxhaw Landing · Westfall",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Up to 4% of purchase price toward closing costs or rate buydown",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/to-be-built",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's renewed Your Home Your Way promotion provides up to 4% of the total purchase price toward closing costs on select to-be-built homes at Blair Place, Bratton Pointe, Waxhaw Landing and Westfall. Eligible uses may include discount points and a temporary buydown fund. Contracts must be entered October 1–November 15, 2026 and eligible homes must close by April 30, 2027. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Maximum seller-contribution and underwriting limits apply; the offer generally cannot be combined except where expressly stated in the purchase-agreement addendum. The public terms do not publish a specific rate, APR, loan type, credit score, down payment or eligible-homesite list, so those remain unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-11-15",
+      "start": "2026-10-01",
+      "close": "2027-04-30",
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Qualifying financing through Mattamy Home Funding; specific loan type, rate, APR, credit score and down payment unavailable",
+      "lender": "Mattamy Home Funding + seller-selected closing agent required",
+      "flags": [],
+      "terms": "Up to 4% of purchase price · contract Oct. 1–Nov. 15 · close by Apr. 30, 2027 · select to-be-built homes",
+      "access": "Full current official page and legal disclosure reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "mattamy-move",
+      "b": "Mattamy Homes",
+      "c": "Charlotte MOVE event · select quick move-ins",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Removed: prior 4.99% FHA fixed · up to 2% closing costs",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/move",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's official MOVE promotion URL now returns a not-found page. The prior 4.99% FHA 30-year fixed rate (5.727% APR) and up to 2% closing-cost contribution already had a September 30, 2026 contract deadline, so the removed promotion remains expired and hidden from the current comparison by default. It applied to select quick move-in homes closing by November 30, with owner occupancy, pre-application, Mattamy Home Funding and the seller-selected closing agent required. Mattamy's current Charlotte directory lists The Townes at Wade Ardrey as Final Opportunities and ten communities as Now Selling; previously sold-out Roseshire Chase no longer appears in the current directory.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-09-30",
+      "start": "2026-09-08",
+      "close": "2026-11-30",
+      "rate": 4.99,
+      "apr": 5.727,
+      "amount": null,
+      "loan": "FHA · 30-year fixed · owner occupied",
+      "lender": "Mattamy Home Funding + designated closing agent",
+      "flags": [
+        "move"
+      ],
+      "terms": "Promotion URL removed · prior deadline Sep. 30 · prior 5.727% APR",
+      "access": "Official promotion URL returned not found; current Charlotte community directory reviewed",
+      "extraSources": [
+        {
+          "name": "Mattamy Charlotte communities",
+          "url": "https://mattamyhomes.com/north-carolina/charlotte",
+          "note": "Official directory lists current Now Selling and Final Opportunities communities; Roseshire Chase no longer appears"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mattamy-design-options",
+      "b": "Mattamy Homes",
+      "c": "Blair Place · Bratton Pointe · Waxhaw Landing · Westfall",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: 50% off design options · advertised window ended Nov. 6",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/to-be-built",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's Your Home Your Way page still displays a 50%-off design-options headline, but the controlling legal terms limit eligible contracts to October 1–November 6, 2026. The deadline has passed, so the design offer is retained only in audit history and hidden from the active comparison. Eligible homes had to close by April 30, 2027. The legal wording references different community caps but does not clearly distinguish maximum eligible design spend from free-option value; no guaranteed dollar savings are inferred, and no replacement design-offer window was found on the current page.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-11-06",
+      "start": "2026-10-01",
+      "close": "2027-04-30",
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Cash or financed purchase; no loan type required by the offer",
+      "lender": "No affiliated-lender requirement",
+      "flags": [],
+      "terms": "Expired Nov. 6 · eligible close by Apr. 30, 2027 · 50% off design options · exact maximum savings unclear",
+      "access": "Current headline and controlling expired legal terms reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "mattamy-hometown-heroes",
+      "b": "Mattamy Homes",
+      "c": "Select greater-Charlotte homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "$2,000 Hometown Heroes incentive",
+      "tags": [
+        "closing",
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/hometown-heroes",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's current Hometown Heroes page offers a $2,000 incentive on select greater-Charlotte homes for qualifying active-duty military, veterans, firefighters, law-enforcement officers, EMTs, paramedics and teachers. Proof of eligibility is required, and the program is limited to one incentive per household. The controlling legal terms state that qualifying purchase agreements must be signed from October 24, 2024 through December 31, 2027. The page does not publish a promotional rate, APR, closing deadline or complete stacking rules; some transactions may require designated lenders or closing agents, but none is named in the public offer.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": "2027-12-31",
+      "start": "2024-10-24",
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 2000,
+      "loan": "Rate, APR and loan type not stated",
+      "lender": "Public offer does not name a required lender; designated lender or closing-agent conditions may apply to some transactions",
+      "flags": [],
+      "terms": "Eligible military, veterans, first responders and teachers · proof required · one incentive per household · contract by Dec. 31, 2027",
+      "access": "Full current official promotion page and controlling legal terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "meritage-charlotte-flex-cash-oct31",
+      "b": "Meritage Homes",
+      "c": "Select Charlotte-area homes",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Up to $25,000 Flex Cash toward closing costs or rate buydown",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.meritagehomes.com/state/nc/charlotte",
+      "sourceName": "Meritage Homes",
+      "detail": "Meritage's prior Charlotte Flex Cash window offered up to $25,000 but ended October 31, 2026. It is retained for audit history and hidden from the active comparison. Meritage launched a separate November 2–15 National Sales Event with up to $30,000 in Charlotte Flex Cash; that replacement is listed as its own current record.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": "2026-10-07",
+      "close": "2026-12-20",
+      "rate": null,
+      "apr": null,
+      "amount": 25000,
+      "loan": "Loan type, rate, APR, credit score and down payment are not stated",
+      "lender": "MTH Mortgage and Carefree Title required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contracts accepted Oct. 7–31 · close by Dec. 20 · select homes · amount varies · no public rate or APR",
+      "access": "Prior official terms retained for history; current replacement promotion is listed separately",
+      "extraSources": [
+        {
+          "name": "Meritage Charlotte metro",
+          "url": "https://www.meritagehomes.com/promotion/9996433",
+          "note": "Legacy promotion URL currently returns 404; the active offer and terms are reproduced on Meritage's current Charlotte metro page"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "meritage-closing-ready-guarantee",
+      "b": "Meritage Homes",
+      "c": "Select Charlotte-area move-in-ready homes",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "60-day Closing-Ready Guarantee · up to $5,000 delay reimbursement",
+      "tags": [
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.meritagehomes.com/meritage-difference/closing-ready-guarantee",
+      "sourceName": "Meritage Homes",
+      "detail": "Meritage's official Closing-Ready Guarantee says an eligible home will be ready to close within 60 days of signing the Purchase and Sale Agreement. If it is not, Meritage will reimburse up to $5,000 of expenses related to the delay. Current official pages display the guarantee at Galloway Ridge, Rocky River Towns, Walnut Reserve, Harper Landing, Calico Creek, Nelson's Creek, Sutter's Mill and Seattle Crossing; Rocky River Towns, Harper Landing and Calico Creek explicitly repeat the up-to-$5,000 reimbursement for delays Meritage causes. The public pages do not provide a complete eligible-home list, qualifying-expense definition, claim procedure, lender or loan requirement, credit-score requirement, program start date or end date. Those terms remain unavailable rather than inferred.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 5000,
+      "loan": "No loan type, rate, APR or credit-score requirement stated",
+      "lender": "No lender requirement stated for the guarantee",
+      "flags": [
+        "move"
+      ],
+      "terms": "Eligible move-in-ready homes · closing-ready within 60 days · up to $5,000 for qualifying delay expenses",
+      "access": "Full official guarantee page and current Charlotte-area community pages reviewed",
+      "extraSources": [
+        {
+          "name": "Sutter's Mill",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/sutters-mill",
+          "note": "Official community page displays the 60-day guarantee and up-to-$5,000 reimbursement"
+        },
+        {
+          "name": "Seattle Crossing",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/seattle-crossing",
+          "note": "Official community page displays the 60-day guarantee and up-to-$5,000 reimbursement"
+        },
+        {
+          "name": "Galloway Ridge",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/galloway-ridge",
+          "note": "Official community page displays the 60-day guarantee"
+        },
+        {
+          "name": "Rocky River Towns",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/rocky-river-towns",
+          "note": "Official community page displays the guarantee and up-to-$5,000 reimbursement"
+        },
+        {
+          "name": "Walnut Reserve",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/walnut-reserve",
+          "note": "Official community page displays the 60-day guarantee"
+        },
+        {
+          "name": "Harper Landing",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/harper-landing",
+          "note": "Official community page displays the guarantee and up-to-$5,000 reimbursement"
+        },
+        {
+          "name": "Calico Creek",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/calico-creek",
+          "note": "Official community page displays the guarantee and up-to-$5,000 reimbursement"
+        },
+        {
+          "name": "Nelson's Creek",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/nelsons-creek",
+          "note": "Official community page displays the 60-day guarantee"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "price"
+    },
+    {
+      "id": "meritage-charlotte-move-in-package",
+      "b": "Meritage Homes",
+      "c": "Select Charlotte-area move-in-ready communities",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "Washer + dryer + refrigerator + whole-home blinds included",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.meritagehomes.com/state/nc/charlotte/buffalo-ridge",
+      "sourceName": "Meritage Homes",
+      "detail": "Current official Meritage community pages advertise homes with a washer, dryer, refrigerator and whole-home window blinds at Buffalo Ridge, Crossrail Station, Galloway Ridge, Rocky River Towns, Walnut Reserve, Harper Landing, Calico Creek, Nelson's Creek, Sutter's Mill and Seattle Crossing. The Galloway Ridge, Rocky River Towns, Walnut Reserve, Harper Landing, Calico Creek and Nelson's Creek pages also show floorplans currently under construction. Grove Mill advertises the same package but remains Coming Soon rather than actively selling. The public pages do not publish a dollar value, complete eligible-homesite list, lender or loan requirement, contract deadline, closing deadline or stacking rule. Those terms remain unavailable rather than inferred.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No loan requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select move-in-ready communities · included features vary by eligible home · value and deadline unavailable",
+      "access": "Current official Charlotte-area community pages reviewed",
+      "extraSources": [
+        {
+          "name": "Crossrail Station",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/crossrail-station",
+          "note": "Official page lists washer, dryer, refrigerator and whole-home blinds"
+        },
+        {
+          "name": "Walnut Reserve",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/walnut-reserve",
+          "note": "Official page lists washer, dryer, refrigerator and whole-home blinds"
+        },
+        {
+          "name": "Sutter's Mill",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/sutters-mill",
+          "note": "Official page lists washer, dryer, refrigerator and whole-home blinds"
+        },
+        {
+          "name": "Seattle Crossing",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/seattle-crossing",
+          "note": "Official page lists washer, dryer, refrigerator and whole-home blinds"
+        },
+        {
+          "name": "Grove Mill",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/grove-mill",
+          "note": "Official page lists the package and the community as Coming Soon"
+        },
+        {
+          "name": "Galloway Ridge",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/galloway-ridge",
+          "note": "Official page lists the appliance-and-blinds package and floorplans currently under construction"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Galloway Ridge",
+          "url": "https://www.google.com/maps/search/?api=1&query=6017+Starview+Terrace%2C+Charlotte%2C+NC+28216",
+          "note": "Exact sales-office address published by Meritage Homes"
+        },
+        {
+          "name": "Rocky River Towns",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/rocky-river-towns",
+          "note": "Official page lists the appliance-and-blinds package and floorplans currently under construction"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Rocky River Towns",
+          "url": "https://www.google.com/maps/search/?api=1&query=2212+Fitzi+Way%2C+Charlotte%2C+NC+28213",
+          "note": "Exact sales-office address published by Meritage Homes"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Walnut Reserve",
+          "url": "https://www.google.com/maps/search/?api=1&query=1209+30th+St+Ln+NE%2C+Conover%2C+NC+28613",
+          "note": "Exact sales-office address published by Meritage Homes"
+        },
+        {
+          "name": "Harper Landing",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/harper-landing",
+          "note": "Official page lists the appliance-and-blinds package and floorplans currently under construction"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Harper Landing",
+          "url": "https://www.google.com/maps/search/?api=1&query=1506+Harper+Landing+Boulevard%2C+Stanley%2C+NC+28164",
+          "note": "Exact sales-office address published by Meritage Homes"
+        },
+        {
+          "name": "Calico Creek",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/calico-creek",
+          "note": "Official page lists the appliance-and-blinds package and floorplans currently under construction"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Calico Creek",
+          "url": "https://www.google.com/maps/search/?api=1&query=5211+Georgette+Trl%2C+Cherryville%2C+NC+28021",
+          "note": "Exact sales-office address published by Meritage Homes"
+        },
+        {
+          "name": "Nelson's Creek",
+          "url": "https://www.meritagehomes.com/state/nc/charlotte/nelsons-creek",
+          "note": "Official page lists the appliance-and-blinds package and floorplans currently under construction"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Nelson's Creek",
+          "url": "https://www.google.com/maps/search/?api=1&query=193+Nelson+Creek+Rd%2C+Mocksville%2C+NC+27028",
+          "note": "Exact sales-office address published by Meritage Homes"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "smith-sunset",
+      "b": "Smith Douglas Homes",
+      "c": "Sunset Meadows · Now Selling",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $23,000 closing costs",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/sunset-meadows",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Sunset Meadows remains Now Selling. The official page renews its cash and move-in incentives through October 31: presale buyers may receive up to $12,500 in closing costs plus blinds and a base refrigerator, washer and dryer; select inventory buyers may receive up to $23,000 in closing costs. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; it cannot be combined with another offer or applied to prior contracts. Separately, select homes continue to advertise the Ridgeland Mortgage 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO, maximum 96.5% LTV, adjustment after month 60 and annual adjustments through month 120 capped at one percentage point per year. The regional directory lists Rowe Crossing at Grand Opening; Rogers Pond, Vistas at Cramerton, Miranda Road and Highland Grove as Coming Soon; and Country Club Village as Sold Out. Hickory Glen is now consistently labeled Sold Out on its current community page and regional directory; older final-home copy is treated as stale.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "amount": 23000,
+      "loan": "FHA or VA 5/1 ARM · owner occupied",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract by Oct. 31 · up to $12,500 presale / $23,000 inventory closing costs",
+      "access": "Full official community, incentive terms and regional status directory reviewed",
+      "extraSources": [
+        {
+          "name": "Smith Douglas Charlotte-area directory",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc",
+          "note": "Official regional directory lists 14 communities, including Coming Soon, Final Opportunities and Sold Out statuses"
+        },
+        {
+          "name": "Rogers Pond",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/waxhaw/rogers-pond",
+          "note": "Official page lists the Waxhaw community as Coming Soon"
+        },
+        {
+          "name": "Miranda Road",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/miranda-road",
+          "note": "Official page lists the four-home community as Coming Soon"
+        },
+        {
+          "name": "Hickory Glen",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/hickory-glen",
+          "note": "Current official community page and regional directory label Hickory Glen Sold Out"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "smith-ember",
+      "b": "Smith Douglas Homes",
+      "c": "Ember Glen · Grand Opening",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $15,000 options / $8,000 closing costs",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/ember-glen",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Ember Glen remains Grand Opening. Presale buyers can receive up to $7,500 in closing costs, blinds, a base refrigerator, washer and dryer, plus half off options up to $15,000. Select inventory homes can receive up to $8,000 in closing costs plus the same blinds and appliance package. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable, excludes prior contracts and remains subject to approval and restrictions. Select homes also advertise the Ridgeland Mortgage 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "amount": 15000,
+      "loan": "FHA or VA 5/1 ARM · owner occupied",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract by Oct. 31 · up to $7,500 presale / $8,000 inventory closing costs · half off options up to $15,000",
+      "access": "Full official community and incentive terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "smith-dawson",
+      "b": "Smith Douglas Homes",
+      "c": "Dawson Landing · Grand Opening",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $14,000 closing costs",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/dawson-landing",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Dawson Landing remains Grand Opening. Presale buyers can receive up to $7,500 in closing costs plus half off options up to $15,000. Select inventory homes can receive up to $14,000 in closing costs plus blinds, a base refrigerator, washer and dryer. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable, excludes prior contracts and remains subject to approval and restrictions. Select homes also advertise the Ridgeland Mortgage 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "amount": 14000,
+      "loan": "FHA or VA 5/1 ARM · owner occupied",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract by Oct. 31 · up to $7,500 presale / $14,000 inventory closing costs · half off options up to $15,000",
+      "access": "Full official community and incentive terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "smith-paw-creek",
+      "b": "Smith Douglas Homes",
+      "c": "Paw Creek · Grand Opening",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $16,000 closing costs",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/paw-creek",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Paw Creek remains Grand Opening with VIP presales. Presale buyers can receive up to $7,500 in closing costs, blinds, a base refrigerator, washer and dryer, plus half off options up to $15,000. Select inventory homes can receive up to $16,000 in closing costs plus the same blinds and appliance package. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable, excludes prior contracts and remains subject to approval and restrictions. Select homes also advertise the Ridgeland Mortgage 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "amount": 16000,
+      "loan": "FHA or VA 5/1 ARM · owner occupied",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract by Oct. 31 · up to $7,500 presale / $16,000 inventory closing costs · half off options up to $15,000",
+      "access": "Full official community and incentive terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "smith-rowe-crossing",
+      "b": "Smith Douglas Homes",
+      "c": "Rowe Crossing · Grand Opening",
+      "city": "Newton, NC",
+      "counties": [
+        "Catawba"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $16,000 closing costs",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/newton/rowe-crossing",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Rowe Crossing is now Grand Opening with presales open and quick move-in homes under construction at 506 E 19th St, Newton, NC 28658. Presale buyers can receive up to $9,000 in closing costs plus half off options up to $20,000; select inventory homes can receive up to $16,000 in closing costs. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable, excludes prior contracts and remains subject to approval and restrictions. Select homes also advertise the Ridgeland Mortgage 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "amount": 16000,
+      "loan": "FHA or VA 5/1 ARM · owner occupied",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract by Oct. 31 · up to $9,000 presale / $16,000 inventory closing costs · half off options up to $20,000",
+      "access": "Full official community, inventory, address and incentive terms reviewed",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "url": "https://www.google.com/maps/search/?api=1&query=506%20E%2019th%20St%2C%20Newton%2C%20NC%2028658",
+          "note": "Exact community address published by Smith Douglas Homes"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "b": "Smith Douglas Homes",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "sourceName": "Smith Douglas Homes",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "loan": "FHA or VA 5/1 ARM · owner occupied · 660 minimum FICO · 96.5% maximum LTV",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender, partner title company and closing attorney required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "access": "Full current official community, inventory, address and incentive terms reviewed",
+      "deadlineType": "Contract deadline",
+      "tag": "rate",
+      "id": "smith-cedar-meadows",
+      "c": "Cedar Meadows · Now Selling",
+      "city": "Monroe, NC",
+      "counties": [
+        "Union"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $21,000 closing costs",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/cedar-meadows",
+      "detail": "Cedar Meadows is Now Selling at 2230 Zybach Drive, Monroe, NC 28110. Select inventory buyers may receive up to $21,000 in closing costs; presale buyers may receive up to $10,000 in closing costs plus half off options up to $30,000. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable and excludes prior contracts. Select homes also advertise Ridgeland Mortgage's 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "amount": 30000,
+      "terms": "Contract by Oct. 31 · up to $10,000 presale / $21,000 inventory closing costs · half off options up to $30,000",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "url": "https://www.google.com/maps/search/?api=1&query=2230%20Zybach%20Drive%2C%20Monroe%2C%20NC%2028110",
+          "note": "Exact community address published by Smith Douglas Homes"
+        }
+      ]
+    },
+    {
+      "b": "Smith Douglas Homes",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "sourceName": "Smith Douglas Homes",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "loan": "FHA or VA 5/1 ARM · owner occupied · 660 minimum FICO · 96.5% maximum LTV",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender, partner title company and closing attorney required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "access": "Full current official community, inventory, address and incentive terms reviewed",
+      "deadlineType": "Contract deadline",
+      "tag": "rate",
+      "id": "smith-catawba-trace",
+      "c": "Catawba Trace · Now Selling",
+      "city": "Catawba, NC",
+      "counties": [
+        "Catawba"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $16,000 closing costs",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/catawba-trace",
+      "detail": "Catawba Trace is Now Selling at 2239 Catawba Trace Drive, Catawba, NC 28609. Select inventory buyers may receive up to $16,000 in closing costs; presale buyers may receive up to $9,000 in closing costs plus half off options up to $20,000. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable and excludes prior contracts. Select homes also advertise Ridgeland Mortgage's 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "amount": 20000,
+      "terms": "Contract by Oct. 31 · up to $9,000 presale / $16,000 inventory closing costs · half off options up to $20,000",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "url": "https://www.google.com/maps/search/?api=1&query=2239%20Catawba%20Trace%20Drive%2C%20Catawba%2C%20NC%2028609",
+          "note": "Exact community address published by Smith Douglas Homes"
+        }
+      ]
+    },
+    {
+      "b": "Smith Douglas Homes",
+      "tags": [
+        "rate",
+        "closing",
+        "upgrade"
+      ],
+      "kind": "official",
+      "sourceName": "Smith Douglas Homes",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-10-31",
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "loan": "FHA or VA 5/1 ARM · owner occupied · 660 minimum FICO · 96.5% maximum LTV",
+      "lender": "Ridgeland Mortgage for ARM; preferred lender, partner title company and closing attorney required for closing assistance",
+      "flags": [
+        "move"
+      ],
+      "access": "Full current official community, inventory, address and incentive terms reviewed",
+      "deadlineType": "Contract deadline",
+      "tag": "rate",
+      "id": "smith-winecoff",
+      "c": "Winecoff · Final Opportunities",
+      "city": "Salisbury, NC",
+      "counties": [
+        "Rowan"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · up to $16,000 closing costs",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/winecoff",
+      "detail": "Winecoff's current official page prominently says Final Opportunities Remaining, although a lower structured status field still says Now Selling; the live comparison uses the more specific final-opportunity notice and flags this source conflict. The community is at 105 Saint Francis Road, Salisbury, NC 28147. Select inventory buyers may receive up to $16,000 in closing costs; presale buyers may receive up to $9,000 in closing costs plus half off options up to $30,000. A contract is required by October 31. Closing-cost assistance requires the builder's preferred lender, partner title company and closing attorney; the offer is not combinable and excludes prior contracts. Select homes also advertise Ridgeland Mortgage's 4.99% FHA/VA 5/1 ARM (6.636% APR), with owner occupancy, minimum 660 FICO and maximum 96.5% LTV.",
+      "amount": 30000,
+      "terms": "Final Opportunities notice · contract by Oct. 31 · up to $9,000 presale / $16,000 inventory closing costs · half off options up to $30,000",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "url": "https://www.google.com/maps/search/?api=1&query=105%20Saint%20Francis%20Road%2C%20Salisbury%2C%20NC%2028147",
+          "note": "Exact community address published by Smith Douglas Homes"
+        }
+      ]
+    },
+    {
+      "id": "david-weekley-hardy-pond-design-20k",
+      "b": "David Weekley Homes",
+      "c": "Hardy Pond · to-be-built homes",
+      "city": "Rock Hill, SC",
+      "counties": [
+        "York"
+      ],
+      "offer": "50% off up to $40,000 in design/flex options · maximum $20,000 discount",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/design-it-your-way-hardy-pond",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley's official Hardy Pond promotion offers half off up to $40,000 in eligible Design Center selections and flex options, for a maximum $20,000 discount, on to-be-built homes contracted November 1–December 31, 2026. Selections must be made through the David Weekley Homes Design Center in Charlotte, the buyer pays any amount above the incentive, and the offer is not valid with another promotion or a previously written contract. The public terms do not publish a closing deadline, eligible-lot list, lender requirement, rate, APR, down payment or credit-score requirement; those details remain unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 20000,
+      "loan": "Not a financing offer; rate, APR, loan terms and closing deadline unavailable",
+      "lender": "No lender requirement published for this design incentive",
+      "flags": [],
+      "terms": "Contract Nov. 1–Dec. 31 · to-be-built Hardy Pond homes · Charlotte Design Center · no stacking · maximum discount $20,000",
+      "access": "Full current official promotion and legal terms reviewed November 9",
+      "extraSources": [
+        {
+          "name": "Hardy Pond",
+          "url": "https://www.davidweekleyhomes.com/new-homes/nc/charlotte/rock-hill/hardy-pond",
+          "note": "Official Now Selling community page"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Hardy Pond · Now Selling",
+          "url": "https://www.google.com/maps/search/?api=1&query=597+Cape+Cod+Way%2C+Rock+Hill%2C+SC+29732",
+          "note": "Exact model-home address published by David Weekley Homes"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "david-weekley-whitley-design-20k",
+      "b": "David Weekley Homes",
+      "c": "Whitley Preserve – Park Collection",
+      "city": "Mint Hill, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Half off up to $40,000 in design and flex options · maximum $20,000 discount",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/promo/design-it-your-way-whitley-preserve-park-collection",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley Homes offers half off up to $40,000 in Design Center selections and flex options, for a maximum $20,000 discount, on a to-be-built home in Whitley Preserve – Park Collection. The contract period is October 1 through December 31, 2026. The offer must be presented before signing, selections must be made through the Charlotte Design Center, lot premiums are excluded, prior contracts are excluded and the incentive is not valid with another offer. No lender, rate, APR, credit-score condition or closing deadline is published.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": "2026-12-31",
+      "start": "2026-10-01",
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 20000,
+      "loan": "No loan type, rate, APR or credit-score requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [],
+      "terms": "Contract Oct. 1–Dec. 31 · to-be-built Park Collection home · Charlotte Design Center selections · not combinable",
+      "access": "Full current official promotion terms and community status reviewed",
+      "extraSources": [
+        {
+          "name": "Whitley Preserve – Park Collection",
+          "url": "https://www.davidweekleyhomes.com/new-homes/nc/charlotte/mint-hill/whitley-preserve-park-collection",
+          "note": "Official page lists the Park Collection as Now Selling at 17009 Malone Lane, Mint Hill"
+        },
+        {
+          "name": "Google Maps directions",
+          "url": "https://www.google.com/maps/search/?api=1&query=17009%20Malone%20Lane%2C%20Mint%20Hill%2C%20NC%2028227",
+          "note": "Exact community address published by David Weekley Homes"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "lennar-black-friday-oct26-nov1",
+      "b": "Lennar",
+      "c": "Black Friday Sales Event · select greater-Charlotte homes",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Expired: 4.500% FHA 5/1 ARM · 7.529% APR · up to $7,500 closing costs",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.lennar.com/new-homes/north-carolina/charlotte/promo/gallen_blackfriday26",
+      "sourceName": "Lennar",
+      "detail": "Lennar's official Black Friday Sales Event still displays a 4.500% FHA 5/1 ARM with a 7.529% APR and up to $7,500 toward closing costs, but the controlling purchase-agreement deadline was November 1, 2026. Financing and the closing-cost contribution required Lennar Mortgage, select greater-Charlotte homes and closing by November 24. No official Charlotte replacement financing promotion was located on November 3, so this offer remains in audit history and hidden from the active comparison rather than extended or guessed.",
+      "checked": "2026-11-03",
+      "published": null,
+      "end": "2026-11-01",
+      "start": "2026-10-26",
+      "close": "2026-11-24",
+      "rate": 4.5,
+      "apr": 7.529,
+      "amount": 7500,
+      "loan": "FHA 5/1 ARM · fixed first five years · annual adjustment beginning year six · down payment, credit score and adjustment caps unavailable",
+      "lender": "Lennar Mortgage required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase agreement Oct. 26–Nov. 1 · close by Nov. 24 · select greater-Charlotte homes · stacking unavailable",
+      "access": "Official promotion page reviewed; published contract deadline has passed and no replacement financing offer was found",
+      "extraSources": [
+        {
+          "name": "Lennar Charlotte",
+          "url": "https://www.lennar.com/new-homes/north-carolina/charlotte",
+          "note": "Current Charlotte regional inventory and community page"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "smith-charlotte-arm-current",
+      "b": "Smith Douglas Homes",
+      "c": "Select Charlotte-area homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "Rowan",
+        "Catawba"
+      ],
+      "offer": "4.99% FHA/VA 5/1 ARM · 6.636% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Smith Douglas continues to advertise Ridgeland Mortgage's 4.99% FHA/VA 5/1 ARM with a 6.636% APR on select Charlotte-area homes. The initial rate is fixed for five years and may adjust every 12 months after month 60 through month 120, with a maximum one-percentage-point annual increase. The fully indexed rate uses the daily one-year Treasury index plus a 1.75% margin. Published eligibility requires owner occupancy, a minimum 660 FICO and maximum 96.5% loan-to-value ratio. Ridgeland Mortgage is required. The current public disclosure does not state a contract deadline, closing deadline, complete eligible-homesite list, later adjustment caps beyond month 120, lifetime cap or stacking rule. Dawson Landing, Paw Creek and Ember Glen are Grand Opening; Sunset Meadows is Now Selling; Miranda Road and Rogers Pond are Coming Soon. Hickory Glen's current community page and regional directory now both label the community Sold Out; older descriptive copy mentioning a final home is treated as stale rather than current availability.",
+      "checked": "2026-11-07",
+      "published": "2026-09-08",
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": 6.636,
+      "amount": null,
+      "loan": "FHA or VA 5/1 ARM · owner occupied · 660 minimum FICO · 96.5% maximum LTV",
+      "lender": "Ridgeland Mortgage required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select homes · fixed first five years · annual adjustments after month 60 through month 120 · contract and closing deadlines unavailable",
+      "access": "Current official regional directory, Hickory Glen page, inventory and financing disclosures reviewed November 6",
+      "extraSources": [
+        {
+          "name": "Smith Douglas Charlotte homes",
+          "url": "https://www.smithdouglas.com/homes/charlotte-nc/charlotte",
+          "note": "Current official inventory identifies ARM-eligible homes and move-in or construction status"
+        },
+        {
+          "name": "Charlotte city directory",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte",
+          "note": "Current official statuses for Dawson Landing, Paw Creek, Ember Glen, Hickory Glen, Sunset Meadows and Miranda Road"
+        },
+        {
+          "name": "Hickory Glen",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/hickory-glen",
+          "note": "Current official community page and regional directory both label Hickory Glen Sold Out; older final-home copy is stale"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Hickory Glen · Sold Out",
+          "url": "https://www.google.com/maps/search/?api=1&query=6020+Jasmine+Branch+Road%2C+Charlotte%2C+NC+28216",
+          "note": "Exact community address published by Smith Douglas Homes"
+        },
+        {
+          "name": "Rogers Pond",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/waxhaw/rogers-pond",
+          "note": "Official page labels Rogers Pond Coming Soon"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Rogers Pond · Coming Soon",
+          "url": "https://www.google.com/maps/search/?api=1&query=8624+Old+Waxhaw+Monroe+Road%2C+Waxhaw%2C+NC+28173",
+          "note": "Exact community address published by Smith Douglas Homes"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "smith-charlotte-hometown-heroes-1500",
+      "b": "Smith Douglas Homes",
+      "c": "Any Charlotte-area community",
+      "city": "Charlotte metro, NC",
+      "counties": [],
+      "offer": "$1,500 Hometown Hero credit",
+      "tags": [
+        "closing",
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/special-offers",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Smith Douglas's current official Special Offers page advertises a $1,500 Hometown Hero credit toward a new home purchase in any Charlotte community for teachers, qualifying hospital staff, active military, veterans, firefighters, EMTs and police. The offer requires the builder's preferred lender and attorney. The public card does not state whether the credit is applied to price or closing costs, a contract deadline, closing deadline, qualifying hospital roles, proof requirements, loan type, credit score, down payment, eligible-home exclusions or stacking rule. Those fields remain unavailable rather than inferred.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 1500,
+      "loan": "No loan type, rate, APR, credit-score requirement or down payment stated",
+      "lender": "Smith Douglas preferred lender and attorney required",
+      "flags": [],
+      "terms": "Eligible Hometown Heroes in any Charlotte community · deadline, application and stacking terms unavailable",
+      "access": "Current official Special Offers card reviewed; undated eligibility card",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "drhorton-charlotte-community-status",
+      "b": "D.R. Horton",
+      "c": "Charlotte-area community status",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Community update · 30 communities · official inventory pages conflict at 245–249 homes; regional page shows 336 · Falls Cove Sold Out",
+      "tags": [],
+      "kind": "official",
+      "source": "https://www.drhorton.com/north-carolina/charlotte/inventory",
+      "sourceName": "D.R. Horton",
+      "detail": "D.R. Horton's current official Charlotte inventory results conflict with each other: page one reports 249 homes, page two reports 248 and another current event-filtered page reports 245, while the regional Charlotte page separately displays 336 homes for sale. Because the builder's own current pages disagree, the site preserves the range and regional count rather than choosing one. The regional page labels Anderson Street Townhomes, Kingman Townhomes and Oak Grove Hill as Now Selling; Sonoma Hills and Reedy Creek Preserve as Final Opportunities; Cardinal Creek as New Model Open; and Ashenwood Commons in Monroe as Coming Soon. The current Sherrills Ford-area page and Falls Cove page identify Falls Cove as Sold Out. Ashenwood publishes no street number, so it is not promoted as an exact-address map pin.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Community-status record only; current DHI FHA and VA 5/1 ARM terms are listed separately",
+      "lender": "Not applicable to the status record",
+      "flags": [
+        "move"
+      ],
+      "terms": "30 communities · 245–249 homes across current inventory pages / 336 homes on regional page · Falls Cove Sold Out · Ashenwood Coming Soon",
+      "access": "Current official Charlotte inventory pages, regional page and Falls Cove status reviewed November 6; conflicting builder counts preserved",
+      "extraSources": [
+        {
+          "name": "D.R. Horton Charlotte communities",
+          "url": "https://www.drhorton.com/north-carolina/charlotte",
+          "note": "Official regional directory lists Now Selling, Final Opportunities and New Model Open statuses"
+        },
+        {
+          "name": "Cardinal Creek",
+          "url": "https://www.drhorton.com/north-carolina/charlotte/charlotte/cardinal-creek",
+          "note": "Official page displays a generic limited-time special-interest-rate notice without usable terms"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Anderson Street Townhomes",
+          "url": "https://www.google.com/maps/search/?api=1&query=833+Hammers+Lane%2C+Charlotte%2C+NC+28205",
+          "note": "Exact community address published by D.R. Horton"
+        },
+        {
+          "name": "Falls Cove status",
+          "url": "https://www.drhorton.com/north-carolina/charlotte/statesville/wallace-springs",
+          "note": "Wallace Springs nearby-community list identifies Falls Cove as Sold Out"
+        },
+        {
+          "name": "Ashenwood Commons",
+          "url": "https://www.drhorton.com/north-carolina/charlotte/monroe/ashenwood-commons",
+          "note": "Official page labels the community Coming Soon and publishes only Waxhaw Hwy, Monroe, NC 28112 without a street number"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "status"
+    },
+    {
+      "id": "smith-charlotte-fixed-current",
+      "b": "Smith Douglas Homes",
+      "c": "Select Charlotte-area homesites",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "Rowan",
+        "Catawba"
+      ],
+      "offer": "4.99% FHA/VA fixed rate · APR unavailable",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Smith Douglas's current Charlotte community directory separately advertises a limited-time 4.99% fixed-rate offer for FHA or VA financing on select locations and homesites. The preferred lender is required. Published eligibility states a minimum 620 FICO, 3.5% down for FHA or zero down for eligible VA borrowers. The builder does not publish the APR, contract deadline, closing deadline, complete eligible-homesite list, lender name, lock period, points, example loan amount or stacking rules for this fixed-rate offer, so those fields remain unavailable. This is distinct from the separately advertised 4.99% FHA/VA 5/1 ARM with a 6.636% APR.",
+      "checked": "2026-11-07",
+      "published": "2026-05-21",
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": 4.99,
+      "apr": null,
+      "amount": null,
+      "loan": "FHA or VA fixed rate · 620 minimum FICO · FHA 3.5% down / eligible VA 0% down",
+      "lender": "Preferred lender required; lender name unavailable",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select homesites · APR and deadlines unavailable · availability subject to executed purchase agreement",
+      "access": "Current official Charlotte directory and financing disclosure reviewed",
+      "extraSources": [
+        {
+          "name": "Smith Douglas Charlotte homes",
+          "url": "https://www.smithdouglas.com/homes/charlotte-nc/charlotte",
+          "note": "Current official inventory and construction-status listings"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-charlotte-free-blinds",
+      "b": "Eastwood Homes",
+      "c": "Chasewood · Rone Creek · Blythe Mill Townhomes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union"
+      ],
+      "offer": "Free window blinds on select homes",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current official Specials page advertises free window blinds on select homes at Chasewood in Charlotte, Rone Creek in Waxhaw and Blythe Mill Townhomes in Waxhaw. The page does not publish a retail value, lender or loan requirement, contract deadline, closing deadline, eligibility by homesite or stacking rule. Those fields remain unavailable rather than inferred.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No financing requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select homes at three communities · value, deadline and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "david-weekley-charlotte-community-status",
+      "b": "David Weekley Homes",
+      "c": "Charlotte-area community status",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Community update · three Coming Soon · one Final Opportunities",
+      "tags": [],
+      "kind": "official",
+      "source": "https://www.davidweekleyhomes.com/new-homes/nc/charlotte/charlotte",
+      "sourceName": "David Weekley Homes",
+      "detail": "David Weekley's current Charlotte directory lists Brightside Townes, McAlpine Place and The Retreat at Steele Creek as Coming Soon. Central Living at Craig, The River District–Excursion Collection and Westwood Reserve are Now Selling. The River District–Pioneer Collection is labeled Close Out and Final Opportunities with one quick move-in listed. No sold-out Charlotte community is displayed on the current directory. This status record does not imply a universal financing offer; current incentives remain listed separately with their own terms.",
+      "checked": "2026-11-07",
+      "published": null,
+      "end": null,
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No universal financing terms attached to this status update",
+      "lender": "Not applicable",
+      "flags": [
+        "move"
+      ],
+      "terms": "Current official regional directory; statuses may change without notice",
+      "access": "Current official Charlotte community directory reviewed",
+      "extraSources": [],
+      "deadlineType": "Status checked",
+      "tag": "status"
+    },
+    {
+      "id": "drhorton-charlotte-fha-arm-dec31",
+      "b": "D.R. Horton",
+      "c": "Select North Carolina homes · Charlotte division pages",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Iredell",
+        "Cabarrus"
+      ],
+      "offer": "4.750% FHA 5/1 ARM · 6.602% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.drhorton.com/north-carolina/charlotte/statesville/wallace-springs?promoID=480-limited-time-opportunity-6",
+      "sourceName": "D.R. Horton",
+      "detail": "D.R. Horton's current Charlotte-division promotion advertises a 4.750% FHA 5/1 ARM with a 6.602% APR through DHI Mortgage on certain D.R. Horton homes in select North Carolina communities. The rate is fixed for five years, then adjusts annually. The first and subsequent annual adjustments are capped at one percentage point, with a five-point lifetime cap, a 2.000% margin, a disclosed fully indexed rate of 6.400% and a maximum rate of 9.750%. The example uses 3.5% down and includes 1.75% upfront mortgage insurance. Eligible homes must have contracted on or after September 21 and close by December 31, 2026. The buyer must use DHI Mortgage for the advertised rate; owner occupancy, qualification and fund availability apply. A minimum credit score, points, complete eligible-home list and stacking permission are not published.",
+      "checked": "2026-11-05",
+      "published": "2026-09-22",
+      "end": "2026-12-31",
+      "start": "2026-09-21",
+      "close": "2026-12-31",
+      "rate": 4.75,
+      "apr": 6.602,
+      "amount": null,
+      "loan": "FHA 5/1 ARM · owner occupied · 3.5% down in example · annual adjustments after year 5",
+      "lender": "DHI Mortgage required for advertised rate",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract on/after Sep. 21 · close by Dec. 31 · select homes · score, points and stacking unavailable",
+      "access": "Full current official Charlotte-division promotion modal and legal disclosure reviewed",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "community": "Wallace Springs",
+          "url": "https://www.google.com/maps/search/?api=1&query=103+Old+Home+Road%2C+Statesville%2C+NC+28677",
+          "note": "Exact model-home address published on the official Wallace Springs page"
+        }
+      ],
+      "deadlineType": "Closing deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "drhorton-charlotte-va-arm-dec31",
+      "b": "D.R. Horton",
+      "c": "Select North Carolina homes · Charlotte division pages",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Iredell",
+        "Cabarrus"
+      ],
+      "offer": "4.750% VA 5/1 ARM · 6.208% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.drhorton.com/north-carolina/charlotte/statesville/wallace-springs?promoID=480-limited-time-opportunity-6",
+      "sourceName": "D.R. Horton",
+      "detail": "D.R. Horton's current Charlotte-division promotion advertises a 4.750% VA 5/1 ARM with a 6.208% APR through DHI Mortgage on certain D.R. Horton homes in select North Carolina communities. The rate is fixed for five years, then adjusts annually, with a one-point first-adjustment cap, one-point annual cap, five-point lifetime cap, 2.000% margin, 6.400% disclosed fully indexed rate and 9.750% maximum rate. The example uses zero down and a financed VA funding fee of no more than 2.15% for first-time use. Eligible homes must have contracted on or after September 21 and close by December 31, 2026. Qualification, owner occupancy and fund availability apply. Additional down payment may be required above the appraised value, applicable loan limit or available entitlement. A minimum credit score, points, complete eligible-home list and stacking permission are not published.",
+      "checked": "2026-11-05",
+      "published": "2026-09-22",
+      "end": "2026-12-31",
+      "start": "2026-09-21",
+      "close": "2026-12-31",
+      "rate": 4.75,
+      "apr": 6.208,
+      "amount": null,
+      "loan": "VA 5/1 ARM · owner occupied · 0% down in example · annual adjustments after year 5",
+      "lender": "DHI Mortgage required for advertised rate",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract on/after Sep. 21 · close by Dec. 31 · select homes · score, points and stacking unavailable",
+      "access": "Full current official Charlotte-division promotion modal and legal disclosure reviewed",
+      "extraSources": [],
+      "deadlineType": "Closing deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "meritage-national-sales-event-nov15",
+      "b": "Meritage Homes",
+      "c": "Eligible Charlotte-area homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Gaston",
+        "Cabarrus"
+      ],
+      "offer": "Up to $30,000 Flex Cash toward closing costs or below-market rate",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.meritagehomes.com/promotion/10077261",
+      "sourceName": "Meritage Homes",
+      "detail": "Meritage's current National Sales Event offers up to $30,000 in Flex Cash on eligible Charlotte-area homes. The credit may be used toward closing costs, a below-market interest rate or both. The purchase agreement must be entered into and accepted between November 2 and November 15, 2026, and the home must close on or before December 20. MTH Mortgage and Carefree Title are required for the incentive. Total financing-linked credits and incentives are capped at 3% of base price plus any lot or unit premium, and the terms state that the promotion cannot be combined with other promotions. The public terms do not publish a note rate, APR, loan type, minimum score, down payment, points or complete eligible-home list, so those fields remain unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-11-15",
+      "start": "2026-11-02",
+      "close": "2026-12-20",
+      "rate": null,
+      "apr": null,
+      "amount": 30000,
+      "loan": "Rate buydown permitted; note rate, APR, loan type, score and down payment unavailable",
+      "lender": "MTH Mortgage and Carefree Title required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 2–15 · close by Dec. 20 · up to $30,000 · financing-linked credits capped at 3% · no combination with other promotions",
+      "access": "Full current official promotion and legal terms reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "eastwood-big-red-bow-rates-dec31",
+      "b": "Eastwood Homes",
+      "c": "7 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "York",
+        "Cabarrus",
+        "Iredell"
+      ],
+      "offer": "Below-market interest rates · exact rate and APR unavailable",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current Big Red Bow event advertises below-market interest rates on select homes at Enclave at Riverdale, Harrisburg Village Townhomes, Norman Creek, Rone Creek, The Fairways at Springlake, The Greens at Springlake and Waterford Commons when purchased by December 31, 2026. The public panel does not publish the note rate, APR, loan type, lender, minimum score, down payment, closing deadline, points or stacking rule. Those terms remain unavailable rather than inferred from separate Eastwood financing examples.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-12-31",
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Below-market financing advertised; rate, APR, loan type, score and down payment unavailable",
+      "lender": "Lender requirement unavailable",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase by Dec. 31 · select homes at 7 named communities · financing details unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-big-red-bow-design-dec31",
+      "b": "Eastwood Homes",
+      "c": "Chasewood · Rock Creek",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Lincoln"
+      ],
+      "offer": "Up to $20,000 design options at Chasewood · up to $15,000 at Rock Creek",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's Big Red Bow event advertises up to $20,000 in Design Options on select Chasewood homes and up to $15,000 on select Rock Creek homes purchased by December 31, 2026. The public panels do not state a lender requirement, cash value, loan condition, closing deadline, eligible-homesite list or stacking rule.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-12-31",
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 20000,
+      "loan": "No financing requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase by Dec. 31 · select homes · up to $20,000 Chasewood / $15,000 Rock Creek",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "eastwood-big-red-bow-package-dec31",
+      "b": "Eastwood Homes",
+      "c": "Founders Landing · Robinson Oaks",
+      "city": "Gastonia, NC",
+      "counties": [
+        "Gaston"
+      ],
+      "offer": "Refrigerator + washer/dryer + whole-house blinds package",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's Big Red Bow event offers a refrigerator, washer, dryer and whole-house blinds package on select homes at Founders Landing 55+ and Robinson Oaks purchased by December 31, 2026. The public panel does not publish a dollar value, lender requirement, loan condition, closing deadline or stacking rule.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-12-31",
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No financing requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase by Dec. 31 · select homes · package value and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "eastwood-big-red-bow-ashton-blythe-dec31",
+      "b": "Eastwood Homes",
+      "c": "Ashton Park · Blythe Mill Townhomes",
+      "city": "Monroe & Waxhaw, NC",
+      "counties": [
+        "Union"
+      ],
+      "offer": "Below-market rates + up to $5,000 closing costs",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's Big Red Bow event advertises below-market interest rates plus up to $5,000 toward closing costs on select homes at Ashton Park and Blythe Mill Townhomes purchased by December 31, 2026. The public panel does not publish the note rate, APR, lender, loan type, minimum score, down payment, closing deadline, points or stacking rules.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-12-31",
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 5000,
+      "loan": "Below-market financing advertised; exact rate, APR, loan type, score and down payment unavailable",
+      "lender": "Lender requirement unavailable",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase by Dec. 31 · select Ashton Park and Blythe Mill homes · exact financing terms unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "eastwood-big-red-bow-bryton-dec31",
+      "b": "Eastwood Homes",
+      "c": "Bryton Crossing Townhomes",
+      "city": "Huntersville, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Below-market rates + refrigerator + washer/dryer + whole-house blinds",
+      "tags": [
+        "rate",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's Big Red Bow event advertises below-market interest rates plus a refrigerator, washer, dryer and whole-house blinds package on select Bryton Crossing townhomes purchased by December 31, 2026. Although the panel's result list displays six communities, its offer text names Bryton Crossing specifically; this record therefore does not extend the claim to the other five without clearer builder terms. The note rate, APR, lender, loan type, score, down payment, package value, closing deadline and stacking rules remain unavailable.",
+      "checked": "2026-11-09",
+      "published": null,
+      "end": "2026-12-31",
+      "start": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Below-market financing advertised; exact loan terms unavailable",
+      "lender": "Lender requirement unavailable",
+      "flags": [
+        "move"
+      ],
+      "terms": "Purchase by Dec. 31 · select Bryton Crossing townhomes · exact rate, APR and package value unavailable",
+      "access": "Full current official Specials page reviewed November 9",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "taylor-charlotte-qmi-arm-nov30",
+      "b": "Taylor Morrison",
+      "c": "Select Charlotte quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Cabarrus"
+      ],
+      "offer": "3.25% year 1 · 4.25% years 2–7 Conventional 7/6 ARM · 5.49% APR · up to $7,000",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/make-moves/charlotte",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison's current Charlotte quick-move-in offer combines a temporary buydown with a Conventional 7/6 ARM: 3.25% in year one and a 4.25% note rate for years two through seven, with a 5.49% APR. The 30-year example uses a $500,000 purchase price, $400,000 loan, 20% down, 780 median credit score and owner occupancy. After 84 payments the rate may reset every six months using 30-day average SOFR plus a 2.75% margin, with a five-point first-adjustment cap, one-point later semiannual cap and 9.25% lifetime maximum. Seller also agrees to pay up to $7,000 toward the temporary buydown fund, discount points, up to one year of HOA dues, closing costs or prepaids. Contracts must be signed November 1–30 and close by December 31, 2026. Buyers must pre-apply and finance through Taylor Morrison Home Funding and use the seller-selected closing agent. Exact eligible homes and stacking outside an express addendum are unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "close": "2026-12-31",
+      "rate": 4.25,
+      "apr": 5.49,
+      "amount": 7000,
+      "loan": "Conventional 7/6 ARM · 20% down and 780 score example · owner occupied · 3.25% temporary first-year buydown",
+      "lender": "Taylor Morrison Home Funding + seller-designated closing agent required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 1–30 · close by Dec. 31 · up to $7,000 closing / points / HOA · select quick move-in homes",
+      "access": "Full current official Charlotte promotion and legal terms reviewed November 4",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "taylor-charlotte-fixed-nov30",
+      "b": "Taylor Morrison",
+      "c": "Select Charlotte to-be-built homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Cabarrus"
+      ],
+      "offer": "5.49% Conventional fixed · 5.60% APR · up to $6,000 toward closing / points / HOA",
+      "tags": [
+        "rate",
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/make-moves/charlotte",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison's current Charlotte offer advertises a 5.49% rate with a 5.60% APR on a 30-year Conventional fixed mortgage for select to-be-built homes, plus up to $6,000 at closing toward a temporary buydown fund, discount points, up to one year of HOA dues, closing costs or prepaids. The rate includes a nine-month lock. The example uses a $500,000 purchase price, $400,000 loan amount, 20% down, a 780 credit score and owner occupancy; the minimum loan amount is $225,000. Purchase agreements must be signed November 1–30, 2026 and eligible homes must close by July 31, 2027. Buyers must pre-apply and finance through Taylor Morrison Home Funding and use the seller's designated closing agent. The pool is limited, and stacking is available only where expressly allowed by addendum. Exact eligible homes and points are unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "close": "2027-07-31",
+      "rate": 5.49,
+      "apr": 5.6,
+      "amount": 6000,
+      "loan": "Conventional · 30-year fixed · 20% down · 780 score example · owner occupied · 9-month lock",
+      "lender": "Taylor Morrison Home Funding + seller-designated closing agent required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 1–30 · close by July 31, 2027 · up to $6,000 closing / points / HOA · minimum $225,000 loan",
+      "access": "Full current official Charlotte promotion and legal terms reviewed November 4",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "taylor-charlotte-qmi-price-dec31",
+      "b": "Taylor Morrison",
+      "c": "Select Charlotte quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Cabarrus"
+      ],
+      "offer": "Already-applied price reductions up to $50,000",
+      "tags": [
+        "price"
+      ],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/make-moves/charlotte",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison's current Charlotte promotion identifies price reductions of up to $50,000 on select quick move-in homes. The reductions are already reflected in the advertised prices rather than an additional cash credit. Cash and financed buyers may qualify with any lender; active contracts written before November 1 are excluded. Eligible homes must close by December 31, 2026. The public terms do not publish a contract deadline, complete eligible-home list or stacking rule, so those remain unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "close": "2026-12-31",
+      "rate": null,
+      "apr": null,
+      "amount": 50000,
+      "loan": "Cash or financed purchase; no lender requirement",
+      "lender": "Any lender",
+      "flags": [
+        "move"
+      ],
+      "terms": "Up to $50,000 already reflected in price · close by Dec. 31 · contract deadline and exact eligible homes unavailable",
+      "access": "Full current official Charlotte promotion and legal terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Closing deadline",
+      "tag": "price"
+    },
+    {
+      "id": "taylor-charlotte-hoa-dec31",
+      "b": "Taylor Morrison",
+      "c": "Select Charlotte-area communities",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Cabarrus"
+      ],
+      "offer": "Up to one year of HOA dues · maximum $2,772",
+      "tags": [
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/make-moves/charlotte",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison's current Charlotte promotion offers up to one year of homeowners-association dues, capped at $2,772, on select homes. Cash and financed buyers may qualify with any lender. Purchase agreements must be signed October 1–December 31, 2026 and eligible homes must close by September 30, 2027. The incentive is also limited to 3% of the purchase price. The exact eligible homes and stacking permission are unavailable.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": "2026-10-01",
+      "end": "2026-12-31",
+      "close": "2027-09-30",
+      "rate": null,
+      "apr": null,
+      "amount": 2772,
+      "loan": "Cash or financed purchase; no lender requirement",
+      "lender": "Any lender",
+      "flags": [],
+      "terms": "Contract Oct. 1–Dec. 31 · close by Sep. 30, 2027 · maximum $2,772 and 3% purchase-price cap",
+      "access": "Full current official Charlotte promotion and legal terms reviewed",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "taylor-coves-flex-cash-nov30",
+      "b": "Taylor Morrison",
+      "c": "The Coves on Lake Wylie",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Up to $10,500 golf-cart voucher, Flex Cash OR financing incentive",
+      "tags": [
+        "price",
+        "closing",
+        "rate",
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/nc/charlotte/charlotte/the-coves-on-lake-wylie",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison's current Coves on Lake Wylie page offers one incentive of up to $10,500 on select to-be-built or quick-move-in homes. Buyers may choose a golf-cart voucher, eligible options, a quick-move-in price reduction, lot-premium credit or financing/closing-cost assistance; the alternatives are not additive. The non-financing voucher and Flex Cash paths are available to cash buyers and borrowers using any lender. Financing uses—including temporary buydown funds, discount points, up to one year of HOA dues, closing costs or prepaids—require Taylor Morrison Home Funding and the seller-selected closing agent. New purchase agreements must be written by November 30, 2026 and eligible homes must close by May 31, 2027. Exact amounts vary by home and buyer selections, and stacking is limited to what is expressly stated in the addendum.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": "2026-06-26",
+      "end": "2026-11-30",
+      "close": "2027-05-31",
+      "rate": null,
+      "apr": null,
+      "amount": 10500,
+      "loan": "Financing path may fund temporary buydown, points, HOA dues, closing costs or prepaids; exact rate/APR unavailable",
+      "lender": "Any lender for voucher/Flex Cash; Taylor Morrison Home Funding and seller-selected closing agent required for financing use",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract by Nov. 30 · close by May 31, 2027 · one alternative use up to $10,500 · select TBB/QMI homes",
+      "access": "Full current official community promotion and legal disclosure reviewed November 7",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "community": "The Coves on Lake Wylie",
+          "url": "https://www.google.com/maps/search/?api=1&query=22308+Sweetheart+Lane%2C+Charlotte%2C+NC+28278",
+          "note": "Exact community address published by Taylor Morrison"
+        }
+      ],
+      "deadlineType": "Contract deadline",
+      "tag": "price"
+    },
+    {
+      "id": "taylor-charlotte-community-status",
+      "b": "Taylor Morrison",
+      "c": "Charlotte-area community status",
+      "city": "Charlotte, NC",
+      "counties": [
+        "Mecklenburg"
+      ],
+      "offer": "Community update · The Coves on Lake Wylie and Senata at Research Park currently selling",
+      "tags": [],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/nc/charlotte/charlotte/the-coves-on-lake-wylie",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison's official community pages list The Coves on Lake Wylie as now selling and show available homes, while Senata at Research Park states that available homes are ready now. The builder publishes the Coves community location at 22308 Sweetheart Lane and Senata's current community location at 2017 Hawksworth Lane; both are included as map pins. These location records do not imply that every home qualifies for the separate financing or price promotions.",
+      "checked": "2026-11-07",
+      "published": null,
+      "start": null,
+      "end": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "Community-status record only",
+      "lender": "Not applicable to the status record",
+      "flags": [],
+      "terms": "Exact builder-published community locations · promotion eligibility must be confirmed separately",
+      "access": "Current official community and directions pages reviewed",
+      "extraSources": [
+        {
+          "name": "Google Maps directions",
+          "community": "The Coves on Lake Wylie",
+          "url": "https://www.google.com/maps/search/?api=1&query=22308+Sweetheart+Lane%2C+Charlotte%2C+NC+28278",
+          "note": "Exact community address published by Taylor Morrison"
+        },
+        {
+          "name": "Senata at Research Park",
+          "url": "https://www.taylormorrison.com/nc/charlotte/charlotte/senata-at-research-park",
+          "note": "Official page states available homes are ready now"
+        },
+        {
+          "name": "Google Maps directions",
+          "community": "Senata at Research Park",
+          "url": "https://www.google.com/maps/search/?api=1&query=2017+Hawksworth+Lane%2C+Charlotte%2C+NC+28262",
+          "note": "Current exact community address published by Taylor Morrison"
+        }
+      ],
+      "deadlineType": "Offer deadline",
+      "tag": "status"
+    }
+  ]
+}
