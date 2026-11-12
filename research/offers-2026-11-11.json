@@ -444,7 +444,7 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "4.990% Conventional 7/6 ARM · 5.968%–5.992% APR · up to $20,000 savings on rate-tagged homes",
+      "offer": "4.990% Conventional 7/6 ARM · 5.968%–5.998% APR · up to $20,000 savings on rate-tagged homes",
       "tags": [
         "rate",
         "price"
@@ -452,7 +452,7 @@
       "kind": "official",
       "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
       "sourceName": "Pulte Homes",
-      "detail": "Pulte's current official Mallard Park inventory displays a 4.990% Conventional 7/6 ARM on select quick move-ins, with published homesite APRs from 5.968% to 5.992% and up to $20,000 in price savings on the current rate-tagged homes. The rate is fixed for seven years and then adjusts every six months. A separate current listing shows $27,500 in price savings without an advertised rate, so that amount is not combined with the mortgage offer. The financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, uses a 780 FICO and 20% down Conventional illustration, and says available incentives may be applied toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase. A contract deadline, closing deadline, adjustment caps, index and margin, owner-occupancy rule and stacking terms remain unavailable.",
+      "detail": "Pulte's current official Mallard Park inventory displays a 4.990% Conventional 7/6 ARM on select quick move-ins, with published homesite APRs from 5.968% to 5.998% and up to $20,000 in price savings on current rate-tagged homes. The rate is fixed for seven years and then adjusts every six months. A separate current listing shows $27,500 in price savings without an advertised rate, so that amount is not combined with the mortgage offer. The financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, uses a 780 FICO and 20% down Conventional illustration, and says available incentives may be applied toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase. A contract deadline, closing deadline, adjustment caps, index and margin, owner-occupancy rule and stacking terms remain unavailable.",
       "checked": "2026-11-11",
       "published": null,
       "end": null,
@@ -467,12 +467,17 @@
         "move"
       ],
       "terms": "Select Mallard Park quick move-ins · up to $20,000 savings on current rate-tagged homes · contract and closing deadlines unavailable",
-      "access": "Current official Mallard Park inventory cards and financing disclosures reviewed November 11",
+      "access": "Current official Mallard Park community and homesite financing cards reviewed late November 11",
       "extraSources": [
         {
           "name": "Mallard Park",
           "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
           "note": "Official community inventory page"
+        },
+        {
+          "name": "Mallard Park Landis homesite 07100",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379/landis-700229/1153474",
+          "note": "Current official homesite card publishes 5.998% APR and $20,000 savings"
         }
       ],
       "deadlineType": "Offer deadline",
@@ -2427,19 +2432,20 @@
     {
       "id": "smith-charlotte-inventory-475-arm-55-fixed",
       "b": "Smith Douglas Homes",
-      "c": "Select Sunset Meadows and Dawson Landing inventory homes",
-      "city": "Charlotte, NC",
+      "c": "Select Sunset Meadows, Dawson Landing and Catawba Trace inventory homes",
+      "city": "Charlotte metro, NC",
       "counties": [
-        "Mecklenburg"
+        "Mecklenburg",
+        "Catawba"
       ],
       "offer": "4.75% 5/1 ARM OR 5.5% 30-year fixed · APR and qualification terms unavailable",
       "tags": [
         "rate"
       ],
       "kind": "official",
-      "source": "https://www.smithdouglas.com/homes/charlotte-nc/charlotte",
+      "source": "https://www.smithdouglas.com/homes/charlotte-nc",
       "sourceName": "Smith Douglas Homes",
-      "detail": "Smith Douglas' current Charlotte inventory page labels two specific inventory homes—4236 Ruth Creek Court in Sunset Meadows and 5975 Old Plank Road in Dawson Landing—as eligible for a 4.75% 5/1 ARM or 5.5% 30-year fixed rate. The page's legal footer only discloses the separate 4.99% ARM and 4.99% fixed programs, so this site does not infer an APR, loan type for the fixed rate, lender requirement, score, down payment, points, adjustment terms, deadline, closing-cost credit or stacking rule for the 4.75%/5.5% labels. Buyers should obtain the homesite-specific disclosure before relying on either rate.",
+      "detail": "Smith Douglas' current Charlotte-market inventory pages label three specific inventory homes—4236 Ruth Creek Court in Sunset Meadows, 5975 Old Plank Road in Dawson Landing and 2312 Painted Trail in Catawba Trace—as eligible for a 4.75% 5/1 ARM or 5.5% 30-year fixed rate. The pages' legal footer only discloses the separate 4.99% ARM and 4.99% fixed programs, so this site does not infer an APR, loan type for the fixed rate, lender requirement, score, down payment, points, adjustment terms, deadline, closing-cost credit or stacking rule for the 4.75%/5.5% labels. Buyers should obtain the homesite-specific disclosure before relying on either rate.",
       "checked": "2026-11-11",
       "published": null,
       "start": null,
@@ -2453,8 +2459,8 @@
       "flags": [
         "move"
       ],
-      "terms": "Two named inventory homes · APR, score, down payment, lender, deadlines, points and stacking unavailable",
-      "access": "Current official inventory cards reviewed November 11; no matching legal disclosure is published",
+      "terms": "Three named inventory homes · APR, score, down payment, lender, deadlines, points and stacking unavailable",
+      "access": "Current official Charlotte-market inventory cards rechecked late November 11; no matching legal disclosure is published",
       "extraSources": [
         {
           "name": "Google Maps directions",
@@ -2467,6 +2473,11 @@
           "community": "Dawson Landing · Grand Opening",
           "url": "https://www.google.com/maps/search/?api=1&query=35.286996%2C-80.899913",
           "note": "Exact coordinate linked by Smith Douglas Homes"
+        },
+        {
+          "name": "Catawba Trace inventory home",
+          "url": "https://www.smithdouglas.com/homes/charlotte-nc",
+          "note": "Current official inventory card for 2312 Painted Trail carries the 4.75% ARM / 5.5% fixed labels; the separate Catawba Trace community pin is already mapped from the builder-published address"
         }
       ],
       "deadlineType": "Offer deadline",
