@@ -28,7 +28,7 @@
       "lender": "A True Homes preferred lender is required for the credit; More Life Mortgage is identified as a preferred lender, but use is not required to purchase",
       "flags": [],
       "terms": "$2,000 toward closing costs or cash to close · rate, APR, score, eligible homes and deadline unavailable",
-      "access": "Current official FAQ and preferred-lender financing page reviewed November 14",
+      "access": "Current official FAQ reviewed late November 14",
       "extraSources": [
         {
           "name": "True Homes financing",
@@ -169,7 +169,7 @@
       "lender": "Not applicable",
       "flags": [],
       "terms": "Current official directory and community pages · no sold-out Charlotte-region DRB community identified in this review",
-      "access": "Current official regional directory and community pages reviewed November 14",
+      "access": "Current official Charlotte directory reviewed late November 14",
       "extraSources": [
         {
           "name": "Leigh Park",
@@ -444,7 +444,7 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "4.990% Conventional 7/6 ARM · 5.980%–6.013% APR · up to $20,000 savings on rate-tagged homes",
+      "offer": "4.990% Conventional 7/6 ARM · 5.968%–6.013% APR · up to $20,000 savings on rate-tagged homes",
       "tags": [
         "rate",
         "price"
@@ -452,14 +452,14 @@
       "kind": "official",
       "source": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
       "sourceName": "Pulte Homes",
-      "detail": "Pulte's current official Mallard Park inventory displays a 4.990% Conventional 7/6 ARM on select quick move-ins, with live community-page APRs ranging from 5.980% to 6.013% and up to $20,000 in price savings on current rate-tagged homes. The rate is fixed for seven years and then adjusts every six months. The financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, uses a 780 FICO and 20% down Conventional illustration, and says available incentives may be applied toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase. A contract deadline, closing deadline, adjustment caps, index and margin, owner-occupancy rule and stacking terms remain unavailable. Because the page is live inventory, APRs may change by homesite and request date.",
+      "detail": "Pulte's current official Mallard Park inventory displays a 4.990% Conventional 7/6 ARM on select quick move-ins, with live homesite APRs ranging from 5.968% to 6.013% and up to $20,000 in price savings on current rate-tagged homes. The rate is fixed for seven years and then adjusts every six months. The financing disclosure identifies a Pulte Mortgage Builder Forward Commitment, uses a 780 FICO and 20% down Conventional illustration, and says available incentives may be applied toward closing costs and discount points. Pulte Mortgage is required for the BFC rate but not to purchase. A contract deadline, closing deadline, adjustment caps, index and margin, owner-occupancy rule and stacking terms remain unavailable. Because the page is live inventory, APRs may change by homesite and request date.",
       "checked": "2026-11-14",
       "published": null,
       "end": null,
       "start": null,
       "close": null,
       "rate": 4.99,
-      "apr": 5.98,
+      "apr": 5.968,
       "amount": 20000,
       "loan": "Conventional 7/6 ARM · 20% down and 780 FICO used in published illustration · fixed seven years then adjusts every six months",
       "lender": "Pulte Mortgage required for the BFC rate; not required to purchase",
@@ -467,17 +467,22 @@
         "move"
       ],
       "terms": "Select Mallard Park quick move-ins · up to $20,000 savings on current rate-tagged homes · contract and closing deadlines unavailable",
-      "access": "Current official Mallard Park community financing cards reviewed November 14",
+      "access": "Current official Mallard Park community and homesite financing cards reviewed late November 14",
       "extraSources": [
         {
           "name": "Mallard Park",
           "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379",
-          "note": "Current official community inventory page publishes the 5.980%-6.013% live APR spread"
+          "note": "Current official community inventory page publishes the 4.990% ARM and live 5.997%-6.013% APR examples"
         },
         {
-          "name": "Mallard Park Landis homesite 07100",
-          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379/landis-700229/1153474",
-          "note": "Official homesite card publishes 5.998% APR and $20,000 savings"
+          "name": "Mallard Park Landis homesite 07000",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379/landis-700229/1153484",
+          "note": "Official homesite card publishes 5.983% APR and $20,000 savings"
+        },
+        {
+          "name": "Mallard Park Carson homesite 03100",
+          "url": "https://www.pulte.com/homes/north-carolina/charlotte/charlotte/mallard-park-211379/carson-700228/1155775",
+          "note": "Official homesite card publishes 5.968% APR and $20,000 savings"
         }
       ],
       "deadlineType": "Offer deadline",
@@ -516,7 +521,7 @@
         "move"
       ],
       "terms": "Select Mallard Park quick move-ins · permitted uses, deadline and stacking unavailable",
-      "access": "Current official Mallard Park inventory cards reviewed November 14",
+      "access": "Current official Mallard Park inventory cards reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Offer deadline",
       "tag": "price"
@@ -786,7 +791,7 @@
         "move"
       ],
       "terms": "Contract by Dec. 1 · close by Dec. 31 · select homes · new contracts from Oct. 29 · no rewrites or transfers",
-      "access": "Current official integration-host financing terms and companion production page reviewed November 14",
+      "access": "Current official integration-host disclosure and production community labels reviewed late November 14",
       "extraSources": [
         {
           "name": "M/I Holiday of Homes",
@@ -825,7 +830,7 @@
         "move"
       ],
       "terms": "Contract by Dec. 1 · close by Dec. 31 · select quick move-ins · no rewrites or transfers · score unavailable",
-      "access": "Current official integration-host financing terms and companion production page reviewed November 14",
+      "access": "Current official integration-host disclosure and production community labels reviewed late November 14",
       "extraSources": [
         {
           "name": "M/I Holiday of Homes",
@@ -907,7 +912,7 @@
       "lender": "M/I Financial, LLC required",
       "flags": [],
       "terms": "Contract by Dec. 1 · close by Dec. 31 · up to 3% of base price · lender/agency contribution limits apply",
-      "access": "Current official Holiday of Homes and companion financing terms reviewed November 14",
+      "access": "Current official Holiday of Homes disclosure reviewed late November 14",
       "extraSources": [
         {
           "name": "Home Sweet Savings",
@@ -1110,7 +1115,7 @@
       "lender": "Grace Home Lending required",
       "flags": [],
       "terms": "Purchase Apr. 29–Dec. 31 · closing costs OR rate buydown · present before signing",
-      "access": "Current official Charlotte market offer reviewed November 14",
+      "access": "Current official Charlotte offer reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "closing"
@@ -1548,7 +1553,7 @@
         "move"
       ],
       "terms": "Contract Nov. 9–22 · close by Dec. 31 · select QMI homes · pool of funds · pre-apply before offer · no general stacking",
-      "access": "Full current official promotion and legal terms reviewed November 14",
+      "access": "Full current official promotion and legal terms reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -1586,7 +1591,7 @@
         "move"
       ],
       "terms": "Contract Nov. 9–22 · close by Dec. 31 · headline says all closing costs, legally capped at 4% · HOA dues capped at $1,176 · no general stacking",
-      "access": "Full current official promotion headline and controlling legal terms reviewed November 14",
+      "access": "Full current official promotion and legal terms reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "closing"
@@ -2328,7 +2333,7 @@
       "lender": "No lender requirement published for this design incentive",
       "flags": [],
       "terms": "Contract Nov. 1–Dec. 31 · to-be-built Hardy Pond homes · Charlotte Design Center · no stacking · maximum discount $20,000",
-      "access": "Full current official Hardy Pond promotion reviewed November 14",
+      "access": "Full current official Hardy Pond promotion reviewed late November 14",
       "extraSources": [
         {
           "name": "Hardy Pond",
@@ -2460,7 +2465,7 @@
         "move"
       ],
       "terms": "Three named inventory homes · APR, score, down payment, lender, deadlines, points and stacking unavailable",
-      "access": "Current official Charlotte-market inventory cards reviewed November 14; matching legal terms remain unavailable",
+      "access": "Current official Charlotte inventory and financing labels reviewed late November 14",
       "extraSources": [
         {
           "name": "Google Maps directions",
@@ -2516,7 +2521,7 @@
       "lender": "Not applicable",
       "flags": [],
       "terms": "Official market page · 14 communities · Country Club Village and Hickory Glen sold out · four communities coming soon",
-      "access": "Current official 14-community Charlotte directory reviewed November 14",
+      "access": "Current official Charlotte directory reviewed late November 14",
       "extraSources": [
         {
           "name": "Google Maps directions",
@@ -2585,7 +2590,7 @@
         "move"
       ],
       "terms": "Select homes · fixed first five years · annual adjustments after month 60 through month 120 · contract and closing deadlines unavailable",
-      "access": "Current official Charlotte directory and financing disclosure reviewed November 14",
+      "access": "Current official Charlotte directory and financing disclosure reviewed late November 14",
       "extraSources": [
         {
           "name": "Smith Douglas Charlotte homes",
@@ -2663,12 +2668,12 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "Community update · 30 communities · official pages show 261 versus 336 homes · Falls Cove Sold Out",
+      "offer": "Community update · 30 communities · official pages show 258 versus 336 homes · Falls Cove Sold Out",
       "tags": [],
       "kind": "official",
       "source": "https://www.drhorton.com/north-carolina/charlotte/inventory",
       "sourceName": "D.R. Horton",
-      "detail": "D.R. Horton's current official Charlotte inventory page reports 30 communities and 261 homes for sale, while the regional Charlotte page separately displays 336 homes for sale. Because the builder's own current pages disagree, the site preserves both figures rather than choosing one. The regional page labels Anderson Street Townhomes, Kingman Townhomes and Oak Grove Hill as Now Selling; Sonoma Hills and Reedy Creek Preserve as Final Opportunities; Cardinal Creek as New Model Open; Brandon Creek as New Phase Now Selling; and Ashenwood Commons in Monroe as Coming Soon. The current Falls Cove page identifies that community as Sold Out. Ashenwood publishes no street number, so it is not promoted as an exact-address map pin.",
+      "detail": "D.R. Horton's current official Charlotte inventory page reports 30 communities and 258 homes for sale. The builder's separate regional Charlotte page displayed 336 homes in the earlier November 14 review. Because the builder's own same-day pages disagree, the site preserves both figures and their evidence rather than choosing one. The regional page labels Anderson Street Townhomes, Kingman Townhomes and Oak Grove Hill as Now Selling; Sonoma Hills and Reedy Creek Preserve as Final Opportunities; Cardinal Creek as New Model Open; Brandon Creek as New Phase Now Selling; and Ashenwood Commons in Monroe as Coming Soon. The current Falls Cove page identifies that community as Sold Out. Ashenwood publishes no street number, so it is not promoted as an exact-address map pin.",
       "checked": "2026-11-14",
       "published": null,
       "end": null,
@@ -2682,8 +2687,8 @@
       "flags": [
         "move"
       ],
-      "terms": "30 communities · 261 homes on inventory page / 336 on regional page · Falls Cove Sold Out · Ashenwood Coming Soon",
-      "access": "Current indexed official inventory and regional pages reviewed November 14; the conflicting builder counts are preserved",
+      "terms": "30 communities · 258 homes on inventory page / 336 on earlier same-day regional page · Falls Cove Sold Out · Ashenwood Coming Soon",
+      "access": "Current indexed official inventory reviewed late November 14; earlier same-day regional count retained with its official source because the builder pages conflict",
       "extraSources": [
         {
           "name": "D.R. Horton Charlotte communities",
@@ -2942,7 +2947,7 @@
         "move"
       ],
       "terms": "Contract Nov. 2–15 · close by Dec. 20 · up to $30,000 · financing-linked credits capped at 3% · no combination with other promotions",
-      "access": "Full current official promotion and legal terms reviewed November 14",
+      "access": "Full current official promotion and legal terms reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "closing"
@@ -2981,7 +2986,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select homes at 7 named communities · financing details unavailable",
-      "access": "Full current official Specials page reviewed November 14",
+      "access": "Full current official Specials page reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -3017,7 +3022,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select homes · up to $20,000 Chasewood / $15,000 Rock Creek",
-      "access": "Full current official Specials page reviewed November 14",
+      "access": "Full current official Specials page reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "upgrade"
@@ -3052,7 +3057,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select homes · package value and stacking unavailable",
-      "access": "Full current official Specials page reviewed November 14",
+      "access": "Full current official Specials page reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "upgrade"
@@ -3088,7 +3093,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select Ashton Park and Blythe Mill homes · exact financing terms unavailable",
-      "access": "Full current official Specials page reviewed November 14",
+      "access": "Full current official Specials page reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -3124,7 +3129,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select Bryton Crossing townhomes · exact rate, APR and package value unavailable",
-      "access": "Full current official Specials page reviewed November 14",
+      "access": "Full current official Specials page reviewed late November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -3147,7 +3152,7 @@
       "source": "https://www.taylormorrison.com/make-moves/charlotte",
       "sourceName": "Taylor Morrison",
       "detail": "Taylor Morrison's current Charlotte quick-move-in offer combines a temporary buydown with a Conventional 7/6 ARM: 3.25% in year one and a 4.25% note rate for years two through seven, with a 5.49% APR. The 30-year example uses a $500,000 purchase price, $400,000 loan, 20% down, a 780 median credit score and owner occupancy. After 84 payments the rate may reset every six months using 30-day average SOFR plus a 2.75% margin, with a five-point first-adjustment cap, one-point later semiannual cap and 9.25% lifetime maximum. Seller also agrees to pay up to $7,000 toward the temporary buydown fund, discount points, up to one year of HOA dues, closing costs or prepaids. Contracts must be signed November 12-22, 2026 and close by January 8, 2027. Buyers must pre-apply and finance through Taylor Morrison Home Funding and use the seller-selected closing agent. Exact eligible homes and stacking outside an express addendum are unavailable.",
-      "checked": "2026-11-12",
+      "checked": "2026-11-14",
       "published": null,
       "start": "2026-11-12",
       "end": "2026-11-22",
@@ -3161,7 +3166,7 @@
         "move"
       ],
       "terms": "Contract Nov. 12-22 · close by Jan. 8, 2027 · up to $7,000 closing / points / HOA · select quick move-in homes",
-      "access": "Full current official Charlotte promotion and legal terms reviewed November 12",
+      "access": "Full current official Charlotte promotion and legal terms reviewed November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -3184,7 +3189,7 @@
       "source": "https://www.taylormorrison.com/make-moves/charlotte",
       "sourceName": "Taylor Morrison",
       "detail": "Taylor Morrison's current Charlotte offer advertises a 5.49% rate with a 5.60% APR on a 30-year Conventional fixed mortgage for select to-be-built homes, plus up to $6,000 at closing toward a temporary buydown fund, discount points, up to one year of HOA dues, closing costs or prepaids. The rate includes a nine-month lock. The example uses a $500,000 purchase price, $400,000 loan amount, 20% down, a 780 credit score and owner occupancy; the minimum loan amount is $225,000. Purchase agreements must be signed November 12-22, 2026 and eligible homes must close by July 31, 2027. Buyers must pre-apply and finance through Taylor Morrison Home Funding and use the seller's designated closing agent. The pool is limited, and stacking is available only where expressly allowed by addendum. Exact eligible homes and points are unavailable.",
-      "checked": "2026-11-12",
+      "checked": "2026-11-14",
       "published": null,
       "start": "2026-11-12",
       "end": "2026-11-22",
@@ -3198,7 +3203,7 @@
         "move"
       ],
       "terms": "Contract Nov. 12-22 · close by July 31, 2027 · up to $6,000 closing / points / HOA · minimum $225,000 loan",
-      "access": "Full current official Charlotte promotion and legal terms reviewed November 12",
+      "access": "Full current official Charlotte promotion and legal terms reviewed November 14",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -3220,7 +3225,7 @@
       "source": "https://www.taylormorrison.com/make-moves/charlotte",
       "sourceName": "Taylor Morrison",
       "detail": "Taylor Morrison's current Charlotte promotion identifies price reductions of up to $50,000 on select quick move-in homes. The reductions are already reflected in the advertised prices rather than an additional cash credit. Cash and financed buyers may qualify with any lender; active contracts written before November 12 are excluded. Eligible homes must close by December 31, 2026. The current inventory list may show larger historical price differences on individual homes, but the legal promotion disclosure supports only the up-to-$50,000 program claim, which is what this comparison publishes. The public terms do not publish a separate contract deadline or stacking rule, so those remain unavailable.",
-      "checked": "2026-11-12",
+      "checked": "2026-11-14",
       "published": null,
       "start": "2026-11-12",
       "end": "2026-12-31",
@@ -3234,7 +3239,7 @@
         "move"
       ],
       "terms": "Up to $50,000 already reflected in price · effective for new contracts from Nov. 12 · close by Dec. 31 · separate contract deadline unavailable",
-      "access": "Full current official Charlotte promotion and legal terms reviewed November 12",
+      "access": "Full current official Charlotte promotion and legal terms reviewed November 14",
       "extraSources": [],
       "deadlineType": "Closing deadline",
       "tag": "price"
@@ -3248,15 +3253,13 @@
         "Mecklenburg",
         "Cabarrus"
       ],
-      "offer": "Up to one year of HOA dues · maximum $2,772",
-      "tags": [
-        "closing"
-      ],
-      "kind": "official",
+      "offer": "Prior separate $2,772 HOA program no longer displayed",
+      "tags": [],
+      "kind": "historical",
       "source": "https://www.taylormorrison.com/make-moves/charlotte",
       "sourceName": "Taylor Morrison",
-      "detail": "Taylor Morrison's current Charlotte promotion offers up to one year of homeowners-association dues, capped at $2,772, on select homes. Cash and financed buyers may qualify with any lender. Purchase agreements must be signed October 1–December 31, 2026 and eligible homes must close by September 30, 2027. The incentive is also limited to 3% of the purchase price. The exact eligible homes and stacking permission are unavailable.",
-      "checked": "2026-11-12",
+      "detail": "Taylor Morrison's current Charlotte promotion no longer displays the previously saved standalone one-year HOA program capped at $2,772. HOA dues remain a permitted use inside the builder's separate quick-move-in and to-be-built financing allocations, but that does not support continued publication of the standalone program. No cancellation date or replacement eligibility is inferred; current standalone deadline, lender and stacking terms are unavailable.",
+      "checked": "2026-11-14",
       "published": null,
       "start": "2026-10-01",
       "end": "2026-12-31",
@@ -3268,7 +3271,7 @@
       "lender": "Any lender",
       "flags": [],
       "terms": "Contract Oct. 1–Dec. 31 · close by Sep. 30, 2027 · maximum $2,772 and 3% purchase-price cap",
-      "access": "Full current official Charlotte promotion and legal terms reviewed November 12",
+      "access": "Full current official Charlotte promotion reviewed November 14; standalone $2,772 program absent, so it is hidden from the live comparison",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "closing"
@@ -3346,7 +3349,7 @@
       "lender": "Not applicable to the status record",
       "flags": [],
       "terms": "Current Charlotte market directory · 8 selling · 3 final opportunities · 6 coming soon · 2 sold out",
-      "access": "Current official Charlotte market directory reviewed November 14; financing page timed out, so rate records retain their November 12 check date",
+      "access": "Current official Charlotte market directory reviewed November 14",
       "extraSources": [
         {
           "name": "Google Maps directions",
@@ -3391,6 +3394,42 @@
       ],
       "deadlineType": "Offer deadline",
       "tag": "status"
+    },
+    {
+      "id": "taylor-charlotte-qmi-3875-arm-nov14",
+      "b": "Taylor Morrison",
+      "c": "Select Charlotte quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Cabarrus"
+      ],
+      "offer": "3.875% Conventional 7/6 ARM · 5.218% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://www.taylormorrison.com/make-moves/charlotte",
+      "sourceName": "Taylor Morrison",
+      "detail": "Taylor Morrison separately advertises a 3.875% note rate with a 5.218% APR on a 30-year Conventional 7/6 ARM for select Charlotte quick move-in homes. The published illustration uses a $500,000 purchase price, $400,000 loan, 20% down, 780 median credit score and owner occupancy. The rate is fixed for 84 months and may then adjust every six months using 30-day average SOFR plus a 2.75% margin. The later-adjustment cap is one percentage point and the lifetime cap is five points, for a maximum rate of 8.875%; the first-adjustment cap is not stated. Buyers must pre-apply and finance through Taylor Morrison Home Funding and use the seller-selected closing agent. Contracts must be signed November 10-30 and close by December 31, 2026. Limited funds apply. The builder does not state a temporary buydown or attach the separate $7,000 allocation to this offer, so neither is inferred.",
+      "checked": "2026-11-14",
+      "published": null,
+      "start": "2026-11-10",
+      "end": "2026-11-30",
+      "close": "2026-12-31",
+      "rate": 3.875,
+      "apr": 5.218,
+      "amount": null,
+      "loan": "Conventional 7/6 ARM · 30 years · 20% down and 780 score example · owner occupied · first-adjustment cap unavailable",
+      "lender": "Taylor Morrison Home Funding + seller-designated closing agent required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 10-30 · close by Dec. 31 · limited funds · no separate credit or temporary buydown inferred",
+      "access": "Full current official Charlotte promotion and legal terms reviewed November 14",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
     }
   ]
 }
