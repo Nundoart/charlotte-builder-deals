@@ -648,17 +648,17 @@
     {
       "id": "lennar-fall-super-sale",
       "b": "Lennar",
-      "c": "Black Friday · select Charlotte-area homes",
+      "c": "Charlotte-area move-in-ready inventory",
       "city": "Charlotte metro · NC & SC",
       "counties": [],
-      "offer": "Black Friday · home-specific price reductions; universal maximum and financing terms unavailable",
+      "offer": "122 move-in-ready / quick move-in homes · exact current incentive terms unavailable",
       "tags": [
-        "price"
+        "status"
       ],
       "kind": "official",
-      "source": "https://www.lennar.com/find-a-home?market=CHA&state=NC",
+      "source": "https://www.lennar.com/new-homes/north-carolina/charlotte",
       "sourceName": "Lennar",
-      "detail": "Lennar's current official Charlotte inventory advertises Black Friday and displays home-specific price reductions across 162 available homes in 27 communities. The expired November 9-15 mortgage campaign is retained separately in history and is not applied to these listings. The current inventory page does not publish a universal maximum discount, replacement note rate, APR, contract deadline, closing deadline, lender requirement, credit-score requirement, down payment, points or stacking rule. Those terms remain unavailable rather than inferred from individual listing payments or the expired promotion.",
+      "detail": "Lennar's current official Charlotte market page no longer displays the prior Black Friday headline. It reports 122 move-in-ready and quick move-in homes across the Charlotte area and says builder incentives such as rate buydowns and closing-cost assistance may be available on select homes when using Lennar Mortgage. The page does not publish a current universal discount, note rate, APR, eligible-address list, contract deadline, closing deadline, credit score, down payment, points or stacking rule. The expired November 9-15 campaign remains in history and is not applied to current inventory.",
       "checked": "2026-11-16",
       "published": null,
       "end": null,
@@ -667,16 +667,16 @@
       "rate": null,
       "apr": null,
       "amount": null,
-      "loan": "Current Black Friday inventory does not publish a replacement promotional loan type, note rate, APR, score or down payment",
-      "lender": "No lender requirement stated for the displayed home-specific price reductions",
+      "loan": "Current market page does not publish a replacement loan type, note rate, APR, score or down payment",
+      "lender": "Lennar Mortgage is optional to purchase; the page says select builder financing incentives may require it",
       "flags": [
         "move"
       ],
-      "terms": "162 available homes · 27 communities · price reductions vary by address · replacement mortgage terms and deadline unavailable",
-      "access": "Current official Charlotte inventory page reviewed November 16; expired rate campaign hidden separately",
+      "terms": "122 move-in-ready / quick move-in homes · exact rate, credit, eligibility and deadline unavailable",
+      "access": "Current official Charlotte market page reviewed late November 16; prior Black Friday headline absent",
       "extraSources": [],
-      "deadlineType": "Offer deadline",
-      "tag": "price"
+      "deadlineType": "Status checked",
+      "tag": "status"
     },
     {
       "id": "mi-game-time-fha",
@@ -2662,12 +2662,12 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "Community update · 30 communities · current inventory 257 homes · Falls Cove Sold Out",
+      "offer": "Community update · 30 communities · current inventory 263 homes · Falls Cove Sold Out",
       "tags": [],
       "kind": "official",
       "source": "https://www.drhorton.com/north-carolina/charlotte/inventory",
       "sourceName": "D.R. Horton",
-      "detail": "D.R. Horton's current official Charlotte inventory reports 30 communities and 257 homes for sale. An earlier official regional page displayed a conflicting 336-home total; that historical discrepancy remains documented in Daily Review, but the live status card now leads with today's directly indexed inventory count. Anderson Street Townhomes, Kingman Townhomes and Oak Grove Hill remain Now Selling; Sonoma Hills and Reedy Creek Preserve remain Final Opportunities; Cardinal Creek remains New Model Open; Brandon Creek remains New Phase Now Selling; and Ashenwood Commons remains Coming Soon. Falls Cove remains Sold Out. Ashenwood publishes no street number, so it is not promoted as an exact-address map pin.",
+      "detail": "D.R. Horton's current official Charlotte inventory reports 30 communities and 263 homes for sale, up from 257 in the earlier November 16 review. An earlier official regional page displayed a conflicting 336-home total; that historical discrepancy remains documented in Daily Review, while the live status card leads with the current indexed inventory. Anderson Street Townhomes, Kingman Townhomes and Oak Grove Hill remain Now Selling; Sonoma Hills and Reedy Creek Preserve remain Final Opportunities; Cardinal Creek remains New Model Open; Brandon Creek remains New Phase Now Selling; Ashenwood Commons remains Coming Soon; and Falls Cove remains Sold Out. Ashenwood still lacks a street number, so no map pin is added.",
       "checked": "2026-11-16",
       "published": null,
       "end": null,
@@ -2681,8 +2681,8 @@
       "flags": [
         "move"
       ],
-      "terms": "30 communities · 257 current inventory homes · Falls Cove Sold Out · Ashenwood Coming Soon",
-      "access": "Current indexed official Charlotte inventory reviewed November 16; prior builder-count conflict preserved in Daily Review",
+      "terms": "30 communities · 263 current inventory homes · Falls Cove Sold Out · Ashenwood Coming Soon",
+      "access": "Current indexed official Charlotte inventory reviewed late November 16; prior builder-count conflict preserved in Daily Review",
       "extraSources": [
         {
           "name": "D.R. Horton Charlotte communities",
@@ -3433,32 +3433,32 @@
       "counties": [
         "Rowan"
       ],
-      "offer": "Up to $16,000 toward closing costs",
+      "offer": "4.75% 5/1 ARM on select homes · APR and qualification terms unavailable",
       "tags": [
-        "closing"
+        "rate"
       ],
       "kind": "official",
       "source": "https://www.smithdouglas.com/communities/charlotte-nc",
       "sourceName": "Smith Douglas Homes",
-      "detail": "Smith Douglas Homes' current Charlotte market directory labels Winecoff Now Selling and advertises up to $16,000 toward closing costs. The public current headline does not publish a matching contract deadline, closing deadline, eligible-home list, required lender, loan type, note rate, APR, credit score, down payment or stacking terms. The site's older promotion records ended October 31 and are not reused to fill these gaps.",
+      "detail": "Smith Douglas Homes' current Charlotte market directory labels Winecoff Now Selling and now advertises a 4.75% 5/1 ARM on select homes instead of the earlier up-to-$16,000 community headline. The current directory does not publish a matching APR, loan program, lender, minimum score, down payment, adjustment index, margin, caps, eligible-home list, contract deadline, closing deadline or stacking rule. Older community-page amounts and 4.99% disclosures are not used to fill the current headline's gaps.",
       "checked": "2026-11-16",
       "published": null,
       "start": null,
       "end": null,
       "close": null,
-      "rate": null,
+      "rate": 4.75,
       "apr": null,
-      "amount": 16000,
-      "loan": "Current headline does not publish loan type, rate, APR, score or down payment",
+      "amount": null,
+      "loan": "5/1 ARM · loan program, adjustment details, score and down payment unavailable",
       "lender": "Current headline does not identify a required lender",
       "flags": [
         "move"
       ],
-      "terms": "Now Selling · up to $16,000 closing costs · eligibility, deadlines and stacking unavailable",
-      "access": "Current official Charlotte market directory reviewed November 16",
+      "terms": "Now Selling · select homes · APR, qualification terms, deadlines and stacking unavailable",
+      "access": "Current official Charlotte market directory reviewed late November 16; older community-page conflict flagged",
       "extraSources": [],
       "deadlineType": "Offer deadline",
-      "tag": "closing"
+      "tag": "rate"
     },
     {
       "id": "smith-rowe-current-9k",
@@ -3475,7 +3475,7 @@
       "kind": "official",
       "source": "https://www.smithdouglas.com/communities/charlotte-nc",
       "sourceName": "Smith Douglas Homes",
-      "detail": "Smith Douglas Homes' current Charlotte market directory labels Rowe Crossing Grand Opening and advertises up to $9,000 in closing costs. The current headline does not publish a matching contract deadline, closing deadline, eligible-home list, required lender, loan type, note rate, APR, credit score, down payment or stacking terms. Older October promotion terms are not applied to the current headline.",
+      "detail": "Smith Douglas Homes' current Charlotte market directory labels Rowe Crossing Grand Opening and advertises up to $9,000 in closing costs. Separate current official Newton inventory cards advertise up to $16,000 on selected Rowe Crossing quick move-ins. These are preserved as separate builder-published offers and are not added together. Neither current source publishes a matching contract deadline, closing deadline, required lender, loan type, note rate, APR, credit score, down payment or stacking rule.",
       "checked": "2026-11-16",
       "published": null,
       "start": null,
@@ -3490,8 +3490,14 @@
         "move"
       ],
       "terms": "Grand Opening · up to $9,000 closing costs · eligibility, deadlines and stacking unavailable",
-      "access": "Current official Charlotte market directory reviewed November 16",
-      "extraSources": [],
+      "access": "Current official Charlotte market directory and Newton inventory reviewed late November 16; separate amounts preserved by scope",
+      "extraSources": [
+        {
+          "name": "Rowe Crossing current inventory",
+          "url": "https://www.smithdouglas.com/homes/charlotte-nc/newton",
+          "note": "Official current inventory cards separately advertise up to $16,000 on selected quick move-ins"
+        }
+      ],
       "deadlineType": "Offer deadline",
       "tag": "closing"
     },
@@ -3503,14 +3509,14 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "Half off upgrades up to $15,000",
+      "offer": "Official pages conflict: half off upgrades up to $15,000 or $20,000",
       "tags": [
         "upgrade"
       ],
       "kind": "official",
       "source": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte/ember-glen",
       "sourceName": "Smith Douglas Homes",
-      "detail": "Ember Glen's current official community header advertises half off upgrades up to $15,000. The page's older detailed legal paragraph still carries an October 31 cutoff and therefore is not used as current eligibility language. Current eligible homes, contract and closing deadlines, lender requirement, financing conditions, stacking and whether $15,000 describes selections or the maximum discount are unavailable.",
+      "detail": "Smith Douglas Homes' current Charlotte market directory advertises half off upgrades up to $20,000 at Ember Glen, while the builder's current Charlotte-city directory and community header display half off upgrades up to $15,000. Because the official pages conflict, the site publishes both figures and does not choose a higher value. Current eligible homes, discount calculation, lender requirement, financing conditions, contract and closing deadlines and stacking rules remain unavailable; an expired footer is not reused.",
       "checked": "2026-11-16",
       "published": null,
       "start": null,
@@ -3518,13 +3524,24 @@
       "close": null,
       "rate": null,
       "apr": null,
-      "amount": 15000,
+      "amount": null,
       "loan": "Upgrade incentive; current financing conditions unavailable",
       "lender": "Current headline does not identify a required lender",
       "flags": [],
-      "terms": "Grand Opening · half off upgrades up to $15,000 · current legal deadline and eligibility unavailable",
-      "access": "Current official Ember Glen header reviewed November 16; expired footer conflict flagged",
-      "extraSources": [],
+      "terms": "Grand Opening · official current pages show $15,000 and $20,000 caps · exact applicable cap and legal terms unavailable",
+      "access": "Current official market and city directories reviewed late November 16; conflicting builder amounts flagged",
+      "extraSources": [
+        {
+          "name": "Smith Douglas Charlotte market directory",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc",
+          "note": "Current directory displays half off upgrades up to $20,000"
+        },
+        {
+          "name": "Smith Douglas Charlotte city directory",
+          "url": "https://www.smithdouglas.com/communities/charlotte-nc/charlotte",
+          "note": "Current city directory displays half off upgrades up to $15,000"
+        }
+      ],
       "deadlineType": "Offer deadline",
       "tag": "upgrade"
     },
@@ -3632,6 +3649,76 @@
       "extraSources": [],
       "deadlineType": "Offer deadline",
       "tag": "price"
+    },
+    {
+      "id": "smith-rowe-current-inventory-16k",
+      "b": "Smith Douglas Homes",
+      "c": "Rowe Crossing · select quick move-in homes",
+      "city": "Newton, NC",
+      "counties": [
+        "Catawba"
+      ],
+      "offer": "Up to $16,000 toward closing costs on selected inventory homes",
+      "tags": [
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/homes/charlotte-nc/newton",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Current official Newton inventory cards advertise up to $16,000 in closing costs on selected Rowe Crossing quick move-ins, including 1711 and 1723 Rankin Avenue and 608, 616 and 620 Rowe Crossing Drive. The separate market-directory headline advertises up to $9,000 at the community level; the site preserves the two scopes separately and does not add them. Current lender, loan, rate, APR, score, down payment, contract deadline, closing deadline and stacking rules are unavailable.",
+      "checked": "2026-11-16",
+      "published": null,
+      "start": null,
+      "end": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 16000,
+      "loan": "Current inventory cards do not publish financing conditions",
+      "lender": "Current inventory cards do not identify a required lender",
+      "flags": [
+        "move"
+      ],
+      "terms": "Selected quick move-ins · up to $16,000 · eligibility, deadlines and stacking unavailable",
+      "access": "Current official Newton inventory cards reviewed late November 16",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "smith-cedar-current-21k",
+      "b": "Smith Douglas Homes",
+      "c": "Cedar Meadows · select inventory homes",
+      "city": "Monroe, NC",
+      "counties": [
+        "Union"
+      ],
+      "offer": "Up to $21,000 toward closing costs on selected inventory homes",
+      "tags": [
+        "closing"
+      ],
+      "kind": "official",
+      "source": "https://www.smithdouglas.com/communities/charlotte-nc/monroe/cedar-meadows",
+      "sourceName": "Smith Douglas Homes",
+      "detail": "Cedar Meadows' current official community page and inventory cards advertise up to $21,000 in closing costs on selected inventory homes, including 343, 361 and 367 Lively Crescent. The page's detailed legal paragraph still states a September 30 contract deadline and is treated as stale, so it is not used as current eligibility language. Current lender, loan, rate, APR, score, down payment, contract and closing deadlines and stacking rules are unavailable.",
+      "checked": "2026-11-16",
+      "published": null,
+      "start": null,
+      "end": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": 21000,
+      "loan": "Current inventory headline does not publish financing conditions",
+      "lender": "Current headline does not identify a required lender",
+      "flags": [
+        "move"
+      ],
+      "terms": "Selected inventory homes · up to $21,000 · current legal deadline, eligibility and stacking unavailable",
+      "access": "Current official Cedar Meadows page and inventory cards reviewed late November 16; expired footer flagged",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
+      "tag": "closing"
     }
   ]
 }
