@@ -132,6 +132,7 @@ builder_colors = {
     'D.R. Horton': '#7c3aed',
     'Taylor Morrison': '#d97706',
     'True Homes': '#059669',
+    'Tri Pointe Homes': '#db2777',
 }
 for offer in latest_offers['offers']:
     for source in offer.get('extraSources', []):
