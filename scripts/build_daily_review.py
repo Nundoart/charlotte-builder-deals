@@ -243,6 +243,13 @@ index = re.sub(
     f'<b id="dealCount">{sum(o.get("kind") == "official" and bool(o.get("tags")) and (not o.get("end") or o["end"] >= reviewed) for o in latest_offers["offers"])}</b><span>published offers</span>',
     index,
 )
+active_builder_count = len({o['b'] for o in latest_offers['offers'] if not is_expired(o)})
+index = re.sub(
+    r'<b>\d+</b><span>builders tracked</span>',
+    f'<b>{active_builder_count}</b><span>builders tracked</span>',
+    index,
+    count=1,
+)
 index = index.replace('Realtor reports and social excerpts remain unconfirmed. Missing deadlines stay labeled; expired offers are hidden by default.', 'Only current official builder pages and public builder listings appear in the live comparison. Missing terms stay labeled unavailable; expired offers are hidden by default.')
 index = index.replace('Source-linked offers and leads. Check each deadline and evidence label.', 'Current builder-source offers only. Check each deadline and eligibility label.')
 index = index.replace('offers and leads · researched', 'verified offers · researched')
