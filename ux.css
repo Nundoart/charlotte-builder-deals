@@ -4,3 +4,92 @@ body{line-height:1.6}a,button,input,select{touch-action:manipulation}button,sele
 @media(max-width:600px){.top{font-size:12px;letter-spacing:.02em}.top span:last-child{display:none}.nav{height:auto;min-height:72px;flex-wrap:wrap;padding:12px 16px;gap:8px}.brand{font-size:20px}.brandSub{font-size:10px}.navlinks{width:100%;gap:14px;justify-content:space-between;flex-wrap:wrap}.navlinks a,.savedNav,.navcta{font-size:14px}.navlinks a[href='#how']{display:none}.heroIn{display:grid;grid-template-columns:minmax(0,1fr) 80px;gap:14px;align-items:center}.heroCopy{padding:20px 0}.hero h1{font-size:28px;letter-spacing:-.035em}.hero h1 em{font-size:24px}.hero p{font-size:16px}.eyebrow{font-size:12px;letter-spacing:.025em}.heroVisual{min-height:150px;height:160px;border-radius:6px;margin:0;align-self:center}.heroActions{gap:16px;flex-wrap:wrap}.heroActions a{font-size:14px}.heroSecondary{display:none}.stats{padding:14px 0;flex-wrap:wrap;gap:12px}.stats>div{border:0;margin:0;padding:0;flex:1;min-width:85px;display:block}.stats b{font-size:24px;display:block}.stats span{font-size:12px;display:block;margin-top:4px}.main{padding-top:16px}.tools{grid-template-columns:1fr 1fr}.tools .field input,.tools .field select{font-size:16px}.clear{min-height:44px;font-size:14px}.sort{font-size:14px}.aside{gap:8px 16px}.aside .check{font-size:14px}.aside .field{min-width:0;width:100%;flex-basis:100%}.aside .field select{width:100%;font-size:14px}.sectionKicker{font-size:12px}.offer{font-size:23px}.terms{font-size:16px}.meta,.source,.evidenceTag{font-size:13px}.calcControls label{font-size:14px}.calc p{font-size:16px}#new-construction-buyers p{font-size:16px}#coverage p{font-size:16px}#help-launch{max-width:47%;left:10px;bottom:12px;font-size:14px;padding:10px 12px}.compareBtn{max-width:47%;right:10px;bottom:12px;font-size:14px;padding:10px 12px}.toast{bottom:76px}.quick-facts dd{font-size:14px}.cmp-nav>div>a{font-size:14px}.cmp-top{font-size:12px}.snapshot{font-size:16px!important}.cmp-hero h1{font-size:34px}}
 @media(max-width:380px){.heroIn{grid-template-columns:minmax(0,1fr)}.heroVisual{display:none}.calcControls{grid-template-columns:1fr}.brand{font-size:20px}.navlinks{gap:8px}.stats span{font-size:12px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Open Houses visual system, adapted for the builder comparison. */
+.oh-builder{--ink:#213a33;--navy:#173a32;--muted:#52635a;--line:#d5dbd0;--lime:#e7ebe0;background:#f6f4ee;color:var(--ink);font-family:'DM Sans',system-ui,-apple-system,sans-serif;letter-spacing:0}
+.oh-builder .top{display:none}
+.oh-builder .nav{max-width:1320px;height:auto;min-height:76px;padding:16px clamp(18px,5vw,64px);margin:auto}
+.oh-builder .brand{font-size:15px;letter-spacing:.12em;text-transform:uppercase;font-weight:750;line-height:1.2}
+.oh-builder .brandSub{letter-spacing:.21em;margin-top:3px}
+.oh-builder .mark{background:transparent;color:var(--navy);border:1px solid #a8baad;width:38px;height:38px;border-radius:4px;font-size:22px}
+.oh-builder .navlinks{gap:clamp(10px,2vw,26px)}
+.oh-builder .navcta,.oh-builder .heroPrimary{background:var(--navy);color:#fff;border-radius:4px}
+.oh-builder .heroPrimary:hover,.oh-builder .navcta:hover{background:#254d42}
+.oh-builder .hero{max-width:1400px;margin:0 auto;padding:0;background:transparent;color:var(--ink)}
+.oh-builder .heroIn{max-width:none;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0;min-height:350px}
+.oh-builder .heroCopy{padding:36px clamp(22px,6vw,86px)}
+.oh-builder .hero h1,.oh-builder .hero h1 em,.oh-builder .builder-heading h2,.oh-builder .offer{font-family:'Playfair Display',Georgia,serif;font-weight:500;letter-spacing:-.025em}
+.oh-builder .hero h1{margin:12px 0 15px;font-size:clamp(37px,4.05vw,62px);line-height:1.09;color:var(--ink)}
+.oh-builder .hero h1 em{color:#785f35;font-size:inherit}
+.oh-builder .eyebrow,.oh-builder .sectionKicker{color:#725a32;letter-spacing:.13em;font-weight:750}
+.oh-builder .hero p{color:#55645b;margin:0;line-height:1.65}
+.oh-builder .heroActions{gap:20px;flex-wrap:wrap}
+.oh-builder .heroSecondary{color:var(--navy);border-color:#9bae9d}
+.oh-builder .heroVisual{min-height:350px;max-height:none;border-radius:72px 0 0 0;margin:0}
+.oh-builder .heroVisual img{filter:saturate(.93)}
+.oh-builder .heroVisual figcaption{display:block}
+.oh-builder .stats{max-width:none;background:var(--navy);justify-content:center;gap:clamp(16px,4vw,60px);padding:15px 20px;border:0}
+.oh-builder .stats>div{border:0;margin:0;padding:0;min-width:0;gap:8px}
+.oh-builder .stats span{color:#e2e8db;font-size:13px}.oh-builder .stats b{color:#fff;font-size:22px}.oh-builder .stats p{margin:0;color:#d0ddd2}
+.oh-builder .main{max-width:1240px;padding:38px clamp(16px,3vw,32px) 80px}
+.oh-builder .builder-heading h2{font-size:clamp(31px,3.7vw,46px);margin:7px 0 12px;line-height:1.12}
+.oh-builder .tools{display:grid;grid-template-columns:minmax(0,1fr) auto;background:none;border:0;padding:0;gap:10px;margin:0}
+.oh-builder .tools .field:first-child{grid-column:auto}
+.oh-builder .tools .field,.oh-builder .sectionbar,.oh-builder .aside .field{min-width:0}
+.oh-builder .tools .field{background:#fff;border-radius:4px}
+.oh-builder .tools .field input{width:100%;min-width:0}
+.oh-builder .filterToggle,.oh-builder .clear,.oh-builder .quickbar button{border:1px solid var(--line);border-radius:4px;background:#fff;color:var(--ink);padding:9px 12px;font-weight:650}
+.oh-builder .filterToggle[aria-expanded=true],.oh-builder .quickbar button[aria-pressed=true]{background:var(--navy);border-color:var(--navy);color:#fff}
+.oh-builder .quickbar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.oh-builder .quickbar button{font-size:14px}
+.oh-builder .builderFilters{margin:12px 0}
+.oh-builder .builderFilters summary{width:max-content;max-width:100%;color:#42574c;font-size:14px;cursor:pointer;min-height:32px}
+.oh-builder .advancedOptions{background:#efefe7;border:1px solid #d7dbd0;border-radius:4px;padding:14px;margin-top:4px}
+.oh-builder .advancedFields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.oh-builder .advancedFields .field{background:white}
+.oh-builder .aside{display:flex;position:static;align-items:center;flex-wrap:wrap;padding:12px 0 0;border:0;background:transparent;box-shadow:none;gap:8px 18px;min-width:0}
+.oh-builder .aside .check{margin:0;display:inline-flex;align-items:center;min-height:44px}
+.oh-builder .aside input{width:17px;height:17px}
+.oh-builder .sectionbar{margin:20px 0 13px;display:flex;align-items:center}
+.oh-builder .sectionbar p{margin:0;font-size:14px}
+.oh-builder .sort{background:#fff}
+.oh-builder .layout{display:block}
+.oh-builder #cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.oh-builder .card{border-radius:5px;box-shadow:none}
+.oh-builder .cardTop{background:var(--navy);color:#fff;border:0;padding:17px 18px}
+.oh-builder .cardTop .badge{background:transparent;color:#e7d9a8;padding:0;font-size:12px;letter-spacing:.065em}
+.oh-builder .card h3{margin:6px 0 4px;font-size:21px}
+.oh-builder .card .place{color:#e1ebe2;font-size:14px}
+.oh-builder .coverageCard .cardTop{background:#e6ebe1;color:var(--ink)}
+.oh-builder .coverageCard .cardTop .badge,.oh-builder .coverageCard .place{color:#405c4f}
+.oh-builder .offer{font-size:25px;line-height:1.19;color:var(--ink)}
+.oh-builder .card .details{background:var(--navy);border-color:var(--navy);border-radius:4px}
+.oh-builder .card .details:hover{background:#254d42}
+.oh-builder .card .details[data-compare]{color:var(--navy);background:transparent}
+.oh-builder .card .details[data-compare][aria-pressed=true]{background:#e7ebe0}
+.oh-builder .townhome-comparison-link{margin:22px 0!important}
+.oh-builder #community-map,.oh-builder #coverage,.oh-builder #new-construction-buyers{border-radius:5px!important}
+.oh-builder #how{background:#e5e8dc!important;border-radius:5px!important}
+.oh-builder :is(button,a,input,select,summary):focus-visible{outline:3px solid #6e5530;outline-offset:3px}
+@media(max-width:900px){.oh-builder #cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){
+.oh-builder .nav{display:flex;align-items:center;justify-content:space-between;min-height:60px;gap:8px;flex-wrap:wrap;padding:10px 16px}
+.oh-builder .navlinks{width:auto;min-width:0;gap:8px 12px;justify-content:flex-start}
+.oh-builder .navlinks a[href='#deals']{display:none}
+.oh-builder .navlinks a,.oh-builder .savedNav,.oh-builder .navcta{font-size:13px}
+.oh-builder .navcta{padding:8px 10px}.oh-builder .brand{font-size:13px}
+.oh-builder .heroIn{display:block;min-height:0}
+.oh-builder .heroCopy{padding:22px 16px 20px}
+.oh-builder .hero h1{font-size:clamp(30px,7.7vw,45px)}
+.oh-builder .heroVisual{display:none}
+.oh-builder .heroActions{margin-top:12px}
+.oh-builder .stats{padding:11px 12px;gap:10px}
+.oh-builder .stats>div{display:flex;flex:0 1 auto;gap:5px}
+.oh-builder .stats b{font-size:18px}.oh-builder .stats span{font-size:11px;margin:0}
+.oh-builder .stats p{display:none}
+.oh-builder .main{padding-top:24px}
+.oh-builder .sectionbar{gap:10px;align-items:flex-start;flex-wrap:wrap}
+.oh-builder .advancedFields{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:540px){.oh-builder #cards{grid-template-columns:minmax(0,1fr)}.oh-builder .quickbar{gap:6px}.oh-builder .quickbar button{padding:8px 9px}.oh-builder .tools .field{padding-inline:8px}.oh-builder .filterToggle{padding-inline:9px}.oh-builder .heroActions a{min-height:44px}.oh-builder .sort{max-width:100%;width:auto}}
+@media(prefers-reduced-motion:reduce){.oh-builder *{transition:none!important;animation:none!important}}
