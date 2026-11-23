@@ -82,15 +82,15 @@ for (const id of ['mi-home-sweet-fha', 'mi-home-sweet-arm', 'mi-holiday-of-homes
   verify(id, 'Full current official M/I Charlotte financing page and legal terms reviewed November 23');
 }
 
-// D.R. Horton no longer reproduces the prior numeric FHA/VA ARM terms on a current Charlotte page.
-for (const id of ['drhorton-charlotte-fha-arm-dec31', 'drhorton-charlotte-va-arm-dec31']) {
-  const offer = verify(id, 'Current official Charlotte pages reviewed November 23; prior numeric rate and APR are no longer reproduced');
-  offer.kind = 'unavailable';
-  offer.offer = `Unavailable: prior ${offer.offer} no longer reproduced`;
-  offer.end = null;
-  offer.close = null;
-  offer.terms = 'Current Charlotte pages advertise limited-time special-interest-rate opportunities, but exact rate, APR, lender conditions and deadlines are unavailable';
-}
+// D.R. Horton no longer reproduces the prior numeric FHA/VA ARM terms on a
+// current Charlotte page. Remove the stale records from both the static and
+// client datasets; the current exact-terms-unavailable record below replaces
+// them without repeating unsupported numbers.
+const staleDrHortonIds = new Set([
+  'drhorton-charlotte-fha-arm-dec31',
+  'drhorton-charlotte-va-arm-dec31',
+]);
+data.offers = data.offers.filter((offer) => !staleDrHortonIds.has(offer.id));
 
 Object.assign(verify('drhorton-charlotte-community-status'), {
   offer: 'Community update · 30 inventory communities · 261 inventory homes · regional directory 350 homes · Falls Cove Sold Out',
@@ -176,6 +176,9 @@ if (ids.length !== new Set(ids).size) throw new Error('Duplicate offer IDs after
 fs.writeFileSync(targetPath, `${JSON.stringify(data, null, 2)}\n`);
 
 const reviews = JSON.parse(fs.readFileSync(reviewsPath, 'utf8'));
+reviews.reports = reviews.reports.filter(
+  (report) => report.checked_at !== '2026-11-23T00:00:17-05:00',
+);
 reviews.reports.push({
   checked_at: '2026-11-23T00:00:17-05:00',
   summary: 'November 23 official-source refresh: Taylor Morrison opened three replacement finance windows through December 15. Lennar and Mattamy November 22 windows ended with no verified replacement and are hidden by default. D.R. Horton inventory changed to 261 homes across 30 inventory communities; its older numeric FHA/VA ARM disclosures are no longer reproduced, so exact current rate terms are marked unavailable. M/I December 1 contract deadlines remain intact. Other established builders were rechecked with no material incentive or community-status change.',

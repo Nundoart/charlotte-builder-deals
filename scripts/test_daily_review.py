@@ -65,7 +65,9 @@ class DailyReviewTests(unittest.TestCase):
             index = (root / 'dist/index.html').read_text()
             client_match = re.search(r'const deals=(\[.*?\]);\nconst \$=', index, re.S)
             self.assertIsNotNone(client_match)
-            client = {offer['id']: offer for offer in json.loads(client_match.group(1)) if offer['id'] in expected}
+            client_offers = json.loads(client_match.group(1))
+            client_ids = [offer['id'] for offer in client_offers]
+            client = {offer['id']: offer for offer in client_offers if offer['id'] in expected}
             self.assertEqual(expected, set(client))
             for offer_id in expected:
                 self.assertEqual('2026-12-01', client[offer_id]['end'])
@@ -92,6 +94,8 @@ class DailyReviewTests(unittest.TestCase):
             self.assertNotIn('offer-lennar-black-friday-nov16-nov22-rate', index)
             self.assertNotIn('offer-mattamy-14-days-fha-arm-nov22', index)
             self.assertNotIn('offer-drhorton-charlotte-fha-arm-dec31', index)
+            self.assertNotIn('drhorton-charlotte-fha-arm-dec31', client_ids)
+            self.assertNotIn('drhorton-charlotte-va-arm-dec31', client_ids)
             self.assertEqual(1, index.count('id="offer-david-weekley-charlotte-city-status-nov20"'))
 
 
