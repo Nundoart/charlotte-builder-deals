@@ -41,12 +41,12 @@ class DailyReviewTests(unittest.TestCase):
             for name in ('scripts', 'research', 'dist'):
                 (root / name).mkdir()
             shutil.copy2(ROOT / 'scripts/build_daily_review.py', root / 'scripts')
-            for name in ('reviews.json', 'offers-2026-11-21.json'):
+            for name in ('reviews.json', 'offers-2026-11-23.json'):
                 shutil.copy2(ROOT / 'research' / name, root / 'research' / name)
             for name in ('index.html', 'sitemap.xml'):
                 shutil.copy2(ROOT / 'dist' / name, root / 'dist' / name)
 
-            snapshot = json.loads((root / 'research/offers-2026-11-21.json').read_text())
+            snapshot = json.loads((root / 'research/offers-2026-11-23.json').read_text())
             ids = [offer['id'] for offer in snapshot['offers']]
             self.assertEqual(len(ids), len(set(ids)), 'Offer IDs must remain unique')
             expected = {'mi-home-sweet-fha', 'mi-home-sweet-arm'}
@@ -76,6 +76,23 @@ class DailyReviewTests(unittest.TestCase):
                 )
                 self.assertIsNotNone(card)
                 self.assertIn('Contract deadline: 2026-12-01', card.group(0))
+
+            taylor_expected = {
+                'taylor-charlotte-qmi-3875-arm-dec15',
+                'taylor-charlotte-qmi-arm-dec15',
+                'taylor-charlotte-fixed-dec15',
+            }
+            taylor = {offer['id']: offer for offer in snapshot['offers'] if offer['id'] in taylor_expected}
+            self.assertEqual(taylor_expected, set(taylor))
+            for offer in taylor.values():
+                self.assertEqual('2026-12-15', offer['end'])
+                self.assertEqual('Contract deadline', offer['deadlineType'])
+                self.assertEqual(1, len(re.findall(rf'id="offer-{re.escape(offer["id"])}"', index)))
+
+            self.assertNotIn('offer-lennar-black-friday-nov16-nov22-rate', index)
+            self.assertNotIn('offer-mattamy-14-days-fha-arm-nov22', index)
+            self.assertNotIn('offer-drhorton-charlotte-fha-arm-dec31', index)
+            self.assertEqual(1, index.count('id="offer-david-weekley-charlotte-city-status-nov20"'))
 
 
 if __name__ == '__main__':
