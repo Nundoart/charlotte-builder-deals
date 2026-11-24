@@ -2652,12 +2652,12 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "Community update · 30 inventory communities · 261 inventory homes · regional directory 350 homes · Falls Cove Sold Out",
+      "offer": "Community update · 30 inventory communities · 259 inventory homes · regional directory 350 homes · Falls Cove Sold Out",
       "tags": [],
       "kind": "official",
       "source": "https://www.drhorton.com/north-carolina/charlotte/inventory",
       "sourceName": "D.R. Horton",
-      "detail": "D.R. Horton's current Charlotte inventory directory reports 30 communities and 261 homes for sale. Its separate regional directory reports 350 homes, labels Falls Cove Sold Out and Ashenwood Commons Coming Soon, and lists other active and final-opportunity communities. The site presents both official counts because they come from different builder directories; neither is inferred to represent sales. Community map locations remain based on builder-published addresses.",
+      "detail": "D.R. Horton's current Charlotte inventory directory reports 30 communities and 259 homes for sale. Its separate regional directory reports 350 homes, labels Falls Cove Sold Out and Ashenwood Commons Coming Soon, and lists other active and final-opportunity communities. The site presents both official counts because they come from different builder directories; neither is inferred to represent sales. Community map locations remain based on builder-published addresses.",
       "checked": "2026-11-23",
       "published": null,
       "end": null,
@@ -2671,8 +2671,8 @@
       "flags": [
         "move"
       ],
-      "terms": "30 inventory communities · 261 inventory homes · broader regional directory 350 homes · Falls Cove Sold Out · Ashenwood Commons Coming Soon",
-      "access": "Current official Charlotte inventory and regional directories reviewed November 23",
+      "terms": "30 inventory communities · 259 inventory homes · broader regional directory 350 homes · Falls Cove Sold Out · Ashenwood Commons Coming Soon",
+      "access": "Current official Charlotte inventory directory reviewed late November 23; regional status directory reviewed November 23",
       "extraSources": [
         {
           "name": "D.R. Horton Charlotte communities",
@@ -4583,6 +4583,118 @@
       "extraSources": [],
       "deadlineType": "Status checked",
       "tag": "status"
+    },
+    {
+      "id": "mattamy-black-friday-fha-arm-nov29",
+      "b": "Mattamy Homes",
+      "c": "Black Friday · select Charlotte quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "York"
+      ],
+      "offer": "4.75% FHA 5/1 ARM · 6.43% APR",
+      "tags": [
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/black-friday",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy Homes' Black Friday promotion advertises a 4.75% starting rate and 6.43% APR on a 30-year FHA 5/1 ARM for select Charlotte quick move-in homes. The illustration uses a $472,000 purchase price, $463,450 loan, 3.5% down, a 640 median credit score, owner occupancy and upfront FHA mortgage insurance. The initial rate applies for 60 months, then may adjust annually using the 30-Day Average Treasury Rate index plus a 2.00% margin, with 1% first and annual caps and a 5% lifetime cap to 9.75%. Contracts must be entered November 23–29, 2026 and the eligible home must close by November 29. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Rewrites, transfers and prior canceled contracts are excluded; no stacking is allowed except where expressly written in the purchase addendum.",
+      "checked": "2026-11-23",
+      "published": null,
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "close": "2026-11-29",
+      "rate": 4.75,
+      "apr": 6.43,
+      "amount": null,
+      "loan": "30-year FHA 5/1 ARM · 3.5% down and 640 median score illustration · owner occupied · annual adjustments after month 60",
+      "lender": "Mattamy Home Funding + seller-selected closing agent required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 23–29 · close by Nov. 29 · select QMI homes · 640 score and 3.5% down illustration · pre-apply before offer",
+      "access": "Full current official promotion and legal terms reviewed November 23",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "rate"
+    },
+    {
+      "id": "mattamy-black-friday-closing-nov29",
+      "b": "Mattamy Homes",
+      "c": "Black Friday · select Charlotte quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "York"
+      ],
+      "offer": "All closing costs covered, legally capped at 4% of purchase price · up to $1,176 HOA dues",
+      "tags": [
+        "closing",
+        "rate"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/black-friday",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's Black Friday headline says all closing costs are covered, including lender, title, government, appraisal and credit-report fees. The controlling legal terms cap the seller contribution at 4% of total purchase price and permit it to fund those costs, prepaids, discount points, a temporary buydown and up to one year of HOA dues capped at $1,176. Contracts must be entered November 23–29, 2026 and the home must close by November 29. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Maximum contribution and underwriting limits apply; rewrites, transfers, prior canceled contracts and general stacking are excluded.",
+      "checked": "2026-11-23",
+      "published": null,
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "close": "2026-11-29",
+      "rate": 4.75,
+      "apr": 6.43,
+      "amount": null,
+      "loan": "Closing contribution may fund lender/title/government/appraisal/credit-report fees, prepaids, points, temporary buydown or up to $1,176 HOA dues",
+      "lender": "Mattamy Home Funding + seller-selected closing agent required",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 23–29 · close by Nov. 29 · headline says all closing costs, legally capped at 4% · HOA dues capped at $1,176",
+      "access": "Full current official promotion and legal terms reviewed November 23",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "closing"
+    },
+    {
+      "id": "mattamy-black-friday-appliances-nov30",
+      "b": "Mattamy Homes",
+      "c": "Black Friday · select Charlotte quick move-in homes",
+      "city": "Charlotte metro, NC",
+      "counties": [
+        "Mecklenburg",
+        "Union",
+        "York"
+      ],
+      "offer": "Washer + dryer + refrigerator package · $3,796 estimated retail value",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/black-friday",
+      "sourceName": "Mattamy Homes",
+      "detail": "Mattamy's separate Black Friday appliance incentive provides a refrigerator, washer and dryer package with an estimated retail value of $3,796 on eligible new Charlotte quick move-in contracts entered November 23–30, 2026 that close by December 31. The appliance incentive is distinct from the financing offer, is available to cash or financed buyers and does not require Mattamy Home Funding. Published appliance models may be substituted, and the package cannot be exchanged for cash or other options. Rewrites, transfers and prior canceled contracts are excluded.",
+      "checked": "2026-11-23",
+      "published": null,
+      "start": "2026-11-23",
+      "end": "2026-11-30",
+      "close": "2026-12-31",
+      "rate": null,
+      "apr": null,
+      "amount": 3796,
+      "loan": "Cash or financed purchase; no loan type, rate, APR, score or down-payment condition stated",
+      "lender": "No affiliated-lender requirement for the appliance incentive",
+      "flags": [
+        "move"
+      ],
+      "terms": "Contract Nov. 23–30 · close by Dec. 31 · select QMI homes · specified appliances · no cash substitution",
+      "access": "Full current official promotion and legal terms reviewed November 23",
+      "extraSources": [],
+      "deadlineType": "Contract deadline",
+      "tag": "upgrade"
     }
   ]
 }

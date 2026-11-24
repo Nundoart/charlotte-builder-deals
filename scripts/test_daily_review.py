@@ -98,6 +98,21 @@ class DailyReviewTests(unittest.TestCase):
             self.assertNotIn('drhorton-charlotte-va-arm-dec31', client_ids)
             self.assertEqual(1, index.count('id="offer-david-weekley-charlotte-city-status-nov20"'))
 
+            mattamy_expected = {
+                'mattamy-black-friday-fha-arm-nov29',
+                'mattamy-black-friday-closing-nov29',
+                'mattamy-black-friday-appliances-nov30',
+            }
+            mattamy = {offer['id']: offer for offer in client_offers if offer['id'] in mattamy_expected}
+            self.assertEqual(mattamy_expected, set(mattamy))
+            for offer_id in mattamy_expected:
+                self.assertEqual(1, client_ids.count(offer_id))
+                self.assertEqual(1, index.count(f'id="offer-{offer_id}"'))
+            self.assertEqual('2026-11-29', mattamy['mattamy-black-friday-fha-arm-nov29']['end'])
+            self.assertEqual('2026-11-29', mattamy['mattamy-black-friday-closing-nov29']['close'])
+            self.assertEqual('2026-11-30', mattamy['mattamy-black-friday-appliances-nov30']['end'])
+            self.assertEqual('2026-12-31', mattamy['mattamy-black-friday-appliances-nov30']['close'])
+
 
 if __name__ == '__main__':
     unittest.main()
