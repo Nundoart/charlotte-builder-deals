@@ -113,6 +113,25 @@ class DailyReviewTests(unittest.TestCase):
             self.assertEqual('2026-11-30', mattamy['mattamy-black-friday-appliances-nov30']['end'])
             self.assertEqual('2026-12-31', mattamy['mattamy-black-friday-appliances-nov30']['close'])
 
+            self.assertIn('Reviewed November 25, 2026', index)
+            self.assertEqual(1, client_ids.count('eastwood-charlotte-appliance-package-11-current'))
+            self.assertEqual(1, index.count('id="offer-eastwood-charlotte-appliance-package-11-current"'))
+            meritage_history = next(
+                offer for offer in client_offers
+                if offer['id'] == 'meritage-charlotte-flex-cash-current-nov20'
+            )
+            self.assertEqual('historical', meritage_history['kind'])
+            self.assertEqual('2026-10-31', meritage_history['end'])
+            self.assertNotIn('offer-meritage-charlotte-flex-cash-current-nov20', index)
+            self.assertEqual(1, client_ids.count('smith-paw-vip-pricing-current'))
+            self.assertEqual(1, index.count('id="offer-smith-paw-vip-pricing-current"'))
+            self.assertIn('Up to $16,000 closing costs + move-in package', index)
+            self.assertEqual(1, client_ids.count('eastwood-charlotte-move-in-package'))
+            self.assertEqual('8 Charlotte-area communities', next(
+                offer['c'] for offer in client_offers
+                if offer['id'] == 'eastwood-charlotte-move-in-package'
+            ))
+
 
 if __name__ == '__main__':
     unittest.main()

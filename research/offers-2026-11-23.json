@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-23",
+  "reviewed": "2026-11-25",
   "method": "Current official builder pages and current search-indexed official builder listings only. Third-party claims are excluded; unavailable terms are not inferred. Official-source verification completed November 23, 2026.",
   "offers": [
     {
@@ -778,7 +778,7 @@
       "source": "https://proddamintegration.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/lower-monthly-payments-2026",
       "sourceName": "M/I Homes",
       "detail": "M/I Homes' current official Lower Monthly Payments page advertises a 5.25% fixed rate with a 6.039% APR on a 30-year FHA loan for select Charlotte-area quick move-in homes. The illustration uses a $350,000 sales price, $337,750 base loan amount, $343,660 financed amount including 1.75% upfront mortgage insurance, 3.5% down and a 640 minimum credit score. The program applies to new contracts written on or after November 9 and by December 1, 2026; homes must close by December 31. Buyers must finance through M/I Financial, occupy the home as a primary residence, apply within 48 hours of contract signing and satisfy FHA county loan limits. Cancellations, rewrites and transfers are excluded.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-01",
       "start": "2026-11-09",
@@ -792,7 +792,7 @@
         "move"
       ],
       "terms": "Contract Nov. 9–Dec. 1 · close by Dec. 31 · select QMI · 640 minimum score · 3.5% down · no rewrites or transfers",
-      "access": "Full current official M/I Charlotte financing page and legal terms reviewed November 23",
+      "access": "Current official M/I Homes financing page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -811,7 +811,7 @@
       "source": "https://www.mihomes.com/new-homes/north-carolina/charlotte-metro/incentives/lower-monthly-payments-2026",
       "sourceName": "M/I Homes",
       "detail": "M/I Homes' current official Lower Monthly Payments page advertises a 4.875% Conventional 7/6 ARM with a 5.763% APR on select Charlotte-area quick move-in homes. The illustration assumes 20% down. The rate is fixed for 84 payments, then adjusts every six months using the 30-day average SOFR index plus a 2.75% margin. The first adjustment may move by up to five percentage points; later six-month adjustments are capped at one point, with a 2.75% lifetime minimum and 9.875% lifetime maximum. The program applies to new contracts through December 1, 2026 and requires closing by December 31, financing through M/I Financial, primary occupancy and a mortgage application within 48 hours. Cancellations, rewrites and transfers are excluded. The current legal text does not state a universal minimum credit score, so it remains unavailable.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-01",
       "start": "2026-11-09",
@@ -825,7 +825,7 @@
         "move"
       ],
       "terms": "Contract by Dec. 1 · close by Dec. 31 · select QMI · 20% down illustration · adjusts after 84 months · no rewrites or transfers",
-      "access": "Full current official M/I Charlotte financing page and legal terms reviewed November 23",
+      "access": "Current official M/I Homes financing page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -1052,7 +1052,7 @@
       "source": "https://www.davidweekleyhomes.com/promo/50th-anniversary-charlotte",
       "sourceName": "David Weekley Homes",
       "detail": "David Weekley's current Half a Century of Home Sweet Home program offers one incentive equal to 7% of the final sales price, capped at $40,000, on select Charlotte-area quick move-in homes. The incentive may be used either as a home discount or as a financing incentive; the alternatives are not additive. Purchase agreements must be signed November 1–December 6, 2026 and eligible homes must close by December 22. Financing-incentive use requires Grace Home Lending and is subject to lender and regulatory seller-contribution limits. The offer must be presented before signing, excludes prior contracts, lot premiums and options, and cannot be combined with another offer. The public terms do not publish a note rate, APR, loan type, term, minimum score, down payment or complete eligible-home list, so those fields remain unavailable. The headline language is broader than the financing disclosure, so lender requirements for the pure discount path should be confirmed with the builder.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "start": "2026-11-01",
       "end": "2026-12-06",
@@ -1086,7 +1086,7 @@
       "source": "https://www.davidweekleyhomes.com/promo/preferred-lender-credit-charlotte",
       "sourceName": "David Weekley Homes",
       "detail": "David Weekley offers up to $5,000 toward closing costs or a mortgage-rate buydown on a Charlotte-area home purchased between April 29 and December 31, 2026 when the buyer finances with Grace Home Lending and qualifies. The two uses are alternatives rather than separate stackable amounts. The offer must be presented before signing. The official terms do not state a specific rate, APR, loan type, minimum credit score, eligible-address list or required closing date, so those items remain unavailable.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-31",
       "start": "2026-04-29",
@@ -1363,46 +1363,40 @@
     {
       "id": "eastwood-charlotte-closing-costs",
       "b": "Eastwood Homes",
-      "c": "Current Charlotte-area closing-cost panels",
+      "c": "Chasewood · Enclave at Riverdale",
       "city": "Charlotte metro, NC",
       "counties": [],
-      "offer": "Up to $5,000 closing costs · Robinson Oaks up to $7,500 · Carrington up to $10,000 or $3,500 in separate panels",
+      "offer": "Chasewood up to $5,000 closing costs · Enclave at Riverdale up to $3,500",
       "tags": [
         "closing"
       ],
       "kind": "official",
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's current official Specials page advertises up to $5,000 toward closing costs on select quick move-in homes at 12 Charlotte-area communities: Chasewood, Bryton Crossing Townhomes, Caldwell Forest, Rone Creek, Rock Creek, Blythe Mill Townhomes, Robinson Oaks, Founders Landing, The Fairways at Springlake, Waterford Commons, The Greens at Springlake and Norman Creek. Meadows at Laurelbrook and Harrisburg Village Townhomes no longer appear in this $5,000 panel. A separate current panel advertises up to $7,500 at Robinson Oaks. Carrington appears in two separate current panels—up to $10,000 and up to $3,500—and the site does not add or assume they stack. An Eastwood preferred lender is required. Rate, APR, loan type, score, contract deadline, closing deadline, exact eligible-address lists and stacking terms are unavailable.",
-      "checked": "2026-11-20",
+      "detail": "Eastwood's current official Specials page advertises up to $5,000 toward closing costs on select Chasewood homes and a separate up-to-$3,500 closing-cost panel for select Enclave at Riverdale homes. The prior broad Robinson Oaks and Carrington tiers are no longer reproduced on the current page and are not carried forward. The page does not publish a promotional rate, APR, loan type, score, down payment, contract deadline, closing deadline, exact eligible-home list or stacking rule for these two panels. No omitted term is inferred.",
+      "checked": "2026-11-25",
       "published": null,
       "end": null,
       "start": null,
       "close": null,
       "rate": null,
       "apr": null,
-      "amount": 10000,
-      "loan": "No promotional rate, APR, loan type or credit-score requirement stated",
-      "lender": "Eastwood Homes preferred lender required",
+      "amount": 5000,
+      "loan": "No promotional rate, APR, loan type, score or down-payment requirement stated",
+      "lender": "Current panels do not identify a required lender",
       "flags": [
         "move"
       ],
-      "terms": "Preferred lender required · $5,000 panel now lists 12 Charlotte-area communities · separate Robinson Oaks and Carrington tiers · deadlines unavailable",
-      "access": "Full current official Specials page reviewed November 17",
-      "extraSources": [
-        {
-          "name": "Robinson Oaks",
-          "url": "https://www.eastwoodhomes.com/charlotte/gastonia/robinson-oaks",
-          "note": "Official participating community page"
-        }
-      ],
+      "terms": "Select Chasewood and Enclave at Riverdale homes · deadlines, eligible homes and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 25",
+      "extraSources": [],
       "deadlineType": "Offer deadline",
       "tag": "closing"
     },
     {
       "id": "eastwood-charlotte-move-in-package",
       "b": "Eastwood Homes",
-      "c": "13 Charlotte-area communities",
+      "c": "8 Charlotte-area communities",
       "city": "Charlotte metro · NC & SC",
       "counties": [],
       "offer": "Refrigerator + washer/dryer + blinds package",
@@ -1412,8 +1406,8 @@
       "kind": "official",
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's current official Specials page advertises a move-in package consisting of a stainless-steel side-by-side refrigerator, washer and dryer, and window blinds on select homes in 13 Charlotte-area communities: Norman Creek Townhomes, Founders Landing, Ashton Park, Caldwell Forest, Waterford Commons, The Fairways at Springlake, Enclave at Riverdale, Carrington, The Greens at Springlake, Norman Creek, The Meadows at Laurelbrook, Robinson Oaks and The Enclave at Laurelbrook. The page does not publish a dollar value, lender requirement, loan condition, contract deadline, closing deadline or stacking rule for this package, so those terms remain unavailable rather than inferred.",
-      "checked": "2026-11-20",
+      "detail": "Eastwood's current official Specials page advertises a move-in package consisting of a side-by-side refrigerator, washer and dryer, and window blinds on select homes in eight Charlotte-area communities: Norman Creek Townhomes, Caldwell Forest, Ashton Park, Bryton Crossing Townhomes, Blythe Mill Townhomes, Norman Creek, Harrisburg Village Townhomes and Robinson Oaks. The page does not publish a dollar value, lender requirement, loan condition, contract deadline, closing deadline or stacking rule; those fields remain unavailable rather than inferred.",
+      "checked": "2026-11-25",
       "published": null,
       "end": null,
       "start": null,
@@ -1426,8 +1420,8 @@
       "flags": [
         "move"
       ],
-      "terms": "Select homes at 13 Charlotte-area communities · value, deadline and stacking unavailable",
-      "access": "Full current official Specials page reviewed November 17; current community participation preserved",
+      "terms": "Select homes at 8 Charlotte-area communities · value, deadline and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Offer deadline",
       "tag": "upgrade"
@@ -2493,7 +2487,7 @@
       "source": "https://www.smithdouglas.com/communities/charlotte-nc",
       "sourceName": "Smith Douglas Homes",
       "detail": "Smith Douglas Homes' current Charlotte market page lists 14 communities. Dawson Landing, Rowe Crossing, Catawba Trace, Winecoff, Paw Creek, Ember Glen, Cedar Meadows and Sunset Meadows are Grand Opening or Now Selling. Rogers Pond, Vistas at Cramerton, Miranda Road and Highland Grove are Coming Soon. Country Club Village and Hickory Glen are labeled Sold Out. The Charlotte-city directory independently confirms Paw Creek as Grand Opening and Now Selling, Miranda Road as Coming Soon, and Hickory Glen as Sold Out. Builder labels are preserved without inferring availability at individual homesites.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "start": null,
       "end": null,
@@ -2505,7 +2499,7 @@
       "lender": "Not applicable",
       "flags": [],
       "terms": "Official market page · 14 communities · Country Club Village and Hickory Glen sold out · four communities coming soon",
-      "access": "Current official Charlotte market and Charlotte-city directories reviewed November 20",
+      "access": "Current official Charlotte market and Charlotte-city directories reviewed November 25",
       "extraSources": [
         {
           "name": "Google Maps directions",
@@ -2658,7 +2652,7 @@
       "source": "https://www.drhorton.com/north-carolina/charlotte/inventory",
       "sourceName": "D.R. Horton",
       "detail": "D.R. Horton's current Charlotte inventory directory reports 30 communities and 259 homes for sale. Its separate regional directory reports 350 homes, labels Falls Cove Sold Out and Ashenwood Commons Coming Soon, and lists other active and final-opportunity communities. The site presents both official counts because they come from different builder directories; neither is inferred to represent sales. Community map locations remain based on builder-published addresses.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "end": null,
       "start": null,
@@ -2751,7 +2745,7 @@
     {
       "id": "eastwood-charlotte-free-blinds",
       "b": "Eastwood Homes",
-      "c": "Chasewood · Rone Creek · Blythe Mill Townhomes",
+      "c": "Chasewood · Blythe Mill Townhomes",
       "city": "Charlotte metro, NC",
       "counties": [
         "Mecklenburg",
@@ -2764,8 +2758,8 @@
       "kind": "official",
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's current official Specials page advertises free window blinds on select homes at Chasewood in Charlotte, Rone Creek in Waxhaw and Blythe Mill Townhomes in Waxhaw. The page does not publish a retail value, lender or loan requirement, contract deadline, closing deadline, eligibility by homesite or stacking rule. Those fields remain unavailable rather than inferred.",
-      "checked": "2026-11-16",
+      "detail": "Eastwood's current official Specials page advertises free window blinds on select homes at Chasewood in Charlotte and Blythe Mill Townhomes in Waxhaw. Rone Creek is no longer listed in this standalone blinds panel. The page does not publish a retail value, lender or loan requirement, contract deadline, closing deadline, eligibility by homesite or stacking rule; those fields remain unavailable rather than inferred.",
+      "checked": "2026-11-25",
       "published": null,
       "end": null,
       "start": null,
@@ -2778,8 +2772,8 @@
       "flags": [
         "move"
       ],
-      "terms": "Select homes at three communities · value, deadline and stacking unavailable",
-      "access": "Full current official Specials page reviewed November 16",
+      "terms": "Select homes at two communities · value, deadline and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Offer deadline",
       "tag": "upgrade"
@@ -2842,7 +2836,7 @@
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
       "detail": "Eastwood's current Big Red Bow event advertises below-market interest rates on select homes at 16 Charlotte-area communities: Ashton Park, Blythe Mill Townhomes, Bryton Crossing Townhomes, Caldwell Forest, Carrington, Enclave at Riverdale, Harrisburg Village Townhomes, Norman Creek, Norman Creek Townhomes, Robinson Oaks, Rone Creek, The Enclave at Laurelbrook, The Fairways at Springlake, The Greens at Springlake, The Meadows at Laurelbrook and Waterford Commons. Buyers must purchase by December 31, 2026. The public panel does not publish the note rate, APR, loan type, lender, minimum score, down payment, closing deadline, points or stacking rule; those terms remain unavailable.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-31",
       "start": null,
@@ -2856,7 +2850,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select homes at 16 named communities · financing details unavailable",
-      "access": "Full current official Specials page reviewed November 18",
+      "access": "Full current official Specials page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -2878,7 +2872,7 @@
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
       "detail": "Eastwood's Big Red Bow event advertises up to $20,000 in Design Options on select Chasewood homes and up to $15,000 on select Rock Creek homes purchased by December 31, 2026. The public panels do not state a lender requirement, cash value, loan condition, closing deadline, eligible-homesite list or stacking rule.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-31",
       "start": null,
@@ -2892,7 +2886,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select homes · up to $20,000 Chasewood / $15,000 Rock Creek",
-      "access": "Full current official Specials page reviewed November 16",
+      "access": "Full current official Specials page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "upgrade"
@@ -2900,20 +2894,20 @@
     {
       "id": "eastwood-big-red-bow-package-dec31",
       "b": "Eastwood Homes",
-      "c": "Founders Landing · Robinson Oaks",
+      "c": "Founders Landing 55+",
       "city": "Gastonia, NC",
       "counties": [
         "Gaston"
       ],
-      "offer": "Refrigerator + washer/dryer + whole-house blinds package",
+      "offer": "Refrigerator + washer/dryer package",
       "tags": [
         "upgrade"
       ],
       "kind": "official",
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's Big Red Bow event offers a refrigerator, washer, dryer and whole-house blinds package on select homes at Founders Landing 55+ and Robinson Oaks purchased by December 31, 2026. The public panel does not publish a dollar value, lender requirement, loan condition, closing deadline or stacking rule.",
-      "checked": "2026-11-23",
+      "detail": "Eastwood's current Big Red Bow panel offers a side-by-side refrigerator, washer and dryer on select homes at Founders Landing 55+ purchased by December 31, 2026. Robinson Oaks and window blinds are not listed in this panel today and are not carried forward. The public panel does not publish a dollar value, lender requirement, loan condition, closing deadline or stacking rule.",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-31",
       "start": null,
@@ -2926,8 +2920,8 @@
       "flags": [
         "move"
       ],
-      "terms": "Purchase by Dec. 31 · select homes · package value and stacking unavailable",
-      "access": "Full current official Specials page reviewed November 16",
+      "terms": "Purchase by Dec. 31 · select Founders Landing homes · package value and stacking unavailable",
+      "access": "Full current official Specials page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "upgrade"
@@ -2940,16 +2934,16 @@
       "counties": [
         "Union"
       ],
-      "offer": "Below-market rates + up to $5,000 closing costs",
+      "offer": "Unavailable: prior Below-market rates + up to $5,000 closing costs",
       "tags": [
         "rate",
         "closing"
       ],
-      "kind": "official",
+      "kind": "historical",
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's Big Red Bow event advertises below-market interest rates plus up to $5,000 toward closing costs on select homes at Ashton Park and Blythe Mill Townhomes purchased by December 31, 2026. The public panel does not publish the note rate, APR, lender, loan type, minimum score, down payment, closing deadline, points or stacking rules.",
-      "checked": "2026-11-20",
+      "detail": "The prior panel is not reproduced on Eastwood's current official Specials page as of November 25, 2026. Its earlier wording is retained only for audit history and is excluded from the current comparison. Current amount, eligibility, lender conditions, financing terms and deadlines are unavailable.",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-31",
       "start": null,
@@ -2963,7 +2957,7 @@
         "move"
       ],
       "terms": "Purchase by Dec. 31 · select Ashton Park and Blythe Mill homes · exact financing terms unavailable",
-      "access": "Full current official Specials page reviewed November 16",
+      "access": "Current official Specials page reviewed November 25; prior panel not reproduced",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -2976,7 +2970,7 @@
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "Below-market rates + refrigerator + washer/dryer + whole-house blinds",
+      "offer": "Below-market-rate panel + separate refrigerator, washer/dryer and blinds panel",
       "tags": [
         "rate",
         "upgrade"
@@ -2984,8 +2978,8 @@
       "kind": "official",
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's Big Red Bow event advertises below-market interest rates plus a refrigerator, washer, dryer and whole-house blinds package on select Bryton Crossing townhomes purchased by December 31, 2026. Although the panel's result list displays six communities, its offer text names Bryton Crossing specifically; this record therefore does not extend the claim to the other five without clearer builder terms. The note rate, APR, lender, loan type, score, down payment, package value, closing deadline and stacking rules remain unavailable.",
-      "checked": "2026-11-20",
+      "detail": "Eastwood's current official Specials page lists Bryton Crossing Townhomes in both its Charlotte below-market-rate panel and its separate eight-community refrigerator, washer/dryer and blinds package panel. Because the current page does not expressly state that the two promotions stack, this record preserves them as separate available panels rather than promising a combined benefit. Exact rate, APR, lender, loan type, score, down payment, package value, closing deadline, eligible homesites and stacking terms remain unavailable.",
+      "checked": "2026-11-25",
       "published": null,
       "end": "2026-12-31",
       "start": null,
@@ -2998,8 +2992,8 @@
       "flags": [
         "move"
       ],
-      "terms": "Purchase by Dec. 31 · select Bryton Crossing townhomes · exact rate, APR and package value unavailable",
-      "access": "Full current official Specials page reviewed November 16",
+      "terms": "Purchase by Dec. 31 for the rate panel · separate package panel · stacking and exact financing terms unavailable",
+      "access": "Full current official Specials page reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -3491,35 +3485,36 @@
     {
       "id": "smith-paw-vip-pricing-current",
       "b": "Smith Douglas Homes",
-      "c": "Paw Creek",
+      "c": "Paw Creek · 5418 Starfall Way · Lot 3",
       "city": "Charlotte, NC",
       "counties": [
         "Mecklenburg"
       ],
-      "offer": "VIP pre-sale pricing · amount and deadline unavailable",
+      "offer": "Up to $16,000 closing costs + move-in package",
       "tags": [
-        "price"
+        "closing",
+        "upgrade"
       ],
       "kind": "official",
-      "source": "https://www.smithdouglas.com/communities/charlotte-nc",
+      "source": "https://www.smithdouglas.com/homes/charlotte-nc/charlotte/paw-creek/5418-starfall-way",
       "sourceName": "Smith Douglas Homes",
-      "detail": "Smith Douglas Homes' current Charlotte directory labels Paw Creek Grand Opening and advertises VIP pre-sale pricing. It does not publish a discount amount, eligible homesites, contract or closing deadline, lender requirement, rate, APR, score, down payment or stacking terms. No amount is inferred from older offers or individual asking prices.",
-      "checked": "2026-11-16",
+      "detail": "Smith Douglas Homes' current official listing for 5418 Starfall Way, Lot 3 at Paw Creek advertises up to $16,000 in closing costs plus a move-in package. The home is shown as available February 2027. The page promotes Ridgeland Mortgage for qualification and says preferred-lender customers may receive closing-cost assistance, but the offer headline does not publish a promotional note rate, APR, minimum score, down payment, contract deadline, closing deadline, package contents, allocation rules or stacking terms. Those fields remain unavailable.",
+      "checked": "2026-11-25",
       "published": null,
       "start": null,
       "end": null,
       "close": null,
       "rate": null,
       "apr": null,
-      "amount": null,
-      "loan": "Current headline does not publish financing conditions",
-      "lender": "No lender requirement stated",
+      "amount": 16000,
+      "loan": "FHA, VA, Conventional or USDA options mentioned; offer-specific rate, APR, score and down payment unavailable",
+      "lender": "Ridgeland Mortgage promoted; offer-specific affiliated-lender requirement is not stated in the headline",
       "flags": [],
-      "terms": "Grand Opening · VIP pre-sale pricing · amount, eligibility and deadlines unavailable",
-      "access": "Current official Charlotte market directory reviewed November 16",
+      "terms": "5418 Starfall Way, Lot 3 · available Feb. 2027 · up to $16,000 + package · deadlines and package contents unavailable",
+      "access": "Current official home listing reviewed November 25",
       "extraSources": [],
       "deadlineType": "Offer deadline",
-      "tag": "price"
+      "tag": "closing"
     },
     {
       "id": "smith-rowe-current-inventory-16k",
@@ -4092,11 +4087,11 @@
     {
       "city": "Charlotte metro · NC & SC",
       "counties": [],
-      "kind": "official",
-      "checked": "2026-11-23",
+      "kind": "historical",
+      "checked": "2026-11-25",
       "published": null,
-      "start": null,
-      "close": null,
+      "start": "2026-10-07",
+      "close": "2026-12-20",
       "flags": [
         "move"
       ],
@@ -4105,22 +4100,22 @@
       "id": "meritage-charlotte-flex-cash-current-nov20",
       "b": "Meritage Homes",
       "c": "Select Charlotte-area homes",
-      "offer": "Up to $25,000 Flex Cash toward closing costs, interest-rate reduction or both",
+      "offer": "Expired: prior up to $25,000 Flex Cash toward closing costs, rate reduction or both",
       "tags": [
         "closing",
         "rate"
       ],
-      "source": "https://www.meritagehomes.com/state/nc/charlotte?sqmi=1",
+      "source": "https://www.meritagehomes.com/promotion/9996433",
       "sourceName": "Meritage Homes",
-      "detail": "Meritage's current official Charlotte directory advertises up to $25,000 in Flex Cash on select homes, usable to reduce the interest rate, closing costs or both. The currently visible public Charlotte page does not publish a promotional note rate, APR, loan type, minimum score, down payment, eligible-home list, lender/title requirement, contract deadline, closing deadline or stacking rules. Those fields remain unavailable rather than carrying forward the expired November 15 terms from the prior event.",
-      "end": null,
+      "detail": "Meritage's located official legal terms limited this prior Flex Cash promotion to contracts from October 7 through October 31, 2026, with eligible homes closing by December 20, 2026. The promotion URL now returns unavailable, and no current official replacement with matching terms was located on November 25. The record is retained for audit history and excluded from the current comparison.",
+      "end": "2026-10-31",
       "rate": null,
       "apr": null,
       "amount": 25000,
       "loan": "Rate buydown permitted; note rate, APR, loan type, score and down payment unavailable",
       "lender": "Current public Charlotte page does not identify a required lender or title company",
-      "terms": "Select Charlotte-area homes · current deadline, lender conditions, eligible homes and stacking unavailable",
-      "access": "Current official Charlotte directory reviewed November 20; current legal detail link was not exposed in the public page text",
+      "terms": "Historical contract window Oct. 7–31 · close by Dec. 20 · current replacement unavailable",
+      "access": "Official legal terms located and checked November 25; promotion URL now unavailable",
       "tag": "closing"
     },
     {
@@ -4128,8 +4123,8 @@
       "counties": [
         "Mecklenburg"
       ],
-      "kind": "official",
-      "checked": "2026-11-23",
+      "kind": "historical",
+      "checked": "2026-11-25",
       "published": null,
       "start": null,
       "close": null,
@@ -4141,14 +4136,14 @@
       "id": "eastwood-big-red-bow-bow-bucks-21k",
       "b": "Eastwood Homes",
       "c": "Academy Park · select new homes",
-      "offer": "Up to $21,000 Bow Bucks toward closing costs or a rate buydown",
+      "offer": "Unavailable: prior Up to $21,000 Bow Bucks toward closing costs or a rate buydown",
       "tags": [
         "closing",
         "rate"
       ],
       "source": "https://www.eastwoodhomes.com/special-offers",
       "sourceName": "Eastwood Homes",
-      "detail": "Eastwood's current official Specials page adds up to $21,000 in Bow Bucks on select new homes at Academy Park. The credit may be used toward closing costs or a rate buydown, and the home must be purchased by December 31, 2026. The public panel does not publish the note rate, APR, loan type, lender, minimum score, down payment, closing deadline, exact homesites, allocation limits or stacking rules; those fields remain unavailable.",
+      "detail": "The prior panel is not reproduced on Eastwood's current official Specials page as of November 25, 2026. Its earlier wording is retained only for audit history and is excluded from the current comparison. Current amount, eligibility, lender conditions, financing terms and deadlines are unavailable.",
       "end": "2026-12-31",
       "rate": null,
       "apr": null,
@@ -4156,7 +4151,7 @@
       "loan": "Rate buydown permitted; note rate, APR, loan type, score and down payment unavailable",
       "lender": "Current public panel does not identify a required lender",
       "terms": "Purchase by Dec. 31 · select Academy Park homes · current financing and stacking details unavailable",
-      "access": "Full current official Eastwood Specials page reviewed November 20",
+      "access": "Current official Specials page reviewed November 25; prior panel not reproduced",
       "tag": "closing"
     },
     {
@@ -4536,7 +4531,7 @@
       "source": "https://www.lennar.com/new-homes/north-carolina/charlotte",
       "sourceName": "Lennar",
       "detail": "Lennar's current official Charlotte market page reports 23 communities and 153 available homes. It still links to the Black Friday promotion whose legal contract window ended November 22, so that financing card is hidden from the current comparison and no replacement terms are inferred. The community count is a current builder-directory snapshot, not a sales count.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "start": null,
       "end": null,
@@ -4602,7 +4597,7 @@
       "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/black-friday",
       "sourceName": "Mattamy Homes",
       "detail": "Mattamy Homes' Black Friday promotion advertises a 4.75% starting rate and 6.43% APR on a 30-year FHA 5/1 ARM for select Charlotte quick move-in homes. The illustration uses a $472,000 purchase price, $463,450 loan, 3.5% down, a 640 median credit score, owner occupancy and upfront FHA mortgage insurance. The initial rate applies for 60 months, then may adjust annually using the 30-Day Average Treasury Rate index plus a 2.00% margin, with 1% first and annual caps and a 5% lifetime cap to 9.75%. Contracts must be entered November 23–29, 2026 and the eligible home must close by November 29. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Rewrites, transfers and prior canceled contracts are excluded; no stacking is allowed except where expressly written in the purchase addendum.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "start": "2026-11-23",
       "end": "2026-11-29",
@@ -4616,7 +4611,7 @@
         "move"
       ],
       "terms": "Contract Nov. 23–29 · close by Nov. 29 · select QMI homes · 640 score and 3.5% down illustration · pre-apply before offer",
-      "access": "Full current official promotion and legal terms reviewed November 23",
+      "access": "Current official promotion and legal terms reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "rate"
@@ -4640,7 +4635,7 @@
       "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/black-friday",
       "sourceName": "Mattamy Homes",
       "detail": "Mattamy's Black Friday headline says all closing costs are covered, including lender, title, government, appraisal and credit-report fees. The controlling legal terms cap the seller contribution at 4% of total purchase price and permit it to fund those costs, prepaids, discount points, a temporary buydown and up to one year of HOA dues capped at $1,176. Contracts must be entered November 23–29, 2026 and the home must close by November 29. Buyers must pre-apply before submitting an offer, finance through Mattamy Home Funding and use the seller-selected closing agent. Maximum contribution and underwriting limits apply; rewrites, transfers, prior canceled contracts and general stacking are excluded.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "start": "2026-11-23",
       "end": "2026-11-29",
@@ -4654,7 +4649,7 @@
         "move"
       ],
       "terms": "Contract Nov. 23–29 · close by Nov. 29 · headline says all closing costs, legally capped at 4% · HOA dues capped at $1,176",
-      "access": "Full current official promotion and legal terms reviewed November 23",
+      "access": "Current official promotion and legal terms reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
       "tag": "closing"
@@ -4677,7 +4672,7 @@
       "source": "https://mattamyhomes.com/north-carolina/charlotte/promos/black-friday",
       "sourceName": "Mattamy Homes",
       "detail": "Mattamy's separate Black Friday appliance incentive provides a refrigerator, washer and dryer package with an estimated retail value of $3,796 on eligible new Charlotte quick move-in contracts entered November 23–30, 2026 that close by December 31. The appliance incentive is distinct from the financing offer, is available to cash or financed buyers and does not require Mattamy Home Funding. Published appliance models may be substituted, and the package cannot be exchanged for cash or other options. Rewrites, transfers and prior canceled contracts are excluded.",
-      "checked": "2026-11-23",
+      "checked": "2026-11-25",
       "published": null,
       "start": "2026-11-23",
       "end": "2026-11-30",
@@ -4691,9 +4686,42 @@
         "move"
       ],
       "terms": "Contract Nov. 23–30 · close by Dec. 31 · select QMI homes · specified appliances · no cash substitution",
-      "access": "Full current official promotion and legal terms reviewed November 23",
+      "access": "Current official promotion and legal terms reviewed November 25",
       "extraSources": [],
       "deadlineType": "Contract deadline",
+      "tag": "upgrade"
+    },
+    {
+      "id": "eastwood-charlotte-appliance-package-11-current",
+      "b": "Eastwood Homes",
+      "c": "11 Charlotte-area communities",
+      "city": "Charlotte metro · NC & SC",
+      "counties": [],
+      "offer": "Refrigerator + washer/dryer package",
+      "tags": [
+        "upgrade"
+      ],
+      "kind": "official",
+      "source": "https://www.eastwoodhomes.com/special-offers",
+      "sourceName": "Eastwood Homes",
+      "detail": "Eastwood's current official Specials page advertises a side-by-side refrigerator, washer and dryer on select homes in 11 Charlotte-area communities: Waterford Commons, Bryton Crossing Townhomes, The Fairways at Springlake, Rone Creek, Enclave at Riverdale, Carrington, The Greens at Springlake, The Meadows at Laurelbrook, The Enclave at Laurelbrook, Chasewood and Rock Creek. Window blinds are not included in this 11-community panel. The page does not publish a dollar value, lender or loan requirement, contract deadline, closing deadline, exact homesites or stacking rule.",
+      "checked": "2026-11-25",
+      "published": null,
+      "start": null,
+      "end": null,
+      "close": null,
+      "rate": null,
+      "apr": null,
+      "amount": null,
+      "loan": "No financing requirement stated",
+      "lender": "No lender requirement stated",
+      "flags": [
+        "move"
+      ],
+      "terms": "Select homes at 11 communities · refrigerator, washer and dryer · no blinds in this panel · value and deadlines unavailable",
+      "access": "Full current official Specials page reviewed November 25",
+      "extraSources": [],
+      "deadlineType": "Offer deadline",
       "tag": "upgrade"
     }
   ]
