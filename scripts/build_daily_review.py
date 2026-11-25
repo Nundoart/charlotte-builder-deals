@@ -237,6 +237,12 @@ index = re.sub(
 )
 index = re.sub(r'const RESEARCH_DATE="[^"]+";', f'const RESEARCH_DATE="{reviewed}";', index)
 index = re.sub(r'const deals=\[.*?\];\nconst \$=', f'const deals={deals_json};\nconst $=', index, flags=re.S)
+index = re.sub(
+    r"function isExpired\(d,at=today\(\)\)\{return .*?\}",
+    "function isExpired(d,at=today()){return d.kind!=='official'||(!!d.end&&d.end<at)}",
+    index,
+    count=1,
+)
 index = re.sub(r'Reviewed [A-Z][a-z]+ \d{1,2}, 2026', f'Reviewed {reviewed_human}', index)
 index = re.sub(
     r'<b id="dealCount">\d+</b><span>[^<]+</span>',

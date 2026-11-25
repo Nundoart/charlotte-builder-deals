@@ -57,7 +57,7 @@ function persist(){try{localStorage.setItem('cbd-compare',JSON.stringify(compare
 
 function label(t){return ({rate:'Financing',closing:'Closing costs',price:'Price savings',upgrade:'Upgrades / package'})[t]||t}
 function today(){const local=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());return local>RESEARCH_DATE?local:RESEARCH_DATE}
-function isExpired(d,at=today()){return !!d.end&&d.end<at}
+function isExpired(d,at=today()){return d.kind!=='official'||(!!d.end&&d.end<at)}
 function hasPublishedOffer(d){return d.tags.length>0}
 function dateText(x){return x?new Intl.DateTimeFormat('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(x+'T12:00:00Z')):'Not stated'}
 function evidence(d){if(isExpired(d))return 'Expired · '+dateText(d.end);return ({official:'Builder website reviewed',realtor:'Realtor-reported · unconfirmed',social:'Social excerpt · unconfirmed',indexed:'Indexed builder page · unconfirmed'})[d.kind]}

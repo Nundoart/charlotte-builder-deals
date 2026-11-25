@@ -114,6 +114,7 @@ class DailyReviewTests(unittest.TestCase):
             self.assertEqual('2026-12-31', mattamy['mattamy-black-friday-appliances-nov30']['close'])
 
             self.assertIn('Reviewed November 25, 2026', index)
+            self.assertIn("function isExpired(d,at=today()){return d.kind!=='official'||(!!d.end&&d.end<at)}", index)
             self.assertEqual(1, client_ids.count('eastwood-charlotte-appliance-package-11-current'))
             self.assertEqual(1, index.count('id="offer-eastwood-charlotte-appliance-package-11-current"'))
             meritage_history = next(
