@@ -115,6 +115,38 @@ class DailyReviewTests(unittest.TestCase):
 
             self.assertIn('Reviewed November 25, 2026', index)
             self.assertIn("function isExpired(d,at=today()){return d.kind!=='official'||(!!d.end&&d.end<at)}", index)
+
+            lennar = next(o for o in snapshot['offers'] if o['id'] == 'lennar-black-friday-nov23-nov29-rate')
+            self.assertEqual('2026-11-29', lennar['end'])
+            self.assertEqual('2027-01-25', lennar['close'])
+            self.assertEqual(4.375, lennar['rate'])
+            self.assertEqual(7.454, lennar['apr'])
+
+            self.assertEqual(1, client_ids.count('lennar-black-friday-nov23-nov29-rate'))
+            self.assertEqual(1, index.count('id="offer-lennar-black-friday-nov23-nov29-rate"'))
+
+            weekley_status = next(o for o in snapshot['offers'] if o['id'] == 'david-weekley-charlotte-city-status-nov20')
+            self.assertIn('3 Now Selling', weekley_status['offer'])
+            self.assertIn('3 Coming Soon', weekley_status['offer'])
+
+            dr_status = next(o for o in snapshot['offers'] if o['id'] == 'drhorton-charlotte-community-status')
+            self.assertIn('258 inventory homes', dr_status['offer'])
+
+            tri_status = next(o for o in snapshot['offers'] if o['id'] == 'tripointe-charlotte-community-status-nov20')
+            self.assertIn('15 available communities', tri_status['offer'])
+
+            drb_rate = next(o for o in snapshot['offers'] if o['id'] == 'drb-charlotte-fha-arm-current')
+            self.assertEqual('official', drb_rate['kind'])
+            self.assertEqual(4.99, drb_rate['rate'])
+            self.assertEqual(6.679, drb_rate['apr'])
+
+            true_credit = next(o for o in snapshot['offers'] if o['id'] == 'true-preferred-lender-credit')
+            self.assertEqual('historical', true_credit['kind'])
+            self.assertNotIn('offer-true-preferred-lender-credit', index)
+
+            mi_cards = [o for o in snapshot['offers'] if o['id'] in {'mi-home-sweet-fha', 'mi-home-sweet-arm'}]
+            self.assertEqual(2, len(mi_cards))
+            self.assertTrue(all(o['end'] == '2026-12-01' and o['close'] == '2026-12-31' for o in mi_cards))
             self.assertEqual(1, client_ids.count('eastwood-charlotte-appliance-package-11-current'))
             self.assertEqual(1, index.count('id="offer-eastwood-charlotte-appliance-package-11-current"'))
             meritage_history = next(
