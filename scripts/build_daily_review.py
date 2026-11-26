@@ -86,7 +86,7 @@ if 'id="coverage-drh"' not in index:
     )
 index = re.sub(
     r'(<a id="coverage-drh"[^>]*>.*?<b>D\.R\. Horton</b><br><small>).*?(</small></a>)',
-    r'\g<1>30 inventory communities · 259 inventory homes; broader regional directory separately shows 350\g<2>',
+    r'\g<1>30 inventory communities · 258 inventory homes; broader regional directory separately shows 350\g<2>',
     index,
     count=1,
     flags=re.S,

@@ -131,6 +131,7 @@ class DailyReviewTests(unittest.TestCase):
 
             dr_status = next(o for o in snapshot['offers'] if o['id'] == 'drhorton-charlotte-community-status')
             self.assertIn('258 inventory homes', dr_status['offer'])
+            self.assertIn('30 inventory communities · 258 inventory homes; broader regional directory separately shows 350', index)
 
             tri_status = next(o for o in snapshot['offers'] if o['id'] == 'tripointe-charlotte-community-status-nov20')
             self.assertIn('15 available communities', tri_status['offer'])
