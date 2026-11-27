@@ -113,7 +113,7 @@ class DailyReviewTests(unittest.TestCase):
             self.assertEqual('2026-11-30', mattamy['mattamy-black-friday-appliances-nov30']['end'])
             self.assertEqual('2026-12-31', mattamy['mattamy-black-friday-appliances-nov30']['close'])
 
-            self.assertIn('Reviewed November 25, 2026', index)
+            self.assertIn('Reviewed November 26, 2026', index)
             self.assertIn("function isExpired(d,at=today()){return d.kind!=='official'||(!!d.end&&d.end<at)}", index)
 
             lennar = next(o for o in snapshot['offers'] if o['id'] == 'lennar-black-friday-nov23-nov29-rate')
@@ -161,10 +161,66 @@ class DailyReviewTests(unittest.TestCase):
             self.assertEqual(1, index.count('id="offer-smith-paw-vip-pricing-current"'))
             self.assertIn('Up to $16,000 closing costs + move-in package', index)
             self.assertEqual(1, client_ids.count('eastwood-charlotte-move-in-package'))
-            self.assertEqual('8 Charlotte-area communities', next(
+            self.assertEqual('7 Charlotte-area communities', next(
                 offer['c'] for offer in client_offers
                 if offer['id'] == 'eastwood-charlotte-move-in-package'
             ))
+
+            lennar_status = next(
+                offer for offer in client_offers
+                if offer['id'] == 'lennar-charlotte-community-status-nov23'
+            )
+            self.assertIn('116 move-in-ready', lennar_status['offer'])
+            self.assertNotIn('153 available homes', lennar_status['offer'])
+
+            drb_status = next(
+                offer for offer in client_offers
+                if offer['id'] == 'drb-charlotte-community-status-current'
+            )
+            self.assertIn('Withrow Heights actively listed', drb_status['offer'])
+            self.assertNotIn('Withrow Heights Coming Soon', drb_status['offer'])
+            self.assertIn('Withrow Heights · Active listing', index)
+
+            pulte = next(
+                offer for offer in client_offers
+                if offer['id'] == 'pulte-mallard-park-arm'
+            )
+            self.assertIn('5.998%–6.013% APR', pulte['offer'])
+            self.assertEqual(5.998, pulte['apr'])
+
+            for offer_id in {
+                'eastwood-blythe-flex1000-nov26',
+                'eastwood-laurelbrook-norman-flex5000-nov26',
+                'eastwood-carrington-fence-nov26',
+                'smith-ember-presale',
+                'smith-winecoff-presale',
+                'smith-rowe-presale',
+                'smith-cedar-meadows-presale',
+                'smith-catawba-trace-presale',
+                'smith-catawba-trace-inventory',
+            }:
+                self.assertEqual(1, client_ids.count(offer_id))
+                self.assertEqual(1, index.count(f'id="offer-{offer_id}"'))
+
+            for offer_id in {
+                'smith-ember-presale', 'smith-winecoff-presale',
+                'smith-rowe-presale', 'smith-cedar-meadows-presale',
+                'smith-catawba-trace-presale', 'smith-catawba-trace-inventory',
+            }:
+                self.assertEqual('2026-11-30', next(
+                    offer['end'] for offer in client_offers if offer['id'] == offer_id
+                ))
+
+            true_status = next(
+                offer for offer in client_offers
+                if offer['id'] == 'true-charlotte-community-status-current'
+            )
+            self.assertIn('no current offer-specific rate', true_status['loan'])
+            self.assertNotIn('current $2,000 preferred-lender credit', true_status['loan'])
+
+            self.assertEqual(1, client_ids.count('david-weekley-charlotte-city-status-nov20'))
+            self.assertEqual(1, client_ids.count('mi-home-sweet-fha'))
+            self.assertEqual(1, client_ids.count('mi-home-sweet-arm'))
 
 
 if __name__ == '__main__':
