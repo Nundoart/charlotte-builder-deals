@@ -113,7 +113,7 @@ class DailyReviewTests(unittest.TestCase):
             self.assertEqual('2026-11-30', mattamy['mattamy-black-friday-appliances-nov30']['end'])
             self.assertEqual('2026-12-31', mattamy['mattamy-black-friday-appliances-nov30']['close'])
 
-            self.assertIn('Reviewed November 26, 2026', index)
+            self.assertIn('Reviewed November 27, 2026', index)
             self.assertIn("function isExpired(d,at=today()){return d.kind!=='official'||(!!d.end&&d.end<at)}", index)
 
             lennar = next(o for o in snapshot['offers'] if o['id'] == 'lennar-black-friday-nov23-nov29-rate')
@@ -126,15 +126,16 @@ class DailyReviewTests(unittest.TestCase):
             self.assertEqual(1, index.count('id="offer-lennar-black-friday-nov23-nov29-rate"'))
 
             weekley_status = next(o for o in snapshot['offers'] if o['id'] == 'david-weekley-charlotte-city-status-nov20')
-            self.assertIn('3 Now Selling', weekley_status['offer'])
+            self.assertIn('4 Now Selling', weekley_status['offer'])
             self.assertIn('3 Coming Soon', weekley_status['offer'])
 
             dr_status = next(o for o in snapshot['offers'] if o['id'] == 'drhorton-charlotte-community-status')
-            self.assertIn('258 inventory homes', dr_status['offer'])
-            self.assertIn('30 inventory communities · 258 inventory homes; broader regional directory separately shows 350', index)
+            self.assertIn('44 inventory homes', dr_status['offer'])
+            self.assertIn('5 Charlotte-city inventory communities · 44 inventory homes · broader regional directory 350 homes', index)
 
             tri_status = next(o for o in snapshot['offers'] if o['id'] == 'tripointe-charlotte-community-status-nov20')
             self.assertIn('15 available communities', tri_status['offer'])
+            self.assertIn('67 available homes', tri_status['offer'])
 
             drb_rate = next(o for o in snapshot['offers'] if o['id'] == 'drb-charlotte-fha-arm-current')
             self.assertEqual('official', drb_rate['kind'])
@@ -185,8 +186,8 @@ class DailyReviewTests(unittest.TestCase):
                 offer for offer in client_offers
                 if offer['id'] == 'pulte-mallard-park-arm'
             )
-            self.assertIn('5.998%–6.013% APR', pulte['offer'])
-            self.assertEqual(5.998, pulte['apr'])
+            self.assertIn('5.968%–6.013% APR', pulte['offer'])
+            self.assertEqual(5.968, pulte['apr'])
 
             for offer_id in {
                 'eastwood-blythe-flex1000-nov26',
@@ -215,7 +216,7 @@ class DailyReviewTests(unittest.TestCase):
                 offer for offer in client_offers
                 if offer['id'] == 'true-charlotte-community-status-current'
             )
-            self.assertIn('no current offer-specific rate', true_status['loan'])
+            self.assertIn('no offer-specific rate', true_status['loan'])
             self.assertNotIn('current $2,000 preferred-lender credit', true_status['loan'])
 
             self.assertEqual(1, client_ids.count('david-weekley-charlotte-city-status-nov20'))
