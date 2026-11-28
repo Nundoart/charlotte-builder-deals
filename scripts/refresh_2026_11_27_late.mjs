@@ -24,6 +24,7 @@ for (const id of ['mi-home-sweet-fha', 'mi-home-sweet-arm', 'mi-holiday-of-homes
     access: 'Current official M/I Homes Charlotte incentive terms reverified November 27',
   });
 }
+byId('mi-home-sweet-arm').loan = 'Conventional 7/6 ARM · published illustration uses 20% down and 780 score · primary residence · $900 origination fee';
 
 // The complete live Mallard Park inventory includes additional homesites that
 // retain the previously published 5.968% lower APR example.
